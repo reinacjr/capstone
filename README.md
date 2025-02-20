@@ -1,6 +1,6 @@
 # Introduction
 
-This github repository is for storing datasets and code related to Project TROT
+This github repository is for storing datasets and code related to Project TROT for group 11.
 
 ## Data Dictionary for CRM Database
 

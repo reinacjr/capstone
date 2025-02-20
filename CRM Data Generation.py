@@ -53,11 +53,12 @@ def generate_lead_data(num_records=100):
     lead_sources = ["Website", "Trade Show", "Referral", "LinkedIn", "Email Campaign", 
                     "Webinar", "Social Media", "Partner", "Direct Mail", "Event"]
     
+    # TODO Check these status scope w/ joe
     statuses = ["New", "Contacted", "Qualified", "Proposal Sent", "Closed Won", "Closed Lost"]
 
     ratings = ["Hot", "Warm", "Cold"]
     
-    owner_ids = [f"USER-{i:03}" for i in range(1, 21)]  # Example: USER-001, USER-002, USER-003
+    owner_ids = [f"USER-{i:03}" for i in range(1, 21)]  # Example: USER-001, USER-002, USER-003 - 20 users, might wanna edit this later
 
     data = []
     for i in range(1, num_records + 1):
@@ -199,7 +200,7 @@ def generate_quote_data(num_records=100, opportunity_ids=None, account_ids=None)
         # ! check this name  // yes it's wrong we need to change this - examples include 
         # ! "ERP implementation etc" -- need to random choice this 
         name = f"Quote-{i:03}"  # Generic name, can be made more descriptive
-        
+
         account_id = random.choice(account_ids)
         quote_number = f"Q{datetime.now().year}-{i:03}"
         status = random.choice(statuses)
