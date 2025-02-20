@@ -82,9 +82,14 @@ def generate_lead_data(num_records=100):
         estimated_value = random.randint(25000, 250000)
 
         # TODO check if there are instances where the estimated close date is before the created date (for the rest too)
-        estimated_close_date = (datetime.now() + timedelta(days=random.randint(30, 365))).strftime("%Y-%m-%d")
+        # created_on = (datetime.now() - timedelta(days=random.randint(0, 90))).strftime("%Y-%m-%d")
+        # modified_on = (datetime.now() - timedelta(days=random.randint(0, 30))).strftime("%Y-%m-%d")
+        # estimated_close_date = (datetime.now()  + timedelta(days=random.randint(30, 365))).strftime("%Y-%m-%d")
+
         created_on = (datetime.now() - timedelta(days=random.randint(0, 90))).strftime("%Y-%m-%d")
-        modified_on = (datetime.now() - timedelta(days=random.randint(0, 30))).strftime("%Y-%m-%d")
+        modified_on = (datetime.strptime(created_on, "%Y-%m-%d") - timedelta(days=random.randint(0, 30))).strftime("%Y-%m-%d")
+        estimated_close_date = (datetime.strptime(created_on, "%Y-%m-%d")  + timedelta(days=random.randint(31, 365))).strftime("%Y-%m-%d")
+        
         owner_id = random.choice(owner_ids)
 
         data.append([lead_id, topic, first_name, last_name, job_title, company_name, email, phone, 
@@ -133,7 +138,7 @@ def generate_opportunity_data(num_records=100, lead_ids=None):
         "Digital Transformation Strategy",
         "Vulnerability Management & Penetration Testing Services",
         "Security Awareness Training Program",
-        "ncident Response Planning & Recovery Services",
+        "Incident Response Planning & Recovery Services",
         "Data Encryption & Security Solutions Implementation",
         "Network Security Architecture Design & Implementation"
     ]
@@ -161,7 +166,7 @@ def generate_opportunity_data(num_records=100, lead_ids=None):
         estimated_value = random.randint(25000, 250000)
 
         # TODO check same thing as above
-        expected_close_date = (datetime.now() + timedelta(days=random.randint(30, 365))).strftime("%Y-%m-%d")
+        # expected_close_date = (datetime.now() + timedelta(days=random.randint(30, 365))).strftime("%Y-%m-%d")
         actual_close_date = ""  # Leave blank for Open opportunities
         if stage == "Closed":
             actual_close_date = (datetime.now() - timedelta(days=random.randint(0, 90))).strftime("%Y-%m-%d")
@@ -170,8 +175,12 @@ def generate_opportunity_data(num_records=100, lead_ids=None):
         owner_id = random.choice(owner_ids)
 
         # todo same problem for earlier
+        # created_on = (datetime.now() - timedelta(days=random.randint(0, 90))).strftime("%Y-%m-%d")
+        # modified_on = (datetime.now() - timedelta(days=random.randint(0, 30))).strftime("%Y-%m-%d")
+
         created_on = (datetime.now() - timedelta(days=random.randint(0, 90))).strftime("%Y-%m-%d")
-        modified_on = (datetime.now() - timedelta(days=random.randint(0, 30))).strftime("%Y-%m-%d")
+        modified_on = (datetime.strptime(created_on, "%Y-%m-%d") - timedelta(days=random.randint(0, 30))).strftime("%Y-%m-%d")
+        expected_close_date = (datetime.strptime(created_on, "%Y-%m-%d") + timedelta(days=random.randint(31, 365))).strftime("%Y-%m-%d")
 
         data.append([opportunity_id, name, account_id, lead_id, stage, probability, 
                      estimated_value, expected_close_date, actual_close_date, status, 
@@ -238,7 +247,8 @@ def generate_quote_data(num_records=100, opportunity_ids=None, account_ids=None)
         final_amount = round(total_amount - discount_amount, 2)
         description = random.choice(descriptions)
         created_on = (datetime.now() - timedelta(days=random.randint(0, 90))).strftime("%Y-%m-%d")
-        modified_on = (datetime.now() - timedelta(days=random.randint(0, 30))).strftime("%Y-%m-%d")
+        # modified_on = (datetime.now() - timedelta(days=random.randint(0, 30))).strftime("%Y-%m-%d")
+        modified_on = (datetime.strptime(created_on, "%Y-%m-%d") - timedelta(days=random.randint(0, 30))).strftime("%Y-%m-%d")
 
         data.append([quote_id, opportunity_id, name, account_id, quote_number, status, 
                      valid_from, valid_to, total_amount, discount_percentage, discount_amount, 
@@ -286,7 +296,8 @@ def generate_contract_data(num_records=100, quote_ids=None, account_ids=None):
         payment_terms = random.choice(payment_terms)
         description = random.choice(descriptions)
         created_on = (datetime.now() - timedelta(days=random.randint(0, 90))).strftime("%Y-%m-%d")
-        modified_on = (datetime.now() - timedelta(days=random.randint(0, 30))).strftime("%Y-%m-%d")
+        # modified_on = (datetime.now() - timedelta(days=random.randint(0, 30))).strftime("%Y-%m-%d")
+        modified_on = (datetime.strptime(created_on, "%Y-%m-%d") - timedelta(days=random.randint(0, 30))).strftime("%Y-%m-%d")
 
         data.append([contract_id, quote_id, account_id, contract_number, status, start_date, end_date, total_value, billing_frequency, payment_terms, description, created_on, modified_on])
     return data
@@ -321,7 +332,7 @@ def generate_milestone_data(num_records=100, contract_ids=None):
         # ! need to define the name here
         name = f"Milestone-{i:03}"  # Generic name, can be made more descriptive ! pretty sure this is wrong
         description = random.choice(descriptions)
-        due_date = (datetime.now() + timedelta(days=random.randint(30, 365))).strftime("%Y-%m-%d")
+        # due_date = (datetime.now() + timedelta(days=random.randint(30, 365))).strftime("%Y-%m-%d")
         amount = round(random.uniform(10000, 100000), 2)  # Vary milestone amounts
         status = random.choice(statuses)
         completion_date = ""
@@ -329,7 +340,10 @@ def generate_milestone_data(num_records=100, contract_ids=None):
             completion_date = (datetime.now() - timedelta(days=random.randint(0, 30))).strftime("%Y-%m-%d")
         invoice_id = f"INV-{i:03}" if status == "Completed" or random.random() < 0.5 else "" # some milestones might not have invoice yet
         created_on = (datetime.now() - timedelta(days=random.randint(0, 90))).strftime("%Y-%m-%d")
-        modified_on = (datetime.now() - timedelta(days=random.randint(0, 30))).strftime("%Y-%m-%d")
+        # modified_on = (datetime.now() - timedelta(days=random.randint(0, 30))).strftime("%Y-%m-%d")
+        modified_on = (datetime.strptime(created_on, "%Y-%m-%d") - timedelta(days=random.randint(0, 30))).strftime("%Y-%m-%d")
+        due_date = (datetime.strptime(created_on, "%Y-%m-%d") + timedelta(days=random.randint(31, 365))).strftime("%Y-%m-%d")
+
 
         data.append([milestone_id, contract_id, name, description, due_date, amount, 
                      status, completion_date, invoice_id, created_on, modified_on])
@@ -375,7 +389,8 @@ def generate_project_data(num_records=100, contract_ids=None):
         progress = random.randint(0, 100) if status != "Not Started" else 0
         risk = random.choice(["Low", "Medium", "High"])
         created_on = (datetime.now() - timedelta(days=random.randint(0, 90))).strftime("%Y-%m-%d")
-        modified_on = (datetime.now() - timedelta(days=random.randint(0, 30))).strftime("%Y-%m-%d")
+        # modified_on = (datetime.now() - timedelta(days=random.randint(0, 30))).strftime("%Y-%m-%d")
+        modified_on = (datetime.strptime(created_on, "%Y-%m-%d") - timedelta(days=random.randint(0, 30))).strftime("%Y-%m-%d")
 
         data.append([project_id, contract_id, name, description, start_date, end_date, 
                      status, project_manager, budget, actual_cost, progress, risk, 
@@ -425,7 +440,8 @@ def generate_invoice_data(num_records=100, contract_ids=None, milestone_ids=None
             paid_date = (datetime.now() - timedelta(days=random.randint(0, 15))).strftime("%Y-%m-%d")
         description = random.choice(descriptions)
         created_on = (datetime.now() - timedelta(days=random.randint(0, 90))).strftime("%Y-%m-%d")
-        modified_on = (datetime.now() - timedelta(days=random.randint(0, 30))).strftime("%Y-%m-%d")
+        # modified_on = (datetime.now() - timedelta(days=random.randint(0, 30))).strftime("%Y-%m-%d")
+        modified_on = (datetime.strptime(created_on, "%Y-%m-%d") - timedelta(days=random.randint(0, 30))).strftime("%Y-%m-%d")
 
         data.append([invoice_id, contract_id, milestone_id, invoice_number, status, issue_date, due_date, amount, paid_amount, paid_date, description, created_on, modified_on])
 
