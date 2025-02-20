@@ -131,6 +131,8 @@ def generate_opportunity_data(num_records=100, lead_ids=None):
     data = []
     for i in range(1, num_records + 1):
         opportunity_id = f"OPP-{i:03}"
+
+        # ! need to define the name here
         name = f"Opportunity-{i:03}"
 
         # * what in the world is an account id - and is it a problem if this is tagged directly 
@@ -197,6 +199,7 @@ def generate_quote_data(num_records=100, opportunity_ids=None, account_ids=None)
         # ! check this name  // yes it's wrong we need to change this - examples include 
         # ! "ERP implementation etc" -- need to random choice this 
         name = f"Quote-{i:03}"  # Generic name, can be made more descriptive
+        
         account_id = random.choice(account_ids)
         quote_number = f"Q{datetime.now().year}-{i:03}"
         status = random.choice(statuses)
@@ -287,6 +290,8 @@ def generate_milestone_data(num_records=100, contract_ids=None):
     for i in range(1, num_records + 1):
         milestone_id = f"MIL-{i:03}"
         contract_id = random.choice(contract_ids)
+
+        # ! need to define the name here
         name = f"Milestone-{i:03}"  # Generic name, can be made more descriptive ! pretty sure this is wrong
         description = random.choice(descriptions)
         due_date = (datetime.now() + timedelta(days=random.randint(30, 365))).strftime("%Y-%m-%d")
@@ -330,6 +335,8 @@ def generate_project_data(num_records=100, contract_ids=None):
     for i in range(1, num_records + 1):
         project_id = f"PRJ-{i:03}"
         contract_id = random.choice(contract_ids)
+
+        # ! need to define the name here
         name = f"Project-{i:03}"  # Generic name, can be made more descriptive
         description = random.choice(descriptions)
         start_date = (datetime.now() + timedelta(days=random.randint(0, 30))).strftime("%Y-%m-%d")
