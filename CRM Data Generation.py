@@ -109,7 +109,7 @@ def generate_opportunity_data(num_records=100, lead_ids=None):
     stages = ["Discovery", "Qualification", "Proposal", "Negotiation", "Closed"]
 
     # TODO: seems like there is a need to define the probabilities
-    probabilities = []
+    probabilities = random.randint(0, 100) # probabilities currently to between 0 and 1, can be modified accordingly
 
     statuses = ["Open", "Won", "Lost"]
     descriptions = [
@@ -124,6 +124,19 @@ def generate_opportunity_data(num_records=100, lead_ids=None):
         "Data encryption and security solutions",
         "Network security architecture design",
     ]
+
+    names = [
+        "ERP Implementation - TechCorp",
+        "Cloud Migration Project",
+        "Security Audit Services",
+        "Analytics Platform Development",
+        "Digital Transformation Strategy",
+        "Vulnerability Management & Penetration Testing Services",
+        "Security Awareness Training Program",
+        "ncident Response Planning & Recovery Services",
+        "Data Encryption & Security Solutions Implementation",
+        "Network Security Architecture Design & Implementation"
+    ]
     owner_ids = [f"USER-{i:03}" for i in range(1, 4)]  # Example: USER-001, USER-002, USER-003
 
     if lead_ids is None:
@@ -133,8 +146,8 @@ def generate_opportunity_data(num_records=100, lead_ids=None):
     for i in range(1, num_records + 1):
         opportunity_id = f"OPP-{i:03}"
 
-        # ! need to define the name here
-        name = f"Opportunity-{i:03}"
+        # ! need to define the name here: will be random.choice
+        name = random.choice(names)
 
         # * what in the world is an account id - and is it a problem if this is tagged directly 
         # * to opportunity id in a running manner?
@@ -184,6 +197,19 @@ def generate_quote_data(num_records=100, opportunity_ids=None, account_ids=None)
         "Data encryption and security solutions",
         "Network security architecture design",
     ]
+
+    names = {
+        "ERP Implementation Quote",
+        "Cloud Migration Quote",
+        "Security Audit Quote",
+        "Analytics Platform Quote",
+        "Digital Transformation Quote",
+        "Penetration Testing Quote",
+        "Security Awareness Quote",
+        "Incident Response Quote",
+        "Data Encryption Quote",
+        "Network Security Quote"
+    }
 
     if opportunity_ids is None:
         opportunity_ids = [f"OPP-{i:03}" for i in range(1, num_records + 1)]
