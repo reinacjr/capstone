@@ -108,7 +108,7 @@ def generate_opportunity_data(num_records=100, lead_ids=None):
     stages = ["Discovery", "Qualification", "Proposal", "Negotiation", "Closed"]
 
     # TODO: seems like there is a need to define the probabilities
-    probabilities =
+    probabilities = []
 
     statuses = ["Open", "Won", "Lost"]
     descriptions = [
