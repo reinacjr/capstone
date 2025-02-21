@@ -1,0 +1,101 @@
+MilestoneID,ContractID,Name,Description,DueDate,Amount,Status,CompletionDate,InvoiceID,CreatedOn,ModifiedOn
+MIL-001,CON-001,System Live,System go-live,2025-10-12,51673.28,In Progress,,INV-001,2025-02-14,2025-02-24
+MIL-002,CON-002,User Training,User training,2025-05-20,17443.33,Delayed,,,2024-11-29,2024-12-09
+MIL-003,CON-003,Data Migration,Data migration completion,2025-04-14,60907.18,In Progress,,,2024-11-26,2024-12-26
+MIL-004,CON-004,Data Migration,Data migration completion,2025-04-20,33964.18,Delayed,,INV-004,2025-01-06,2025-01-22
+MIL-005,CON-005,Requirements Gathering,ERP requirements documentation,2025-07-25,55173.49,Planned,,INV-005,2025-01-06,2025-01-14
+MIL-006,CON-006,Cloud Setup,Cloud platform setup,2025-03-31,69042.09,In Progress,,INV-006,2024-12-04,2024-12-24
+MIL-007,CON-007,Compliance Review,Regulatory compliance review completion,2025-09-22,39759.75,In Progress,,,2025-01-14,2025-01-23
+MIL-008,CON-008,Cloud Setup,Cloud platform setup,2025-06-02,50491.13,Completed,2025-01-28,INV-008,2024-12-03,2024-12-06
+MIL-009,CON-009,User Training,User training,2025-07-15,14637.3,Completed,2025-02-12,INV-009,2024-11-29,2024-12-21
+MIL-010,CON-010,User Training,User training,2025-06-01,72974.17,In Progress,,,2025-01-21,2025-02-18
+MIL-011,CON-011,System Configuration,ERP system setup and configuration,2025-07-13,72167.55,In Progress,,INV-011,2024-12-11,2024-12-12
+MIL-012,CON-012,Final Report,Final security audit report delivery,2025-04-28,55192.31,Planned,,,2025-01-18,2025-02-02
+MIL-013,CON-013,Data Migration,Data migration completion,2025-09-10,78379.61,Planned,,INV-013,2024-12-23,2025-01-22
+MIL-014,CON-014,Data Migration,Data migration completion,2025-03-13,30040.49,Planned,,,2025-01-18,2025-02-06
+MIL-015,CON-015,System Configuration,ERP system setup and configuration,2025-09-29,53010.83,In Progress,,,2025-02-02,2025-02-24
+MIL-016,CON-016,Requirements Gathering,ERP requirements documentation,2025-09-18,11225.16,Completed,2025-01-25,INV-016,2025-01-27,2025-02-08
+MIL-017,CON-017,System Configuration,ERP system setup and configuration,2025-04-03,86429.85,Delayed,,INV-017,2024-12-07,2025-01-06
+MIL-018,CON-018,Initial Assessment,Security infrastructure assessment completion,2025-12-13,87849.77,In Progress,,,2025-01-06,2025-02-01
+MIL-019,CON-019,Cloud Setup,Cloud platform setup,2025-08-27,87833.33,In Progress,,,2025-02-12,2025-02-28
+MIL-020,CON-020,User Training,User training,2025-03-26,68500.07,Delayed,,,2024-11-30,2024-12-01
+MIL-021,CON-021,Initial Assessment,Security infrastructure assessment completion,2025-09-28,69371.76,Planned,,,2024-11-30,2024-12-06
+MIL-022,CON-022,Final Report,Final security audit report delivery,2026-01-22,74544.64,In Progress,,INV-022,2025-02-17,2025-03-03
+MIL-023,CON-023,Final Report,Final security audit report delivery,2025-08-28,44710.38,Planned,,INV-023,2024-12-05,2024-12-27
+MIL-024,CON-024,Final Report,Final security audit report delivery,2025-09-20,56371.95,Planned,,,2025-01-20,2025-02-15
+MIL-025,CON-025,System Live,System go-live,2025-03-26,70199.82,Planned,,,2025-02-04,2025-03-04
+MIL-026,CON-026,Compliance Review,Regulatory compliance review completion,2025-09-02,57783.18,Completed,2025-02-06,INV-026,2024-12-03,2024-12-24
+MIL-027,CON-027,Requirements Gathering,ERP requirements documentation,2025-03-26,74421.41,Delayed,,,2024-12-30,2025-01-16
+MIL-028,CON-028,System Configuration,ERP system setup and configuration,2025-08-22,98460.81,Planned,,,2024-12-20,2025-01-11
+MIL-029,CON-029,User Training,User training,2025-09-09,87581.51,Planned,,,2025-02-13,2025-02-17
+MIL-030,CON-030,Data Migration,Data migration completion,2025-10-01,89480.02,Planned,,INV-030,2024-12-20,2024-12-30
+MIL-031,CON-031,Data Migration,Data migration completion,2026-01-01,43843.24,Planned,,,2025-02-12,2025-02-12
+MIL-032,CON-032,System Configuration,ERP system setup and configuration,2026-01-03,38004.56,Planned,,INV-032,2025-02-09,2025-03-05
+MIL-033,CON-033,Requirements Gathering,ERP requirements documentation,2025-05-26,71195.05,Planned,,,2024-11-24,2024-12-12
+MIL-034,CON-034,System Configuration,ERP system setup and configuration,2025-06-10,33892.12,Completed,2025-02-04,INV-034,2025-01-29,2025-01-29
+MIL-035,CON-035,Final Report,Final security audit report delivery,2025-12-20,53730.93,Completed,2025-02-03,INV-035,2025-01-26,2025-02-06
+MIL-036,CON-036,Cloud Setup,Cloud platform setup,2025-10-30,39476.24,Delayed,,INV-036,2024-12-10,2024-12-27
+MIL-037,CON-037,Cloud Setup,Cloud platform setup,2025-06-06,96474.57,In Progress,,,2025-01-30,2025-02-08
+MIL-038,CON-038,Post Support,Post-implementation support,2025-06-26,51170.38,Completed,2025-02-21,INV-038,2025-01-20,2025-02-01
+MIL-039,CON-039,Cloud Setup,Cloud platform setup,2025-05-07,47516.73,Planned,,,2025-01-06,2025-02-03
+MIL-040,CON-040,System Configuration,ERP system setup and configuration,2026-01-06,65377.65,Completed,2025-02-19,INV-040,2025-02-17,2025-03-01
+MIL-041,CON-041,System Configuration,ERP system setup and configuration,2025-11-09,81526.08,Delayed,,INV-041,2024-12-10,2025-01-03
+MIL-042,CON-042,Data Migration,Data migration completion,2025-12-05,80118.88,Delayed,,,2025-02-17,2025-02-20
+MIL-043,CON-043,Compliance Review,Regulatory compliance review completion,2025-08-23,34732.52,Planned,,,2025-01-03,2025-02-01
+MIL-044,CON-044,Compliance Review,Regulatory compliance review completion,2025-10-18,23478.33,In Progress,,INV-044,2025-01-03,2025-01-13
+MIL-045,CON-045,System Live,System go-live,2025-06-03,37413.01,Completed,2025-02-03,INV-045,2025-01-01,2025-01-05
+MIL-046,CON-046,Cloud Setup,Cloud platform setup,2026-02-03,16870.95,In Progress,,,2025-02-05,2025-02-18
+MIL-047,CON-047,Requirements Gathering,ERP requirements documentation,2025-04-10,42480.86,Planned,,INV-047,2025-01-08,2025-01-26
+MIL-048,CON-048,Requirements Gathering,ERP requirements documentation,2025-04-25,35705.99,Planned,,INV-048,2024-11-25,2024-12-08
+MIL-049,CON-049,Requirements Gathering,ERP requirements documentation,2025-07-21,85587.66,In Progress,,,2025-01-10,2025-01-17
+MIL-050,CON-050,Initial Assessment,Security infrastructure assessment completion,2025-08-13,83632.07,In Progress,,INV-050,2024-11-30,2024-12-03
+MIL-051,CON-051,System Configuration,ERP system setup and configuration,2025-11-10,96476.6,In Progress,,,2024-12-25,2025-01-19
+MIL-052,CON-052,Post Support,Post-implementation support,2025-09-11,82839.22,Delayed,,INV-052,2024-12-21,2024-12-22
+MIL-053,CON-053,Requirements Gathering,ERP requirements documentation,2025-10-01,97800.44,Delayed,,,2024-12-17,2025-01-02
+MIL-054,CON-054,Compliance Review,Regulatory compliance review completion,2025-09-28,63124.1,Delayed,,INV-054,2025-02-20,2025-03-22
+MIL-055,CON-055,System Live,System go-live,2025-04-17,41427.01,In Progress,,INV-055,2025-02-21,2025-02-23
+MIL-056,CON-056,Post Support,Post-implementation support,2025-06-04,70638.5,Completed,2025-01-28,INV-056,2024-12-20,2025-01-13
+MIL-057,CON-057,System Live,System go-live,2025-03-03,55931.91,Planned,,INV-057,2025-01-04,2025-01-18
+MIL-058,CON-058,Post Support,Post-implementation support,2025-03-21,72748.78,Completed,2025-02-03,INV-058,2025-01-05,2025-01-15
+MIL-059,CON-059,Cloud Setup,Cloud platform setup,2025-09-13,84291.0,Planned,,INV-059,2025-01-24,2025-02-01
+MIL-060,CON-060,Initial Assessment,Security infrastructure assessment completion,2025-12-09,45354.57,Completed,2025-01-28,INV-060,2025-01-15,2025-01-20
+MIL-061,CON-061,Compliance Review,Regulatory compliance review completion,2025-12-06,28089.41,Delayed,,INV-061,2025-01-06,2025-01-10
+MIL-062,CON-062,Initial Assessment,Security infrastructure assessment completion,2025-07-16,89969.79,Completed,2025-01-31,INV-062,2024-12-28,2025-01-08
+MIL-063,CON-063,Data Migration,Data migration completion,2026-02-02,93737.48,Planned,,,2025-02-12,2025-02-24
+MIL-064,CON-064,Initial Assessment,Security infrastructure assessment completion,2025-03-26,52415.56,In Progress,,INV-064,2024-12-05,2024-12-12
+MIL-065,CON-065,System Configuration,ERP system setup and configuration,2025-05-10,87310.42,Planned,,INV-065,2024-12-14,2024-12-23
+MIL-066,CON-066,Initial Assessment,Security infrastructure assessment completion,2025-02-24,86399.79,Planned,,,2025-01-14,2025-02-12
+MIL-067,CON-067,System Live,System go-live,2025-07-26,48547.64,Planned,,,2025-02-04,2025-02-10
+MIL-068,CON-068,Compliance Review,Regulatory compliance review completion,2025-08-07,14260.03,Completed,2025-01-24,INV-068,2024-11-29,2024-12-21
+MIL-069,CON-069,Initial Assessment,Security infrastructure assessment completion,2025-05-23,57135.98,Planned,,,2025-01-02,2025-01-25
+MIL-070,CON-070,Requirements Gathering,ERP requirements documentation,2025-03-30,11656.84,Completed,2025-02-14,INV-070,2025-01-17,2025-01-28
+MIL-071,CON-071,User Training,User training,2025-08-26,94463.03,Completed,2025-01-28,INV-071,2025-02-09,2025-02-20
+MIL-072,CON-072,Initial Assessment,Security infrastructure assessment completion,2026-01-03,85258.04,Completed,2025-02-10,INV-072,2025-02-07,2025-02-08
+MIL-073,CON-073,System Live,System go-live,2025-09-25,60752.4,In Progress,,,2024-11-26,2024-11-28
+MIL-074,CON-074,Data Migration,Data migration completion,2025-04-15,48699.74,Completed,2025-01-23,INV-074,2025-02-01,2025-02-27
+MIL-075,CON-075,Cloud Setup,Cloud platform setup,2025-07-22,87896.69,In Progress,,INV-075,2025-02-17,2025-02-28
+MIL-076,CON-076,Compliance Review,Regulatory compliance review completion,2025-02-20,55804.74,In Progress,,,2024-11-28,2024-12-09
+MIL-077,CON-077,Final Report,Final security audit report delivery,2025-03-17,14431.13,Delayed,,,2025-02-13,2025-02-18
+MIL-078,CON-078,Post Support,Post-implementation support,2025-09-09,41614.65,Delayed,,,2025-01-04,2025-01-24
+MIL-079,CON-079,Final Report,Final security audit report delivery,2026-01-07,18486.45,Planned,,,2025-01-26,2025-02-16
+MIL-080,CON-080,System Configuration,ERP system setup and configuration,2026-01-29,37389.98,Delayed,,INV-080,2025-02-18,2025-03-08
+MIL-081,CON-081,Compliance Review,Regulatory compliance review completion,2025-11-12,91584.59,Completed,2025-02-07,INV-081,2025-01-30,2025-02-28
+MIL-082,CON-082,Requirements Gathering,ERP requirements documentation,2025-07-13,74305.56,In Progress,,INV-082,2024-12-06,2024-12-07
+MIL-083,CON-083,User Training,User training,2025-12-12,81981.51,Delayed,,,2025-01-20,2025-02-10
+MIL-084,CON-084,System Live,System go-live,2025-11-02,30994.76,Planned,,,2025-01-07,2025-01-29
+MIL-085,CON-085,System Live,System go-live,2025-09-24,65648.39,Planned,,INV-085,2025-01-15,2025-01-31
+MIL-086,CON-086,Final Report,Final security audit report delivery,2025-01-13,76770.24,Completed,2025-02-20,INV-086,2024-12-04,2024-12-21
+MIL-087,CON-087,Requirements Gathering,ERP requirements documentation,2025-08-29,63465.12,Completed,2025-02-12,INV-087,2025-01-14,2025-02-03
+MIL-088,CON-088,Final Report,Final security audit report delivery,2025-03-15,90761.94,In Progress,,,2025-01-15,2025-01-15
+MIL-089,CON-089,Post Support,Post-implementation support,2025-09-15,53017.6,Delayed,,,2025-02-20,2025-03-06
+MIL-090,CON-090,Cloud Setup,Cloud platform setup,2025-12-23,47326.24,In Progress,,INV-090,2025-02-11,2025-02-17
+MIL-091,CON-091,System Live,System go-live,2025-07-03,19665.64,In Progress,,INV-091,2025-02-22,2025-03-02
+MIL-092,CON-092,Cloud Setup,Cloud platform setup,2025-10-06,74618.06,In Progress,,INV-092,2025-02-16,2025-03-16
+MIL-093,CON-093,User Training,User training,2025-06-26,96861.74,Delayed,,,2024-11-25,2024-11-30
+MIL-094,CON-094,System Configuration,ERP system setup and configuration,2025-10-28,12896.61,Planned,,INV-094,2025-01-26,2025-02-18
+MIL-095,CON-095,Requirements Gathering,ERP requirements documentation,2026-01-30,69996.42,Planned,,INV-095,2025-02-16,2025-03-02
+MIL-096,CON-096,System Live,System go-live,2025-08-20,12570.0,Completed,2025-02-16,INV-096,2024-12-10,2024-12-24
+MIL-097,CON-097,Initial Assessment,Security infrastructure assessment completion,2025-05-18,71866.85,In Progress,,INV-097,2025-01-07,2025-01-07
+MIL-098,CON-098,System Live,System go-live,2025-05-28,40443.81,Planned,,INV-098,2025-02-18,2025-03-18
+MIL-099,CON-099,Cloud Setup,Cloud platform setup,2025-11-17,70530.62,Completed,2025-02-01,INV-099,2025-02-19,2025-03-20
+MIL-100,CON-100,System Live,System go-live,2025-06-03,72762.62,In Progress,,INV-100,2024-12-03,2024-12-03
