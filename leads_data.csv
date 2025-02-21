@@ -1,0 +1,101 @@
+LeadID,Topic,FirstName,LastName,JobTitle,CompanyName,Email,Phone,Industry,LeadSource,Status,Rating,EstimatedValue,EstimatedCloseDate,CreatedOn,ModifiedOn,OwnerID
+LEAD-001,ERP Implementation,Tiffany,Perez,Network Engineer,DataGuard,Tiffany.perez@dataguard.com,+1-555-0701,Legal,LinkedIn,Qualified,Cold,179263,2025-09-18,2025-02-10,2025-03-11,USER-011
+LEAD-002,Data Encryption,Emily,Rodriguez,Security Manager,FinanceFirst,Emily.rodriguez@financefirst.com,+1-555-0638,Education,Direct Mail,New,Hot,61696,2025-03-23,2025-01-13,2025-02-09,USER-011
+LEAD-003,SOAR Deployment,Abigail,Lewis,CEO,Innovate Inc.,Abigail.lewis@innovateinc..com,+1-555-0146,Retail,Webinar,Proposal Sent,Warm,229609,2025-06-12,2025-01-08,2025-01-09,USER-020
+LEAD-004,Vulnerability Scanning,Jacob,Clark,Security Manager,Peak Performance,Jacob.clark@peakperformance.com,+1-555-0664,Non-profit,Trade Show,Contacted,Cold,80104,2026-01-25,2025-02-18,2025-03-03,USER-009
+LEAD-005,SOAR Deployment,Angela,Smith,Security Analyst,Peak Performance,Angela.smith@peakperformance.com,+1-555-0495,Retail,Referral,Proposal Sent,Hot,100822,2025-06-29,2024-11-29,2024-12-15,USER-003
+LEAD-006,Network Security,David,Smith,Compliance Officer,Summit Solutions,David.smith@summitsolutions.com,+1-555-0440,Retail,Website,Closed Lost,Hot,30221,2025-04-28,2025-02-02,2025-02-11,USER-014
+LEAD-007,SOAR Deployment,Nicole,Nelson,Security Analyst,MedTech,Nicole.nelson@medtech.com,+1-555-0993,Education,Direct Mail,Closed Lost,Hot,191547,2025-10-01,2025-02-05,2025-02-22,USER-016
+LEAD-008,Threat Intelligence,Jacob,Roberts,CEO,InfoDefense,Jacob.roberts@infodefense.com,+1-555-0916,Non-profit,LinkedIn,Closed Won,Cold,235209,2025-08-06,2024-12-05,2024-12-05,USER-012
+LEAD-009,Vulnerability Scanning,David,King,CTO,Manufacturing Plus,David.king@manufacturingplus.com,+1-555-0462,Education,Webinar,Contacted,Cold,97310,2025-03-24,2024-12-23,2025-01-15,USER-005
+LEAD-010,Security Audit,Ashley,King,Software Developer,EduPlus,Ashley.king@eduplus.com,+1-555-0525,Government,Email Campaign,New,Hot,248796,2025-02-06,2024-12-29,2025-01-06,USER-004
+LEAD-011,Red Teaming,Kyle,Lopez,COO,FinanceFirst,Kyle.lopez@financefirst.com,+1-555-0928,Non-profit,Webinar,Closed Lost,Warm,239578,2025-07-17,2025-01-02,2025-01-07,USER-016
+LEAD-012,Red Teaming,David,Hernandez,HR Manager,Alpha Dynamics,David.hernandez@alphadynamics.com,+1-555-0560,Non-profit,Referral,Closed Won,Warm,208179,2025-10-09,2025-02-04,2025-02-25,USER-010
+LEAD-013,Phishing Simulation,Ryan,Hill,Project Manager,Zeta Solutions,Ryan.hill@zetasolutions.com,+1-555-0238,Legal,Referral,Qualified,Warm,202729,2025-05-03,2025-01-21,2025-02-04,USER-013
+LEAD-014,Zero Trust Implementation,Emily,Hernandez,CTO,DataSafe,Emily.hernandez@datasafe.com,+1-555-0136,Healthcare,LinkedIn,Qualified,Cold,200447,2025-02-08,2024-12-18,2024-12-20,USER-014
+LEAD-015,IoT Security,Christopher,Baker,IT Director,Alpha Dynamics,Christopher.baker@alphadynamics.com,+1-555-0996,Education,Webinar,Closed Lost,Warm,234660,2025-08-17,2025-01-31,2025-02-18,USER-014
+LEAD-016,Phishing Simulation,Justin,Brown,Consultant,Beta Innovations,Justin.brown@betainnovations.com,+1-555-0875,Retail,LinkedIn,Qualified,Warm,65395,2025-10-13,2025-02-10,2025-02-19,USER-004
+LEAD-017,Cloud Security,Lauren,Phillips,System Administrator,Summit Solutions,Lauren.phillips@summitsolutions.com,+1-555-0540,Retail,Event,New,Warm,167791,2025-03-04,2024-12-08,2024-12-13,USER-017
+LEAD-018,Data Analytics Solution,Lauren,King,Security Manager,Summit Solutions,Lauren.king@summitsolutions.com,+1-555-0301,Non-profit,Website,Qualified,Cold,141711,2025-07-04,2024-12-07,2025-01-04,USER-013
+LEAD-019,Cloud Security,Tiffany,Davis,Security Manager,InfoDefense,Tiffany.davis@infodefense.com,+1-555-0669,Manufacturing,Social Media,Contacted,Hot,139144,2025-12-13,2024-12-16,2025-01-04,USER-014
+LEAD-020,Threat Intelligence,Tiffany,Adams,CEO,LegalEase,Tiffany.adams@legalease.com,+1-555-0301,Technology,Direct Mail,Proposal Sent,Warm,143610,2025-05-05,2025-01-15,2025-02-02,USER-001
+LEAD-021,GRC Consulting,Brandon,Hall,CTO,HealthFirst,Brandon.hall@healthfirst.com,+1-555-0262,Financial Services,Direct Mail,Proposal Sent,Warm,203480,2025-07-17,2024-12-23,2024-12-25,USER-004
+LEAD-022,Cloud Migration,Abigail,Johnson,System Administrator,SecurePlus,Abigail.johnson@secureplus.com,+1-555-0616,Education,Email Campaign,New,Hot,52400,2025-06-10,2025-01-28,2025-02-06,USER-006
+LEAD-023,Data Loss Prevention,Nicole,Johnson,IT Specialist,Office Solutions,Nicole.johnson@officesolutions.com,+1-555-0872,Financial Services,Partner,Qualified,Warm,163110,2025-05-02,2025-02-15,2025-03-14,USER-012
+LEAD-024,Data Analytics Solution,Jacob,Green,IT Manager,Manufacturing Plus,Jacob.green@manufacturingplus.com,+1-555-0299,Retail,Webinar,Proposal Sent,Warm,121778,2025-09-24,2025-01-05,2025-01-29,USER-006
+LEAD-025,Vulnerability Management,Kevin,Brown,CEO,Beta Innovations,Kevin.brown@betainnovations.com,+1-555-0533,Manufacturing,Trade Show,Closed Lost,Cold,77713,2025-11-23,2024-12-28,2025-01-01,USER-012
+LEAD-026,Security Awareness Training,Ryan,Adams,COO,GlobalTech,Ryan.adams@globaltech.com,+1-555-0443,Manufacturing,Email Campaign,Contacted,Cold,51734,2025-11-07,2025-01-01,2025-01-24,USER-011
+LEAD-027,Threat Intelligence,Robert,Wilson,Security Manager,Peak Performance,Robert.wilson@peakperformance.com,+1-555-0227,Healthcare,Referral,New,Warm,230024,2025-07-26,2024-12-23,2025-01-01,USER-009
+LEAD-028,IoT Security,Nicole,Lewis,Cloud Architect,HealthFirst,Nicole.lewis@healthfirst.com,+1-555-0410,Retail,Social Media,Closed Won,Hot,61589,2025-06-03,2024-12-19,2024-12-24,USER-004
+LEAD-029,Security Audit,Eric,Scott,Security Analyst,Retail Solutions,Eric.scott@retailsolutions.com,+1-555-0170,Non-profit,Social Media,Proposal Sent,Hot,94996,2025-09-25,2025-01-28,2025-02-10,USER-003
+LEAD-030,DevSecOps,Angela,Young,COO,InfoDefense,Angela.young@infodefense.com,+1-555-0192,Technology,Referral,Closed Won,Cold,79356,2025-10-25,2024-12-03,2024-12-25,USER-004
+LEAD-031,Security Consulting,Christopher,Young,Software Developer,SecurePlus,Christopher.young@secureplus.com,+1-555-0787,Retail,Webinar,Closed Lost,Cold,146076,2025-09-17,2024-12-12,2024-12-20,USER-019
+LEAD-032,Cloud Security,Ryan,Davis,System Administrator,LegalEase,Ryan.davis@legalease.com,+1-555-0984,Technology,Event,Contacted,Cold,78719,2025-05-06,2025-01-17,2025-02-02,USER-018
+LEAD-033,Vulnerability Management,Kyle,Baker,IT Manager,GlobalTech,Kyle.baker@globaltech.com,+1-555-0188,Financial Services,Webinar,New,Cold,88049,2025-09-10,2025-01-12,2025-01-14,USER-019
+LEAD-034,Data Privacy,Brian,Wilson,CISO,SecurePlus,Brian.wilson@secureplus.com,+1-555-0804,Consulting,Website,Proposal Sent,Warm,240164,2025-06-30,2025-01-12,2025-01-17,USER-013
+LEAD-035,Endpoint Security,Jacob,Scott,Network Engineer,GlobalTech,Jacob.scott@globaltech.com,+1-555-0667,Manufacturing,Webinar,Contacted,Warm,48068,2025-11-30,2024-12-30,2025-01-28,USER-006
+LEAD-036,Data Analytics Solution,Ethan,Phillips,System Administrator,LegalEase,Ethan.phillips@legalease.com,+1-555-0622,Education,Email Campaign,Qualified,Hot,197717,2025-12-02,2024-12-20,2025-01-04,USER-014
+LEAD-037,Data Encryption,Jacob,Mitchell,Security Engineer,Summit Solutions,Jacob.mitchell@summitsolutions.com,+1-555-0754,Legal,Partner,Closed Lost,Cold,224855,2025-09-01,2025-01-17,2025-01-31,USER-008
+LEAD-038,Red Teaming,Kevin,Adams,COO,Office Solutions,Kevin.adams@officesolutions.com,+1-555-0689,Manufacturing,Trade Show,Qualified,Cold,187108,2025-10-12,2024-11-25,2024-12-17,USER-013
+LEAD-039,Phishing Simulation,Stephanie,Garcia,COO,Gamma Enterprises,Stephanie.garcia@gammaenterprises.com,+1-555-0116,Manufacturing,Social Media,New,Hot,83113,2025-03-27,2025-01-19,2025-02-04,USER-018
+LEAD-040,GRC Consulting,Nicole,Turner,CISO,SecureNet,Nicole.turner@securenet.com,+1-555-0171,Healthcare,LinkedIn,Qualified,Cold,72947,2025-07-19,2025-02-10,2025-02-19,USER-003
+LEAD-041,Network Security,William,Davis,IT Specialist,GlobalTech,William.davis@globaltech.com,+1-555-0507,Technology,Partner,New,Cold,43042,2025-02-23,2024-12-11,2024-12-25,USER-006
+LEAD-042,SOAR Deployment,Jacob,Baker,CEO,Beta Innovations,Jacob.baker@betainnovations.com,+1-555-0378,Healthcare,Email Campaign,Contacted,Warm,189116,2025-06-06,2024-12-29,2025-01-09,USER-007
+LEAD-043,Data Analytics Solution,Tiffany,Wilson,HR Manager,GlobalTech,Tiffany.wilson@globaltech.com,+1-555-0232,Education,Direct Mail,Closed Won,Warm,243972,2025-12-12,2024-12-26,2024-12-26,USER-010
+LEAD-044,Digital Transformation,Ethan,Garcia,Data Analyst,NetSolutions,Ethan.garcia@netsolutions.com,+1-555-0389,Financial Services,Event,New,Hot,227764,2025-03-31,2025-02-14,2025-03-04,USER-017
+LEAD-045,Vulnerability Management,Stephanie,Johnson,IT Specialist,Innovate Inc.,Stephanie.johnson@innovateinc..com,+1-555-0476,Retail,Website,Closed Won,Cold,178868,2025-10-31,2025-01-31,2025-02-27,USER-009
+LEAD-046,Digital Transformation,David,Turner,IT Specialist,HealthFirst,David.turner@healthfirst.com,+1-555-0811,Healthcare,LinkedIn,Closed Lost,Cold,25856,2025-10-07,2024-12-21,2025-01-08,USER-001
+LEAD-047,Phishing Simulation,Elizabeth,Carter,Security Manager,SecureNet,Elizabeth.carter@securenet.com,+1-555-0804,Education,Referral,Contacted,Cold,59975,2025-04-07,2025-01-03,2025-01-24,USER-007
+LEAD-048,SIEM Implementation,Ashley,Johnson,Data Security Officer,Cloud Solutions,Ashley.johnson@cloudsolutions.com,+1-555-0128,Legal,Trade Show,New,Cold,47875,2025-10-08,2025-01-25,2025-02-20,USER-013
+LEAD-049,Cloud Security,Eric,Phillips,IT Manager,RetailMart,Eric.phillips@retailmart.com,+1-555-0333,Financial Services,Trade Show,Qualified,Warm,34058,2025-02-27,2024-12-06,2024-12-25,USER-019
+LEAD-050,Security Awareness Training,Tiffany,Brown,CEO,DataGuard,Tiffany.brown@dataguard.com,+1-555-0363,Government,Direct Mail,Proposal Sent,Warm,36714,2025-10-28,2024-12-08,2025-01-06,USER-015
+LEAD-051,Data Loss Prevention,Megan,Hernandez,IT Director,SecurePlus,Megan.hernandez@secureplus.com,+1-555-0195,Financial Services,Trade Show,New,Warm,120727,2025-11-20,2024-11-24,2024-12-03,USER-019
+LEAD-052,Data Encryption,David,Clark,CTO,Gamma Enterprises,David.clark@gammaenterprises.com,+1-555-0977,Consulting,LinkedIn,New,Warm,170131,2025-03-02,2024-12-24,2024-12-25,USER-006
+LEAD-053,Zero Trust Implementation,Jacob,Phillips,Cloud Architect,Retail Solutions,Jacob.phillips@retailsolutions.com,+1-555-0250,Financial Services,LinkedIn,Closed Lost,Cold,61063,2025-02-23,2024-12-11,2024-12-22,USER-008
+LEAD-054,Threat Intelligence,Jacob,Brown,Cloud Architect,Manufacturing Plus,Jacob.brown@manufacturingplus.com,+1-555-0157,Consulting,Website,Proposal Sent,Warm,169160,2025-05-30,2024-12-29,2025-01-26,USER-019
+LEAD-055,IoT Security,Emily,Young,CEO,Epsilon Technologies,Emily.young@epsilontechnologies.com,+1-555-0759,Healthcare,Event,Closed Won,Cold,172222,2025-11-16,2025-02-19,2025-03-06,USER-009
+LEAD-056,Red Teaming,David,Phillips,CTO,Retail Solutions,David.phillips@retailsolutions.com,+1-555-0415,Education,Website,Proposal Sent,Cold,225908,2025-12-15,2025-01-16,2025-01-21,USER-012
+LEAD-057,GRC Consulting,William,Lewis,IT Manager,Alpha Dynamics,William.lewis@alphadynamics.com,+1-555-0221,Consulting,Direct Mail,Closed Won,Warm,61624,2025-01-08,2024-11-24,2024-12-04,USER-011
+LEAD-058,Threat Intelligence,Sarah,Clark,Consultant,SecurePlus,Sarah.clark@secureplus.com,+1-555-0910,Government,Direct Mail,Closed Lost,Cold,192801,2025-03-10,2024-12-25,2024-12-28,USER-010
+LEAD-059,Security Architecture Design,Emma,King,Cloud Architect,SecurePlus,Emma.king@secureplus.com,+1-555-0925,Manufacturing,Direct Mail,Proposal Sent,Hot,116597,2025-04-11,2024-12-20,2025-01-05,USER-006
+LEAD-060,Phishing Simulation,William,Wright,HR Manager,RetailMart,William.wright@retailmart.com,+1-555-0703,Consulting,Website,Closed Lost,Warm,202843,2025-08-09,2024-11-28,2024-11-29,USER-007
+LEAD-061,Data Privacy,Kyle,Carter,Cloud Architect,Cloud Solutions,Kyle.carter@cloudsolutions.com,+1-555-0796,Legal,Social Media,Closed Lost,Cold,43494,2025-12-05,2025-01-24,2025-01-28,USER-017
+LEAD-062,Penetration Testing,Kyle,Hall,IT Director,Beta Innovations,Kyle.hall@betainnovations.com,+1-555-0720,Financial Services,LinkedIn,Closed Won,Hot,165263,2025-07-13,2024-11-29,2024-11-29,USER-002
+LEAD-063,Digital Transformation,Ethan,Wilson,IT Specialist,Analytics Pro,Ethan.wilson@analyticspro.com,+1-555-0437,Non-profit,Event,New,Warm,243055,2025-11-13,2025-01-24,2025-02-10,USER-002
+LEAD-064,DevSecOps,Tiffany,Mitchell,Security Engineer,Epsilon Technologies,Tiffany.mitchell@epsilontechnologies.com,+1-555-0735,Technology,Email Campaign,New,Cold,67387,2025-04-07,2024-12-16,2025-01-02,USER-018
+LEAD-065,Penetration Testing,Matthew,Young,System Administrator,RetailMart,Matthew.young@retailmart.com,+1-555-0922,Legal,Email Campaign,Closed Lost,Cold,145863,2025-09-29,2024-11-25,2024-12-20,USER-009
+LEAD-066,Phishing Simulation,Michael,Lopez,Cloud Architect,HealthFirst,Michael.lopez@healthfirst.com,+1-555-0300,Consulting,Event,Qualified,Cold,174798,2025-03-24,2024-12-27,2025-01-26,USER-015
+LEAD-067,Security Consulting,Robert,Lopez,Consultant,Analytics Pro,Robert.lopez@analyticspro.com,+1-555-0822,Non-profit,Website,Closed Won,Warm,69027,2025-11-21,2025-01-19,2025-01-23,USER-014
+LEAD-068,Vulnerability Management,Sarah,Brown,IT Director,Retail Solutions,Sarah.brown@retailsolutions.com,+1-555-0457,Healthcare,Event,Proposal Sent,Hot,212474,2025-04-21,2024-12-24,2025-01-09,USER-007
+LEAD-069,Data Analytics Solution,Brandon,Lopez,Security Manager,Zeta Solutions,Brandon.lopez@zetasolutions.com,+1-555-0564,Government,Social Media,Closed Lost,Cold,194193,2025-08-26,2025-02-10,2025-03-05,USER-007
+LEAD-070,Vulnerability Scanning,Brandon,Garcia,IT Specialist,Retail Solutions,Brandon.garcia@retailsolutions.com,+1-555-0161,Non-profit,Email Campaign,Proposal Sent,Warm,173347,2025-03-31,2025-01-25,2025-01-27,USER-013
+LEAD-071,Endpoint Security,Christopher,Lopez,COO,NetSolutions,Christopher.lopez@netsolutions.com,+1-555-0605,Retail,Direct Mail,Closed Won,Hot,206183,2025-10-03,2024-11-24,2024-12-23,USER-019
+LEAD-072,GRC Consulting,Madison,Mitchell,Data Analyst,HealthFirst,Madison.mitchell@healthfirst.com,+1-555-0576,Consulting,Website,New,Cold,74374,2025-04-01,2025-01-12,2025-01-21,USER-010
+LEAD-073,Compliance Consulting,Jessica,Clark,Security Manager,InfoDefense,Jessica.clark@infodefense.com,+1-555-0267,Technology,Webinar,Closed Won,Warm,164427,2025-11-13,2024-12-28,2025-01-09,USER-016
+LEAD-074,GRC Consulting,Emily,Nelson,Project Manager,Analytics Pro,Emily.nelson@analyticspro.com,+1-555-0347,Healthcare,Referral,Proposal Sent,Hot,203652,2025-07-25,2024-11-29,2024-12-18,USER-011
+LEAD-075,Security Architecture Design,Lauren,Phillips,Security Manager,Summit Solutions,Lauren.phillips@summitsolutions.com,+1-555-0447,Retail,Social Media,Qualified,Cold,173712,2025-02-25,2024-12-20,2024-12-26,USER-013
+LEAD-076,Compliance Consulting,Brian,Lewis,IT Director,Office Solutions,Brian.lewis@officesolutions.com,+1-555-0153,Legal,Website,Qualified,Warm,86768,2025-09-22,2024-11-27,2024-12-09,USER-015
+LEAD-077,Vulnerability Scanning,William,Brown,Consultant,Zeta Solutions,William.brown@zetasolutions.com,+1-555-0840,Retail,Referral,Qualified,Warm,183537,2025-03-15,2025-01-05,2025-01-05,USER-014
+LEAD-078,Compliance Consulting,Christopher,Scott,Security Analyst,HealthFirst,Christopher.scott@healthfirst.com,+1-555-0402,Manufacturing,Email Campaign,Contacted,Cold,197360,2025-10-23,2024-12-10,2024-12-16,USER-010
+LEAD-079,Threat Intelligence,Angela,Turner,IT Specialist,RetailMart,Angela.turner@retailmart.com,+1-555-0957,Legal,Website,Closed Won,Warm,65036,2025-09-17,2024-12-15,2024-12-20,USER-012
+LEAD-080,Data Analytics Solution,Stephanie,Perez,Data Security Officer,DataSafe,Stephanie.perez@datasafe.com,+1-555-0607,Financial Services,Email Campaign,Proposal Sent,Warm,120173,2025-04-05,2024-12-29,2025-01-13,USER-008
+LEAD-081,Phishing Simulation,Stephanie,Johnson,Security Engineer,Delta Systems,Stephanie.johnson@deltasystems.com,+1-555-0889,Legal,Direct Mail,Qualified,Hot,99820,2025-06-08,2025-01-28,2025-02-16,USER-012
+LEAD-082,Digital Transformation,Stephanie,Mitchell,System Administrator,HealthFirst,Stephanie.mitchell@healthfirst.com,+1-555-0347,Retail,Trade Show,Closed Lost,Warm,156101,2025-03-06,2025-01-11,2025-02-07,USER-018
+LEAD-083,Phishing Simulation,Eric,Lee,Data Security Officer,DataGuard,Eric.lee@dataguard.com,+1-555-0852,Financial Services,Website,New,Cold,124169,2025-06-16,2025-02-03,2025-02-21,USER-020
+LEAD-084,Data Encryption,Megan,Turner,System Administrator,Summit Solutions,Megan.turner@summitsolutions.com,+1-555-0800,Financial Services,Trade Show,Closed Lost,Cold,65959,2025-11-21,2025-02-15,2025-03-06,USER-020
+LEAD-085,IoT Security,Brian,Perez,IT Manager,Delta Systems,Brian.perez@deltasystems.com,+1-555-0792,Government,Social Media,Proposal Sent,Warm,145318,2025-03-27,2024-12-24,2025-01-03,USER-003
+LEAD-086,Data Privacy,Ashley,Baker,System Administrator,EduPlus,Ashley.baker@eduplus.com,+1-555-0123,Government,Direct Mail,New,Hot,49076,2025-07-22,2025-02-11,2025-02-26,USER-009
+LEAD-087,Digital Transformation,David,Walker,IT Manager,Manufacturing Plus,David.walker@manufacturingplus.com,+1-555-0652,Consulting,Email Campaign,Proposal Sent,Cold,33745,2025-06-14,2024-12-05,2024-12-15,USER-012
+LEAD-088,Data Loss Prevention,Brian,Johnson,System Administrator,DataGuard,Brian.johnson@dataguard.com,+1-555-0866,Government,Partner,Qualified,Warm,90644,2025-10-31,2024-12-15,2025-01-07,USER-004
+LEAD-089,Security Audit,Robert,Carter,IT Director,Retail Solutions,Robert.carter@retailsolutions.com,+1-555-0759,Manufacturing,Event,Qualified,Cold,39555,2025-10-09,2024-12-02,2024-12-26,USER-017
+LEAD-090,Penetration Testing,Emma,Wright,HR Manager,SecureNet,Emma.wright@securenet.com,+1-555-0511,Education,LinkedIn,Closed Lost,Hot,236688,2025-02-27,2024-12-05,2024-12-30,USER-018
+LEAD-091,SOAR Deployment,Sarah,Hall,HR Manager,HealthFirst,Sarah.hall@healthfirst.com,+1-555-0679,Financial Services,Trade Show,New,Hot,235099,2025-03-21,2025-01-26,2025-02-04,USER-013
+LEAD-092,Cybersecurity Risk Assessment,Christopher,Perez,System Administrator,Summit Solutions,Christopher.perez@summitsolutions.com,+1-555-0683,Legal,Webinar,Contacted,Hot,236015,2025-06-30,2024-12-02,2024-12-15,USER-018
+LEAD-093,Zero Trust Implementation,Brandon,Wright,COO,NetSolutions,Brandon.wright@netsolutions.com,+1-555-0719,Retail,Referral,New,Warm,149468,2025-05-28,2024-12-19,2025-01-10,USER-008
+LEAD-094,Penetration Testing,David,Wright,IT Specialist,LegalEase,David.wright@legalease.com,+1-555-0740,Financial Services,Trade Show,Closed Lost,Warm,239867,2025-10-29,2025-02-13,2025-02-18,USER-009
+LEAD-095,Endpoint Security,Jacob,Clark,CEO,DataSafe,Jacob.clark@datasafe.com,+1-555-0991,Manufacturing,Social Media,Qualified,Warm,82103,2026-02-06,2025-02-13,2025-02-20,USER-004
+LEAD-096,DevSecOps,Kyle,Lopez,Security Manager,MedTech,Kyle.lopez@medtech.com,+1-555-0729,Technology,Partner,Proposal Sent,Hot,49798,2025-08-26,2025-01-08,2025-01-13,USER-013
+LEAD-097,Data Loss Prevention,Sarah,Wright,Compliance Officer,MedTech,Sarah.wright@medtech.com,+1-555-0709,Legal,Partner,New,Warm,44723,2025-04-09,2025-02-04,2025-02-10,USER-013
+LEAD-098,Security Audit,Robert,Green,Security Engineer,Analytics Pro,Robert.green@analyticspro.com,+1-555-0826,Consulting,Trade Show,Proposal Sent,Warm,174680,2025-03-22,2024-12-14,2024-12-24,USER-017
+LEAD-099,Cloud Security,Elizabeth,Adams,IT Specialist,Zeta Solutions,Elizabeth.adams@zetasolutions.com,+1-555-0709,Manufacturing,Direct Mail,Qualified,Cold,164715,2025-02-16,2024-12-31,2025-01-24,USER-014
+LEAD-100,Data Loss Prevention,Angela,Garcia,CTO,LegalEase,Angela.garcia@legalease.com,+1-555-0335,Manufacturing,LinkedIn,Closed Lost,Hot,43942,2025-06-08,2025-02-20,2025-03-03,USER-017

@@ -1,0 +1,101 @@
+QuoteID,OpportunityID,Name,AccountID,QuoteNumber,Status,ValidFrom,ValidTo,TotalAmount,DiscountPercentage,DiscountAmount,FinalAmount,Description,CreatedOn,ModifiedOn
+QUO-001,OPP-001,Analytics Platform Quote,ACC-001,Q2025-001,Sent,2025-02-08,2025-03-29,251620,4.87,12253.89,239366.11,Analytics platform development,2025-01-01,2025-01-24
+QUO-002,OPP-002,Cloud Migration Quote,ACC-002,Q2025-002,Rejected,2025-02-10,2025-04-03,100925,13.8,13927.65,86997.35,Cloud migration and setup services,2025-01-03,2025-01-09
+QUO-003,OPP-003,Security Audit Quote,ACC-003,Q2025-003,Draft,2025-02-13,2025-05-15,290023,3.13,9077.72,280945.28,Security audit and compliance services,2024-11-30,2024-12-27
+QUO-004,OPP-004,Cloud Migration Quote,ACC-004,Q2025-004,Rejected,2025-02-01,2025-04-20,171865,15.83,27206.23,144658.77,Cloud migration and setup services,2025-02-08,2025-02-24
+QUO-005,OPP-005,Incident Response Quote,ACC-005,Q2025-005,Sent,2025-01-31,2025-04-19,201352,1.54,3100.82,198251.18,Incident response and recovery planning,2024-12-20,2025-01-04
+QUO-006,OPP-006,Data Encryption Quote,ACC-006,Q2025-006,Rejected,2025-02-09,2025-04-07,212514,17.33,36828.68,175685.32,Data encryption and security solutions,2024-12-25,2025-01-13
+QUO-007,OPP-007,Incident Response Quote,ACC-007,Q2025-007,Sent,2025-01-30,2025-05-19,271352,18.7,50742.82,220609.18,Incident response and recovery planning,2025-02-07,2025-03-06
+QUO-008,OPP-008,Analytics Platform Quote,ACC-008,Q2025-008,Rejected,2025-02-18,2025-04-08,57445,18.15,10426.27,47018.73,Analytics platform development,2024-12-17,2024-12-25
+QUO-009,OPP-009,Analytics Platform Quote,ACC-009,Q2025-009,Rejected,2025-02-02,2025-05-07,218607,10.1,22079.31,196527.69,Analytics platform development,2024-11-26,2024-12-18
+QUO-010,OPP-010,Security Audit Quote,ACC-010,Q2025-010,Draft,2025-02-13,2025-03-26,158118,0.06,94.87,158023.13,Security audit and compliance services,2025-02-20,2025-02-27
+QUO-011,OPP-011,Data Encryption Quote,ACC-011,Q2025-011,Rejected,2025-02-11,2025-05-01,58055,0.33,191.58,57863.42,Data encryption and security solutions,2024-12-25,2025-01-03
+QUO-012,OPP-012,Network Security Quote,ACC-012,Q2025-012,Sent,2025-02-16,2025-05-08,282804,9.15,25876.57,256927.43,Network security architecture design,2024-11-24,2024-12-07
+QUO-013,OPP-013,Digital Transformation Quote,ACC-013,Q2025-013,Sent,2025-02-05,2025-05-03,75255,10.66,8022.18,67232.82,Digital transformation consulting services,2025-01-29,2025-02-18
+QUO-014,OPP-014,Network Security Quote,ACC-014,Q2025-014,Accepted,2025-02-03,2025-05-14,267380,1.15,3074.87,264305.13,Network security architecture design,2024-12-23,2025-01-05
+QUO-015,OPP-015,Digital Transformation Quote,ACC-015,Q2025-015,Draft,2025-02-19,2025-04-09,187561,9.5,17818.3,169742.7,Digital transformation consulting services,2024-12-27,2025-01-16
+QUO-016,OPP-016,Cloud Migration Quote,ACC-016,Q2025-016,Rejected,2025-02-20,2025-04-03,225079,17.25,38826.13,186252.87,Cloud migration and setup services,2025-02-17,2025-03-07
+QUO-017,OPP-017,Data Encryption Quote,ACC-017,Q2025-017,Sent,2025-02-16,2025-05-03,193045,5.56,10733.3,182311.7,Data encryption and security solutions,2025-02-15,2025-02-18
+QUO-018,OPP-018,ERP Implementation Quote,ACC-018,Q2025-018,Rejected,2025-01-24,2025-05-01,156898,7.46,11704.59,145193.41,ERP implementation services and licenses,2024-12-28,2025-01-08
+QUO-019,OPP-019,Network Security Quote,ACC-019,Q2025-019,Rejected,2025-02-01,2025-04-08,213392,5.7,12163.34,201228.66,Network security architecture design,2025-02-09,2025-02-19
+QUO-020,OPP-020,Security Awareness Quote,ACC-020,Q2025-020,Rejected,2025-01-31,2025-03-24,88072,8.58,7556.58,80515.42,Security awareness training for employees,2025-02-03,2025-02-23
+QUO-021,OPP-021,Analytics Platform Quote,ACC-021,Q2025-021,Rejected,2025-01-26,2025-04-18,62950,10.79,6792.3,56157.7,Analytics platform development,2024-12-11,2024-12-24
+QUO-022,OPP-022,Digital Transformation Quote,ACC-022,Q2025-022,Draft,2025-02-10,2025-05-19,146822,9.83,14432.6,132389.4,Digital transformation consulting services,2024-12-11,2025-01-06
+QUO-023,OPP-023,Analytics Platform Quote,ACC-023,Q2025-023,Sent,2025-01-29,2025-04-23,62575,8.05,5037.29,57537.71,Analytics platform development,2025-01-06,2025-01-24
+QUO-024,OPP-024,Data Encryption Quote,ACC-024,Q2025-024,Accepted,2025-02-15,2025-04-23,110572,16.82,18598.21,91973.79,Data encryption and security solutions,2025-02-11,2025-03-05
+QUO-025,OPP-025,Network Security Quote,ACC-025,Q2025-025,Rejected,2025-02-02,2025-05-03,178752,18.94,33855.63,144896.37,Network security architecture design,2025-01-28,2025-02-14
+QUO-026,OPP-026,Incident Response Quote,ACC-026,Q2025-026,Accepted,2025-02-06,2025-04-22,259326,14.42,37394.81,221931.19,Incident response and recovery planning,2024-11-26,2024-11-26
+QUO-027,OPP-027,Penetration Testing Quote,ACC-027,Q2025-027,Accepted,2025-02-11,2025-05-10,195425,8.09,15809.88,179615.12,Penetration testing and vulnerability assessment,2024-12-11,2025-01-07
+QUO-028,OPP-028,Incident Response Quote,ACC-028,Q2025-028,Accepted,2025-02-18,2025-04-26,170772,10.15,17333.36,153438.64,Incident response and recovery planning,2024-12-10,2024-12-28
+QUO-029,OPP-029,Digital Transformation Quote,ACC-029,Q2025-029,Rejected,2025-02-19,2025-05-07,299280,8.73,26127.14,273152.86,Digital transformation consulting services,2025-02-02,2025-02-14
+QUO-030,OPP-030,Penetration Testing Quote,ACC-030,Q2025-030,Rejected,2025-01-25,2025-03-29,151247,5.9,8923.57,142323.43,Penetration testing and vulnerability assessment,2025-01-30,2025-02-21
+QUO-031,OPP-031,Digital Transformation Quote,ACC-031,Q2025-031,Accepted,2025-02-02,2025-03-28,141944,2.51,3562.79,138381.21,Digital transformation consulting services,2025-01-26,2025-02-21
+QUO-032,OPP-032,Digital Transformation Quote,ACC-032,Q2025-032,Rejected,2025-01-28,2025-04-11,240006,10.96,26304.66,213701.34,Digital transformation consulting services,2024-12-17,2025-01-15
+QUO-033,OPP-033,Incident Response Quote,ACC-033,Q2025-033,Accepted,2025-01-22,2025-05-01,115888,10.35,11994.41,103893.59,Incident response and recovery planning,2025-01-13,2025-02-09
+QUO-034,OPP-034,Analytics Platform Quote,ACC-034,Q2025-034,Sent,2025-02-06,2025-05-15,178249,1.32,2352.89,175896.11,Analytics platform development,2025-01-20,2025-02-12
+QUO-035,OPP-035,Digital Transformation Quote,ACC-035,Q2025-035,Rejected,2025-01-26,2025-05-05,118266,15.85,18745.16,99520.84,Digital transformation consulting services,2025-01-20,2025-01-22
+QUO-036,OPP-036,Cloud Migration Quote,ACC-036,Q2025-036,Sent,2025-01-28,2025-04-21,252327,7.23,18243.24,234083.76,Cloud migration and setup services,2025-02-12,2025-02-19
+QUO-037,OPP-037,Security Awareness Quote,ACC-037,Q2025-037,Sent,2025-02-19,2025-05-13,232802,19.6,45629.19,187172.81,Security awareness training for employees,2025-02-09,2025-02-20
+QUO-038,OPP-038,Data Encryption Quote,ACC-038,Q2025-038,Rejected,2025-01-23,2025-05-01,62351,2.53,1577.48,60773.52,Data encryption and security solutions,2024-12-31,2024-12-31
+QUO-039,OPP-039,Data Encryption Quote,ACC-039,Q2025-039,Sent,2025-02-09,2025-04-26,170155,8.5,14463.18,155691.82,Data encryption and security solutions,2025-01-27,2025-02-13
+QUO-040,OPP-040,Data Encryption Quote,ACC-040,Q2025-040,Accepted,2025-02-11,2025-04-30,190470,13.27,25275.37,165194.63,Data encryption and security solutions,2024-11-30,2024-12-13
+QUO-041,OPP-041,Incident Response Quote,ACC-041,Q2025-041,Sent,2025-01-28,2025-04-23,208735,9.43,19683.71,189051.29,Incident response and recovery planning,2024-12-18,2024-12-31
+QUO-042,OPP-042,Cloud Migration Quote,ACC-042,Q2025-042,Accepted,2025-01-29,2025-04-05,286897,6.14,17615.48,269281.52,Cloud migration and setup services,2025-01-31,2025-02-25
+QUO-043,OPP-043,Cloud Migration Quote,ACC-043,Q2025-043,Draft,2025-02-14,2025-05-10,51300,11.3,5796.9,45503.1,Cloud migration and setup services,2025-01-29,2025-02-08
+QUO-044,OPP-044,Penetration Testing Quote,ACC-044,Q2025-044,Sent,2025-01-30,2025-05-20,141310,11.72,16561.53,124748.47,Penetration testing and vulnerability assessment,2024-12-13,2024-12-16
+QUO-045,OPP-045,Analytics Platform Quote,ACC-045,Q2025-045,Sent,2025-01-30,2025-05-02,211049,18.93,39951.58,171097.42,Analytics platform development,2024-12-17,2024-12-24
+QUO-046,OPP-046,Incident Response Quote,ACC-046,Q2025-046,Rejected,2025-01-24,2025-05-22,161015,12.14,19547.22,141467.78,Incident response and recovery planning,2024-12-09,2024-12-30
+QUO-047,OPP-047,Security Audit Quote,ACC-047,Q2025-047,Accepted,2025-02-16,2025-03-29,79184,4.54,3594.95,75589.05,Security audit and compliance services,2025-01-05,2025-01-21
+QUO-048,OPP-048,Security Awareness Quote,ACC-048,Q2025-048,Sent,2025-02-11,2025-05-03,219228,3.12,6839.91,212388.09,Security awareness training for employees,2025-01-31,2025-02-27
+QUO-049,OPP-049,Digital Transformation Quote,ACC-049,Q2025-049,Rejected,2025-02-03,2025-04-25,259827,12.27,31880.77,227946.23,Digital transformation consulting services,2025-02-07,2025-02-13
+QUO-050,OPP-050,Incident Response Quote,ACC-050,Q2025-050,Draft,2025-01-22,2025-04-12,68191,2.12,1445.65,66745.35,Incident response and recovery planning,2025-02-13,2025-02-23
+QUO-051,OPP-051,Cloud Migration Quote,ACC-051,Q2025-051,Sent,2025-02-09,2025-04-19,224690,15.79,35478.55,189211.45,Cloud migration and setup services,2025-02-05,2025-02-28
+QUO-052,OPP-052,ERP Implementation Quote,ACC-052,Q2025-052,Sent,2025-02-05,2025-05-12,65210,8.9,5803.69,59406.31,ERP implementation services and licenses,2025-01-21,2025-01-31
+QUO-053,OPP-053,Data Encryption Quote,ACC-053,Q2025-053,Draft,2025-02-11,2025-05-05,213787,10.06,21506.97,192280.03,Data encryption and security solutions,2025-01-09,2025-01-17
+QUO-054,OPP-054,Penetration Testing Quote,ACC-054,Q2025-054,Sent,2025-02-11,2025-04-29,100176,5.98,5990.52,94185.48,Penetration testing and vulnerability assessment,2024-12-11,2025-01-02
+QUO-055,OPP-055,Data Encryption Quote,ACC-055,Q2025-055,Draft,2025-01-27,2025-05-13,271680,12.11,32900.45,238779.55,Data encryption and security solutions,2025-02-11,2025-02-20
+QUO-056,OPP-056,Penetration Testing Quote,ACC-056,Q2025-056,Accepted,2025-02-01,2025-04-10,56713,11.16,6329.17,50383.83,Penetration testing and vulnerability assessment,2024-12-03,2024-12-23
+QUO-057,OPP-057,Cloud Migration Quote,ACC-057,Q2025-057,Rejected,2025-02-21,2025-05-22,211335,17.39,36751.16,174583.84,Cloud migration and setup services,2025-01-11,2025-01-31
+QUO-058,OPP-058,Analytics Platform Quote,ACC-058,Q2025-058,Rejected,2025-02-15,2025-03-28,245190,8.13,19933.95,225256.05,Analytics platform development,2024-12-20,2025-01-16
+QUO-059,OPP-059,Digital Transformation Quote,ACC-059,Q2025-059,Draft,2025-01-25,2025-04-26,184285,3.58,6597.4,177687.6,Digital transformation consulting services,2024-12-08,2024-12-21
+QUO-060,OPP-060,Network Security Quote,ACC-060,Q2025-060,Rejected,2025-02-08,2025-05-14,208870,9.97,20824.34,188045.66,Network security architecture design,2024-12-10,2025-01-07
+QUO-061,OPP-061,Security Audit Quote,ACC-061,Q2025-061,Sent,2025-02-13,2025-04-01,217449,9.49,20635.91,196813.09,Security audit and compliance services,2025-01-29,2025-02-03
+QUO-062,OPP-062,Cloud Migration Quote,ACC-062,Q2025-062,Accepted,2025-02-19,2025-04-04,254701,2.1,5348.72,249352.28,Cloud migration and setup services,2025-01-09,2025-01-22
+QUO-063,OPP-063,Digital Transformation Quote,ACC-063,Q2025-063,Draft,2025-01-29,2025-03-28,219881,2.53,5562.99,214318.01,Digital transformation consulting services,2024-12-19,2025-01-12
+QUO-064,OPP-064,Security Awareness Quote,ACC-064,Q2025-064,Accepted,2025-02-15,2025-03-31,294514,18.44,54308.38,240205.62,Security awareness training for employees,2025-01-27,2025-01-27
+QUO-065,OPP-065,Security Awareness Quote,ACC-065,Q2025-065,Rejected,2025-01-29,2025-04-28,281119,8.2,23051.76,258067.24,Security awareness training for employees,2025-01-28,2025-02-09
+QUO-066,OPP-066,Security Audit Quote,ACC-066,Q2025-066,Accepted,2025-02-14,2025-05-09,58521,19.34,11317.96,47203.04,Security audit and compliance services,2025-01-18,2025-01-29
+QUO-067,OPP-067,Analytics Platform Quote,ACC-067,Q2025-067,Sent,2025-02-13,2025-03-25,65164,2.48,1616.07,63547.93,Analytics platform development,2024-12-14,2024-12-17
+QUO-068,OPP-068,Data Encryption Quote,ACC-068,Q2025-068,Sent,2025-02-20,2025-03-31,130976,2.35,3077.94,127898.06,Data encryption and security solutions,2025-01-06,2025-01-09
+QUO-069,OPP-069,Digital Transformation Quote,ACC-069,Q2025-069,Rejected,2025-01-30,2025-04-22,275322,17.17,47272.79,228049.21,Digital transformation consulting services,2024-12-23,2025-01-19
+QUO-070,OPP-070,Security Audit Quote,ACC-070,Q2025-070,Accepted,2025-01-28,2025-05-07,252161,17.06,43018.67,209142.33,Security audit and compliance services,2025-02-07,2025-02-19
+QUO-071,OPP-071,ERP Implementation Quote,ACC-071,Q2025-071,Draft,2025-01-28,2025-04-22,84743,12.14,10287.8,74455.2,ERP implementation services and licenses,2025-01-10,2025-01-29
+QUO-072,OPP-072,Cloud Migration Quote,ACC-072,Q2025-072,Sent,2025-02-12,2025-04-18,249578,18.24,45523.03,204054.97,Cloud migration and setup services,2025-01-24,2025-02-23
+QUO-073,OPP-073,Cloud Migration Quote,ACC-073,Q2025-073,Accepted,2025-02-05,2025-03-25,59338,12.88,7642.73,51695.27,Cloud migration and setup services,2025-01-17,2025-01-23
+QUO-074,OPP-074,Security Audit Quote,ACC-074,Q2025-074,Draft,2025-02-10,2025-03-27,128893,0.03,38.67,128854.33,Security audit and compliance services,2024-12-30,2025-01-19
+QUO-075,OPP-075,Incident Response Quote,ACC-075,Q2025-075,Draft,2025-01-25,2025-03-31,189558,14.78,28016.67,161541.33,Incident response and recovery planning,2025-01-27,2025-02-22
+QUO-076,OPP-076,Incident Response Quote,ACC-076,Q2025-076,Draft,2025-01-31,2025-05-09,172559,5.92,10215.49,162343.51,Incident response and recovery planning,2025-01-20,2025-01-29
+QUO-077,OPP-077,Analytics Platform Quote,ACC-077,Q2025-077,Accepted,2025-02-19,2025-04-15,267664,8.24,22055.51,245608.49,Analytics platform development,2025-01-05,2025-01-31
+QUO-078,OPP-078,Network Security Quote,ACC-078,Q2025-078,Rejected,2025-02-20,2025-05-14,240976,9.55,23013.21,217962.79,Network security architecture design,2025-01-26,2025-02-24
+QUO-079,OPP-079,Network Security Quote,ACC-079,Q2025-079,Rejected,2025-02-14,2025-05-14,135931,19.02,25854.08,110076.92,Network security architecture design,2025-02-03,2025-02-15
+QUO-080,OPP-080,Digital Transformation Quote,ACC-080,Q2025-080,Draft,2025-02-16,2025-04-24,80019,13.71,10970.6,69048.4,Digital transformation consulting services,2025-02-19,2025-02-22
+QUO-081,OPP-081,Analytics Platform Quote,ACC-081,Q2025-081,Rejected,2025-02-07,2025-04-14,264408,0.61,1612.89,262795.11,Analytics platform development,2024-11-28,2024-12-22
+QUO-082,OPP-082,Network Security Quote,ACC-082,Q2025-082,Rejected,2025-02-01,2025-04-13,258453,15.83,40913.11,217539.89,Network security architecture design,2025-01-22,2025-02-13
+QUO-083,OPP-083,Digital Transformation Quote,ACC-083,Q2025-083,Rejected,2025-02-03,2025-04-25,283948,17.83,50627.93,233320.07,Digital transformation consulting services,2024-12-04,2024-12-11
+QUO-084,OPP-084,Security Awareness Quote,ACC-084,Q2025-084,Rejected,2025-02-04,2025-05-14,245656,7.38,18129.41,227526.59,Security awareness training for employees,2025-02-03,2025-02-14
+QUO-085,OPP-085,Data Encryption Quote,ACC-085,Q2025-085,Rejected,2025-02-13,2025-03-27,245917,6.5,15984.61,229932.39,Data encryption and security solutions,2024-12-30,2025-01-26
+QUO-086,OPP-086,Incident Response Quote,ACC-086,Q2025-086,Draft,2025-01-27,2025-04-01,240939,12.3,29635.5,211303.5,Incident response and recovery planning,2025-02-04,2025-02-15
+QUO-087,OPP-087,Data Encryption Quote,ACC-087,Q2025-087,Accepted,2025-02-06,2025-04-01,125677,19.75,24821.21,100855.79,Data encryption and security solutions,2025-01-14,2025-01-28
+QUO-088,OPP-088,ERP Implementation Quote,ACC-088,Q2025-088,Sent,2025-02-19,2025-04-25,158261,14.73,23311.85,134949.15,ERP implementation services and licenses,2024-12-27,2024-12-29
+QUO-089,OPP-089,Analytics Platform Quote,ACC-089,Q2025-089,Accepted,2025-01-30,2025-05-07,170304,10.91,18580.17,151723.83,Analytics platform development,2025-02-20,2025-03-03
+QUO-090,OPP-090,Data Encryption Quote,ACC-090,Q2025-090,Rejected,2025-02-21,2025-03-25,255887,17.57,44959.35,210927.65,Data encryption and security solutions,2024-12-11,2024-12-20
+QUO-091,OPP-091,Analytics Platform Quote,ACC-091,Q2025-091,Draft,2025-02-11,2025-04-16,155445,4.14,6435.42,149009.58,Analytics platform development,2025-01-09,2025-01-28
+QUO-092,OPP-092,ERP Implementation Quote,ACC-092,Q2025-092,Draft,2025-02-21,2025-04-20,162204,17.62,28580.34,133623.66,ERP implementation services and licenses,2025-01-11,2025-01-13
+QUO-093,OPP-093,Digital Transformation Quote,ACC-093,Q2025-093,Accepted,2025-01-30,2025-05-10,63518,17.35,11020.37,52497.63,Digital transformation consulting services,2025-01-27,2025-02-15
+QUO-094,OPP-094,Security Awareness Quote,ACC-094,Q2025-094,Rejected,2025-01-26,2025-04-15,253946,18.99,48224.35,205721.65,Security awareness training for employees,2025-01-19,2025-01-29
+QUO-095,OPP-095,Network Security Quote,ACC-095,Q2025-095,Rejected,2025-02-12,2025-04-30,145022,13.96,20245.07,124776.93,Network security architecture design,2025-01-18,2025-01-22
+QUO-096,OPP-096,Digital Transformation Quote,ACC-096,Q2025-096,Accepted,2025-02-07,2025-04-12,224345,7.44,16691.27,207653.73,Digital transformation consulting services,2024-11-25,2024-12-24
+QUO-097,OPP-097,Network Security Quote,ACC-097,Q2025-097,Accepted,2025-02-15,2025-04-16,203705,9.92,20207.54,183497.46,Network security architecture design,2025-02-17,2025-03-09
+QUO-098,OPP-098,Cloud Migration Quote,ACC-098,Q2025-098,Sent,2025-02-07,2025-04-23,251614,2.81,7070.35,244543.65,Cloud migration and setup services,2024-12-14,2025-01-01
+QUO-099,OPP-099,Digital Transformation Quote,ACC-099,Q2025-099,Sent,2025-02-03,2025-03-30,205558,15.48,31820.38,173737.62,Digital transformation consulting services,2025-02-15,2025-03-11
+QUO-100,OPP-100,Digital Transformation Quote,ACC-100,Q2025-100,Draft,2025-02-05,2025-04-25,286490,7.99,22890.55,263599.45,Digital transformation consulting services,2024-12-04,2024-12-12
