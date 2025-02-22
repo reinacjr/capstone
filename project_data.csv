@@ -1,0 +1,101 @@
+ProjectID,ContractID,Name,Description,StartDate,EndDate,Status,ProjectManager,Budget,ActualCost,Progress,Risk,CreatedOn,ModifiedOn
+PRJ-001,CON-001,Data Encryption Implementation,Data encryption implementation project,2025-03-01,2025-09-28,Delayed,USER-005,219464,218798,14,Medium,2025-02-03,2025-02-10
+PRJ-002,CON-002,TechCorp ERP Implementation,ERP system implementation project,2025-03-24,2025-07-15,Completed,USER-003,194024,779,1,Low,2025-02-06,2025-03-04
+PRJ-003,CON-003,Security Awareness Training 2025,Security awareness training project,2025-03-12,2025-11-28,Delayed,USER-004,283975,62505,21,Medium,2025-01-05,2025-01-16
+PRJ-004,CON-004,Data Encryption Implementation,Data encryption implementation project,2025-03-16,2025-06-05,Planning,USER-004,195484,143515,63,Medium,2024-11-29,2024-12-04
+PRJ-005,CON-005,Penetration Testing,Penetration testing and vulnerability assessment project,2025-03-13,2025-11-08,Completed,USER-004,184116,5546,72,Medium,2025-02-06,2025-02-23
+PRJ-006,CON-006,Incident Planning Project,Incident response and recovery planning project,2025-03-23,2025-07-29,Delayed,USER-004,155547,58630,86,Medium,2024-12-02,2024-12-14
+PRJ-007,CON-007,Security Audit 2025,Comprehensive security audit project,2025-03-20,2025-07-09,Delayed,USER-004,296505,167390,67,Low,2024-12-30,2025-01-16
+PRJ-008,CON-008,Cloud Migration RS,Cloud infrastructure migration project,2025-03-03,2025-12-19,Completed,USER-002,157296,135965,81,Medium,2025-01-21,2025-02-03
+PRJ-009,CON-009,Network Security Upgrade,Network security upgrade project,2025-03-20,2025-10-03,In Progress,USER-003,99211,96122,30,Low,2024-12-20,2024-12-22
+PRJ-010,CON-010,TechCorp ERP Implementation,ERP system implementation project,2025-03-18,2025-12-24,In Progress,USER-004,248573,96549,75,High,2025-01-01,2025-01-30
+PRJ-011,CON-011,TechCorp ERP Implementation,ERP system implementation project,2025-02-27,2026-01-31,Delayed,USER-001,122128,18546,71,Medium,2025-02-19,2025-03-11
+PRJ-012,CON-012,TechCorp ERP Implementation,ERP system implementation project,2025-03-08,2025-11-29,Not Started,USER-005,182301,0,0,Medium,2024-12-26,2025-01-03
+PRJ-013,CON-013,Security Awareness Training 2025,Security awareness training project,2025-03-18,2025-06-02,On Hold,USER-005,225523,19330,40,Low,2025-02-18,2025-03-02
+PRJ-014,CON-014,Security Audit 2025,Comprehensive security audit project,2025-03-08,2026-01-01,Delayed,USER-005,217246,174733,27,Medium,2025-01-14,2025-02-07
+PRJ-015,CON-015,Digital Transformation MFG,Manufacturing digital transformation,2025-03-21,2025-10-09,On Hold,USER-004,299748,110610,61,Medium,2024-12-27,2025-01-16
+PRJ-016,CON-016,TechCorp ERP Implementation,ERP system implementation project,2025-03-12,2025-11-23,Planning,USER-005,211565,108582,42,Low,2024-12-04,2024-12-21
+PRJ-017,CON-017,Cloud Migration RS,Cloud infrastructure migration project,2025-03-22,2025-08-27,On Hold,USER-001,211917,80896,98,High,2024-12-12,2024-12-27
+PRJ-018,CON-018,TechCorp ERP Implementation,ERP system implementation project,2025-03-06,2025-05-27,Not Started,USER-005,241008,0,0,High,2024-12-22,2025-01-03
+PRJ-019,CON-019,Security Awareness Training 2025,Security awareness training project,2025-03-06,2025-11-12,Planning,USER-004,146922,10583,59,Low,2024-12-24,2024-12-24
+PRJ-020,CON-020,Digital Transformation MFG,Manufacturing digital transformation,2025-03-07,2025-10-18,Not Started,USER-002,177244,0,0,Low,2025-01-04,2025-01-29
+PRJ-021,CON-021,Security Audit 2025,Comprehensive security audit project,2025-03-11,2025-11-28,Completed,USER-001,298309,97693,14,Low,2025-02-16,2025-03-06
+PRJ-022,CON-022,Penetration Testing,Penetration testing and vulnerability assessment project,2025-03-16,2025-11-01,In Progress,USER-003,229877,70909,24,Low,2024-11-24,2024-12-16
+PRJ-023,CON-023,Cloud Migration RS,Cloud infrastructure migration project,2025-03-18,2025-06-22,Not Started,USER-001,123216,0,0,Medium,2025-02-03,2025-03-05
+PRJ-024,CON-024,TechCorp ERP Implementation,ERP system implementation project,2025-03-16,2025-12-24,Delayed,USER-003,243627,172944,51,High,2024-12-09,2025-01-06
+PRJ-025,CON-025,Data Encryption Implementation,Data encryption implementation project,2025-03-02,2025-08-14,On Hold,USER-004,117690,112957,99,Medium,2024-11-24,2024-12-12
+PRJ-026,CON-026,Security Awareness Training 2025,Security awareness training project,2025-03-14,2025-12-04,Planning,USER-002,123712,72891,17,Medium,2025-01-05,2025-01-27
+PRJ-027,CON-027,Incident Planning Project,Incident response and recovery planning project,2025-03-10,2025-11-25,In Progress,USER-005,161025,4633,61,Low,2025-01-07,2025-02-04
+PRJ-028,CON-028,Security Awareness Training 2025,Security awareness training project,2025-03-20,2025-11-08,On Hold,USER-002,293613,246797,98,High,2025-01-30,2025-02-15
+PRJ-029,CON-029,Data Encryption Implementation,Data encryption implementation project,2025-03-18,2025-08-03,Planning,USER-002,67244,63789,60,Medium,2025-01-31,2025-02-04
+PRJ-030,CON-030,Penetration Testing,Penetration testing and vulnerability assessment project,2025-03-12,2025-07-28,Completed,USER-004,76383,23528,54,Medium,2024-12-18,2024-12-25
+PRJ-031,CON-031,Incident Planning Project,Incident response and recovery planning project,2025-03-22,2025-12-17,Not Started,USER-004,183186,0,0,Low,2024-12-26,2025-01-17
+PRJ-032,CON-032,Cloud Migration RS,Cloud infrastructure migration project,2025-03-18,2025-09-10,Delayed,USER-002,254108,187466,53,Medium,2024-12-08,2024-12-15
+PRJ-033,CON-033,TechCorp ERP Implementation,ERP system implementation project,2025-02-23,2025-11-12,On Hold,USER-003,122769,47336,78,High,2025-01-24,2025-02-13
+PRJ-034,CON-034,Data Encryption Implementation,Data encryption implementation project,2025-02-26,2025-11-09,Completed,USER-002,297534,243284,9,Medium,2025-01-31,2025-02-08
+PRJ-035,CON-035,Digital Transformation MFG,Manufacturing digital transformation,2025-03-10,2025-09-03,On Hold,USER-002,273437,121129,48,Low,2024-12-07,2024-12-29
+PRJ-036,CON-036,Incident Planning Project,Incident response and recovery planning project,2025-02-27,2026-01-17,On Hold,USER-004,157892,34526,71,High,2025-01-01,2025-01-21
+PRJ-037,CON-037,Penetration Testing,Penetration testing and vulnerability assessment project,2025-03-10,2025-11-09,On Hold,USER-004,74595,23962,57,High,2025-02-06,2025-02-26
+PRJ-038,CON-038,Security Awareness Training 2025,Security awareness training project,2025-03-05,2026-01-10,Delayed,USER-005,68866,57769,94,Low,2024-12-28,2025-01-05
+PRJ-039,CON-039,Security Audit 2025,Comprehensive security audit project,2025-03-13,2026-01-13,On Hold,USER-005,204113,9058,36,High,2024-11-25,2024-12-14
+PRJ-040,CON-040,Cloud Migration RS,Cloud infrastructure migration project,2025-02-22,2025-09-30,Delayed,USER-005,97629,81107,23,Low,2024-11-24,2024-11-27
+PRJ-041,CON-041,Analytics Platform Development,Custom analytics solution development,2025-02-27,2025-09-10,On Hold,USER-001,131239,94045,0,Low,2024-12-07,2025-01-04
+PRJ-042,CON-042,Digital Transformation MFG,Manufacturing digital transformation,2025-03-05,2025-12-31,Delayed,USER-004,270786,185616,73,High,2024-12-29,2025-01-20
+PRJ-043,CON-043,Data Encryption Implementation,Data encryption implementation project,2025-03-17,2026-02-11,On Hold,USER-004,128732,88688,23,Medium,2024-12-30,2025-01-06
+PRJ-044,CON-044,Security Awareness Training 2025,Security awareness training project,2025-03-21,2025-06-13,On Hold,USER-002,128977,8166,51,Medium,2025-01-06,2025-01-23
+PRJ-045,CON-045,TechCorp ERP Implementation,ERP system implementation project,2025-03-19,2026-02-17,Planning,USER-001,273051,129447,92,High,2024-12-28,2025-01-06
+PRJ-046,CON-046,Security Awareness Training 2025,Security awareness training project,2025-03-05,2025-08-09,Not Started,USER-004,213440,0,0,High,2025-01-19,2025-01-28
+PRJ-047,CON-047,Data Encryption Implementation,Data encryption implementation project,2025-03-18,2025-06-12,Not Started,USER-003,100978,0,0,Low,2025-01-15,2025-01-30
+PRJ-048,CON-048,Incident Planning Project,Incident response and recovery planning project,2025-02-23,2025-09-29,Planning,USER-001,263846,24194,58,Medium,2025-01-12,2025-02-10
+PRJ-049,CON-049,Digital Transformation MFG,Manufacturing digital transformation,2025-02-27,2025-07-04,On Hold,USER-001,289469,185203,86,Medium,2024-11-24,2024-11-30
+PRJ-050,CON-050,Network Security Upgrade,Network security upgrade project,2025-03-04,2025-09-03,On Hold,USER-002,59536,25402,40,Low,2025-01-05,2025-01-14
+PRJ-051,CON-051,TechCorp ERP Implementation,ERP system implementation project,2025-03-13,2025-07-07,Not Started,USER-005,165222,0,0,Low,2025-02-01,2025-02-20
+PRJ-052,CON-052,Analytics Platform Development,Custom analytics solution development,2025-03-19,2025-06-27,In Progress,USER-005,214419,50302,80,Low,2024-12-16,2025-01-12
+PRJ-053,CON-053,Security Awareness Training 2025,Security awareness training project,2025-03-12,2026-02-03,Completed,USER-002,195237,94720,41,Medium,2025-02-01,2025-02-22
+PRJ-054,CON-054,Security Audit 2025,Comprehensive security audit project,2025-03-08,2026-02-03,On Hold,USER-004,143032,123573,65,High,2024-12-02,2024-12-10
+PRJ-055,CON-055,Data Encryption Implementation,Data encryption implementation project,2025-03-02,2026-01-03,On Hold,USER-005,168915,128822,43,Medium,2024-12-31,2025-01-10
+PRJ-056,CON-056,Security Awareness Training 2025,Security awareness training project,2025-03-22,2025-07-31,Delayed,USER-002,156026,6874,33,Medium,2024-12-24,2025-01-06
+PRJ-057,CON-057,Digital Transformation MFG,Manufacturing digital transformation,2025-03-22,2025-12-29,Delayed,USER-004,62721,31864,88,High,2025-01-07,2025-01-13
+PRJ-058,CON-058,Network Security Upgrade,Network security upgrade project,2025-03-17,2025-07-12,Not Started,USER-004,194819,0,0,Low,2024-12-21,2025-01-08
+PRJ-059,CON-059,Security Awareness Training 2025,Security awareness training project,2025-03-17,2025-10-07,On Hold,USER-001,123332,85982,34,Low,2025-02-20,2025-03-13
+PRJ-060,CON-060,TechCorp ERP Implementation,ERP system implementation project,2025-02-28,2025-07-18,Planning,USER-003,79005,24457,18,High,2024-12-13,2024-12-17
+PRJ-061,CON-061,Security Audit 2025,Comprehensive security audit project,2025-03-11,2025-09-17,Delayed,USER-004,298354,61117,50,High,2025-01-26,2025-02-25
+PRJ-062,CON-062,Security Audit 2025,Comprehensive security audit project,2025-02-25,2026-02-11,Delayed,USER-001,204208,106149,94,Medium,2025-01-31,2025-02-27
+PRJ-063,CON-063,Security Awareness Training 2025,Security awareness training project,2025-03-01,2025-07-08,Not Started,USER-001,177525,0,0,Low,2025-01-25,2025-02-07
+PRJ-064,CON-064,Digital Transformation MFG,Manufacturing digital transformation,2025-02-22,2025-07-21,Planning,USER-004,107967,7574,13,High,2025-01-29,2025-02-15
+PRJ-065,CON-065,Cloud Migration RS,Cloud infrastructure migration project,2025-02-23,2025-05-29,Delayed,USER-003,219966,165743,36,Low,2025-02-17,2025-03-15
+PRJ-066,CON-066,Network Security Upgrade,Network security upgrade project,2025-03-04,2025-10-07,In Progress,USER-004,167444,12936,26,Medium,2025-02-20,2025-03-01
+PRJ-067,CON-067,Data Encryption Implementation,Data encryption implementation project,2025-02-26,2025-10-23,On Hold,USER-001,148692,46903,79,High,2025-01-29,2025-02-09
+PRJ-068,CON-068,Data Encryption Implementation,Data encryption implementation project,2025-03-01,2026-01-09,Completed,USER-004,236355,217386,94,Medium,2024-12-30,2025-01-22
+PRJ-069,CON-069,Digital Transformation MFG,Manufacturing digital transformation,2025-02-24,2025-09-29,Planning,USER-003,94575,46130,25,High,2025-02-03,2025-02-13
+PRJ-070,CON-070,Penetration Testing,Penetration testing and vulnerability assessment project,2025-03-12,2025-09-18,Not Started,USER-005,227843,0,0,Medium,2024-12-24,2025-01-05
+PRJ-071,CON-071,Security Audit 2025,Comprehensive security audit project,2025-03-16,2026-02-06,Planning,USER-001,235038,58126,48,Medium,2024-12-05,2024-12-27
+PRJ-072,CON-072,Security Audit 2025,Comprehensive security audit project,2025-02-24,2025-12-06,Completed,USER-001,261320,75144,12,High,2025-01-10,2025-02-02
+PRJ-073,CON-073,Analytics Platform Development,Custom analytics solution development,2025-02-26,2025-05-28,In Progress,USER-004,293437,216262,46,Medium,2025-02-07,2025-02-07
+PRJ-074,CON-074,TechCorp ERP Implementation,ERP system implementation project,2025-03-04,2026-01-20,In Progress,USER-004,249865,99633,95,Medium,2025-02-02,2025-02-11
+PRJ-075,CON-075,Network Security Upgrade,Network security upgrade project,2025-03-08,2025-08-14,In Progress,USER-005,169818,104554,46,Low,2024-12-19,2025-01-13
+PRJ-076,CON-076,Security Awareness Training 2025,Security awareness training project,2025-03-03,2025-11-12,Completed,USER-001,110859,87131,73,Low,2025-01-29,2025-02-23
+PRJ-077,CON-077,Penetration Testing,Penetration testing and vulnerability assessment project,2025-03-14,2025-12-08,Completed,USER-002,150946,77811,44,Low,2024-12-15,2025-01-03
+PRJ-078,CON-078,Penetration Testing,Penetration testing and vulnerability assessment project,2025-02-22,2025-10-20,On Hold,USER-004,68320,10323,70,Medium,2025-01-28,2025-02-04
+PRJ-079,CON-079,Incident Planning Project,Incident response and recovery planning project,2025-03-01,2025-10-09,In Progress,USER-001,265403,160482,63,Low,2025-02-16,2025-02-25
+PRJ-080,CON-080,Incident Planning Project,Incident response and recovery planning project,2025-03-16,2026-02-15,Delayed,USER-004,108100,49374,49,High,2024-12-31,2025-01-01
+PRJ-081,CON-081,Security Awareness Training 2025,Security awareness training project,2025-03-16,2025-08-13,On Hold,USER-001,101467,69653,11,Medium,2024-12-17,2024-12-31
+PRJ-082,CON-082,TechCorp ERP Implementation,ERP system implementation project,2025-03-10,2025-09-17,Delayed,USER-002,73434,63598,50,Low,2024-12-07,2024-12-22
+PRJ-083,CON-083,Penetration Testing,Penetration testing and vulnerability assessment project,2025-03-02,2025-09-17,On Hold,USER-002,59672,35453,33,Low,2025-01-09,2025-02-02
+PRJ-084,CON-084,Incident Planning Project,Incident response and recovery planning project,2025-02-22,2026-02-12,In Progress,USER-002,267332,80037,35,Low,2024-12-03,2025-01-02
+PRJ-085,CON-085,Digital Transformation MFG,Manufacturing digital transformation,2025-03-11,2025-11-09,Completed,USER-002,264471,52682,4,Medium,2024-12-07,2025-01-02
+PRJ-086,CON-086,Security Audit 2025,Comprehensive security audit project,2025-03-02,2026-02-07,Not Started,USER-004,123220,0,0,Medium,2024-12-29,2025-01-04
+PRJ-087,CON-087,Incident Planning Project,Incident response and recovery planning project,2025-03-23,2025-05-28,Completed,USER-002,56947,29558,1,Medium,2025-02-12,2025-03-11
+PRJ-088,CON-088,Security Awareness Training 2025,Security awareness training project,2025-03-23,2026-02-18,Completed,USER-003,200925,179904,1,High,2025-02-05,2025-02-06
+PRJ-089,CON-089,Incident Planning Project,Incident response and recovery planning project,2025-03-19,2025-11-25,Completed,USER-005,89816,42607,58,Medium,2024-12-04,2024-12-05
+PRJ-090,CON-090,Security Awareness Training 2025,Security awareness training project,2025-02-23,2025-12-18,Not Started,USER-001,159547,0,0,Low,2025-01-14,2025-01-31
+PRJ-091,CON-091,Cloud Migration RS,Cloud infrastructure migration project,2025-03-20,2026-01-01,Delayed,USER-004,119479,11870,53,High,2025-01-02,2025-01-05
+PRJ-092,CON-092,TechCorp ERP Implementation,ERP system implementation project,2025-03-22,2025-06-29,Planning,USER-005,73098,63653,43,Low,2025-01-21,2025-02-11
+PRJ-093,CON-093,Data Encryption Implementation,Data encryption implementation project,2025-03-11,2025-05-29,Completed,USER-005,120261,81882,2,Medium,2025-01-08,2025-01-12
+PRJ-094,CON-094,Analytics Platform Development,Custom analytics solution development,2025-03-05,2025-06-13,Delayed,USER-005,278971,197574,88,Medium,2025-02-12,2025-03-08
+PRJ-095,CON-095,Security Audit 2025,Comprehensive security audit project,2025-03-05,2026-01-01,Completed,USER-003,55683,28870,41,High,2025-02-03,2025-02-08
+PRJ-096,CON-096,Security Awareness Training 2025,Security awareness training project,2025-03-15,2025-12-13,Planning,USER-005,183208,10956,99,High,2025-01-30,2025-02-21
+PRJ-097,CON-097,Data Encryption Implementation,Data encryption implementation project,2025-02-26,2025-09-13,Delayed,USER-003,62408,29631,21,High,2024-12-02,2024-12-08
+PRJ-098,CON-098,Cloud Migration RS,Cloud infrastructure migration project,2025-03-13,2025-08-13,Delayed,USER-004,68150,13149,48,High,2025-01-31,2025-02-22
+PRJ-099,CON-099,Penetration Testing,Penetration testing and vulnerability assessment project,2025-03-09,2025-10-14,Planning,USER-001,206899,24557,98,Medium,2024-12-26,2025-01-11
+PRJ-100,CON-100,Penetration Testing,Penetration testing and vulnerability assessment project,2025-03-11,2025-08-14,On Hold,USER-005,165859,54428,80,High,2025-02-01,2025-02-10
