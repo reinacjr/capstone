@@ -7,18 +7,18 @@ This github repository is for storing datasets and code related to Project TROT 
 **1. Leads Table**
 
 *   **LeadID:** E.g. "LEAD-001". Listed in 3 digits, in running order of leads received.
-*   **Topic:** E.g. "ERP Implementation".  The subject or area of interest of the lead.
+*   **Topic:** E.g. "Scope Walkthrough".  The subject or area of interest of the lead.
 *   **FirstName:** E.g. "John". The lead's first name.
 *   **LastName:** E.g. "Smith". The lead's last name.
 *   **JobTitle:** E.g. "CTO". The lead's job title or position within their company.
 *   **CompanyName:** E.g. "TechCorp Inc". The name of the company the lead works for.
 *   **Email:** E.g. "john.smith@techcorp.com". The lead's email address.
-*   **Phone:** E.g. "+1-555-0101". The lead's phone number. Currently all North American numbers as per provided data.
+*   **Phone:** E.g. "+65 8766 2834". The lead's phone number. All Singaporean numbers as requested
 *   **Industry:** E.g. "Technology". The industry the lead's company operates in.
 *   **LeadSource:** E.g. "Website". How the lead was acquired (e.g., Website, Trade Show, Referral, LinkedIn, Email Campaign).
-*   **Status:** E.g. "New". The current stage of the lead in the sales process. Scope: "New", "Contacted", "Qualified", "Proposal Sent", "Closed Won", "Closed Lost".
+*   **Status:** E.g. "Open". The current stage of the lead in the sales process. Scope: "Open", "Converted"
 *   **Rating:** E.g. "Hot".  A measure of the lead's potential value. Scope: "Hot", "Warm", "Cold".
-*   **EstimatedValue:** E.g. 75000. The estimated monetary value of the potential deal.
+*   **EstimatedValue:** E.g. 30,000. The estimated monetary value of the potential deal. Scope: between 8,000 to 60,000
 *   **EstimatedCloseDate:** E.g. "2025-06-30". The estimated date when the deal is expected to close.
 *   **CreatedOn:** E.g. "2025-01-15". The date when the lead record was created.
 *   **ModifiedOn:** E.g. "2025-01-15". The date when the lead record was last modified.
@@ -30,13 +30,13 @@ This github repository is for storing datasets and code related to Project TROT 
 *   **Name:** E.g. "ERP Implementation - TechCorp". The name of the opportunity.
 *   **AccountID:** E.g. "ACC-001". The ID of the account associated with the opportunity.
 *   **LeadID:** E.g. "LEAD-001". The ID of the lead that this opportunity originated from.
-*   **Stage:** E.g. "Proposal". The current stage of the opportunity in the sales pipeline. Scope: "Discovery", "Qualification", "Proposal", "Negotiation", "Closed".
-*   **Probability:** E.g. 75. The probability (as a percentage) of winning the opportunity.
-*   **EstimatedValue:** E.g. 75000.  The estimated monetary value of the opportunity.
+*   **Stage:** E.g. "Discovery". The current stage of the opportunity in the sales pipeline. Scope: "Discovery", "Connected", "Follow up".
+*   **Probability:** E.g. 30. The probability (as a percentage) of winning the opportunity. Scope: "30", "60", "90"
+*   **EstimatedValue:** E.g. 8,000.  The estimated monetary value of the opportunity. Scope: Between 8,000 to 60,000
 *   **ExpectedCloseDate:** E.g. "2025-06-30". The expected date when the opportunity is expected to close.
 *   **ActualCloseDate:** E.g. "2025-02-01". The actual date when the opportunity was closed (blank if still open).
-*   **Status:** E.g. "Open". The current status of the opportunity. Scope: "Open", "Won", "Lost".
-*   **Description:** E.g. "Complete ERP system implementation including training". A brief description of the opportunity.
+*   **Status:** E.g. "In Progress". The current status of the opportunity. Scope: "In Progress", "Won".
+*   **Description:** E.g. "Vulnerability Analysis and Exploitation". A brief description of the opportunity.
 *   **OwnerID:** E.g. "USER-001". The ID of the user who owns the opportunity.
 *   **CreatedOn:** E.g. "2025-01-20". The date when the opportunity record was created.
 *   **ModifiedOn:** E.g. "2025-01-20". The date when the opportunity record was last modified.
@@ -45,17 +45,17 @@ This github repository is for storing datasets and code related to Project TROT 
 
 *   **QuoteID:** E.g. "QUO-001". Listed in 3 digits, in running order of quotes generated.
 *   **OpportunityID:** E.g. "OPP-001". The ID of the opportunity this quote is related to.
-*   **Name:** E.g. "ERP Implementation Quote". The name of the quote.
+*   **Name:** E.g. "Vulnerability Analysis and Exploitation". The name of the quote.
 *   **AccountID:** E.g. "ACC-001". The ID of the account the quote is for.
 *   **QuoteNumber:** E.g. "Q2025-001". A unique number for the quote.
 *   **Status:** E.g. "Sent". The current status of the quote. Scope: "Draft", "Sent", "Accepted", "Rejected".
 *   **ValidFrom:** E.g. "2025-01-20". The date from which the quote is valid.
 *   **ValidTo:** E.g. "2025-02-20". The date until which the quote is valid.
 *   **TotalAmount:** E.g. 75000. The total amount of the quote before discounts.
-*   **DiscountPercentage:** E.g. 5. The discount percentage applied to the quote.
+*   **DiscountPercentage:** E.g. 5. The discount percentage applied to the quote. Scope: 3 to 20%.
 *   **DiscountAmount:** E.g. 3750. The discount amount.
 *   **FinalAmount:** E.g. 71250. The final amount of the quote after discounts.
-*   **Description:** E.g. "ERP implementation services and licenses". A description of the quote.
+*   **Description:** E.g. "Vulnerability Analysis and Exploitation". A description of the quote.
 *   **CreatedOn:** E.g. "2025-01-20". The date when the quote record was created.
 *   **ModifiedOn:** E.g. "2025-01-20". The date when the quote record was last modified.
 
@@ -65,13 +65,13 @@ This github repository is for storing datasets and code related to Project TROT 
 *   **QuoteID:** E.g. "QUO-003". The ID of the quote the contract is based on.
 *   **AccountID:** E.g. "ACC-003". The ID of the account the contract is with.
 *   **ContractNumber:** E.g. "C2025-001". A unique number for the contract.
-*   **Status:** E.g. "Active". The current status of the contract. Scope: "Draft", "Pending", "Active", "Terminated", "Expired".
+*   **Status:** E.g. "Draft". The current status of the contract. Scope: "Draft", "Pending", "Approved", "Suspended", "Completed", "Cancelled", "Expired".
 *   **StartDate:** E.g. "2025-02-01". The start date of the contract.
 *   **EndDate:** E.g. "2026-01-31". The end date of the contract.
 *   **TotalValue:** E.g. 200000. The total value of the contract.
-*   **BillingFrequency:** E.g. "Monthly". How often the contract is billed. Scope: "Monthly", "Quarterly", "Annually".
-*   **PaymentTerms:** E.g. "Net 30". The payment terms of the contract. Scope: "Net 30", "Net 45", "Net 60".
-*   **Description:** E.g. "Security audit and compliance services contract". A description of the contract.
+*   **BillingFrequency:** E.g. "Monthly". How often the contract is billed. Scope: "Monthly", "Quarterly", "Annually", "As Per Contract Milestones".
+*   **PaymentTerms:** E.g. "Net 30". The payment terms of the contract. Scope: "Net 30", "Net 60", "Net 90".
+*   **Description:** E.g. "remediation validation and retest". A description of the contract.
 *   **CreatedOn:** E.g. "2025-02-01". The date when the contract record was created.
 *   **ModifiedOn:** E.g. "2025-02-01". The date when the contract record was last modified.
 
@@ -85,3 +85,53 @@ This github repository is for storing datasets and code related to Project TROT 
 *   **Amount:** E.g. 40000. The amount associated with the milestone.
 *   **Status:** E.g. "Completed". The current status of the milestone. Scope: "Planned", "In Progress", "Completed", "Delayed".
 *   **CompletionDate:** E.g. "2025-02-28". The date the milestone was completed
+
+**6. Projects Table**
+
+* **ProjectID:** E.g. "PRJ-001". Listed in 3 digits, in running order of projects.
+* **ContractID:** E.g. "CON-001". The ID of the contract this project is associated with.
+* **Name:** E.g. "Security Audit 2025". The name of the project.
+* **Description:** E.g. "Comprehensive security audit project". A description of the project.
+* **StartDate:** E.g. "2025-02-01". The start date of the project.
+* **EndDate:** E.g. "2025-05-01". The end date of the project.
+* **Status:** E.g. "Active". The current status of the project. Scope: "Active", "Closed", "Inactive".
+* **ProjectManager:** E.g. "USER-001". The ID of the user managing the project. Scope: 3 project managers. 
+* **Budget:** E.g. 200000. The total budget allocated to the project. 
+* **ActualCost:** E.g. 45000. The actual cost incurred on the project so far.
+* **Progress:** E.g. 35. The percentage of project completion.
+* **Risk:** E.g. "Low". The risk level associated with the project. Scope: "Low", "Medium", "High".
+* **CreatedOn:** E.g. "2025-02-01". The date when the project record was created.
+* **ModifiedOn:** E.g. "2025-02-01". The date when the project record was last modified.
+
+**7. Contract Invoices Table**
+
+* **InvoiceID:** E.g. "INV-001". Listed in 3 digits, in running order of invoices.
+* **ContractID:** E.g. "CON-001". The ID of the contract the invoice is related to.
+* **MilestoneID:** E.g. "MIL-001". The ID of the milestone the invoice is related to (if applicable, otherwise blank).
+* **InvoiceNumber:** E.g. "INV2025-001". A unique number for the invoice.
+* **Status:** E.g. "Billed". The current status of the invoice. Scope: "Billed", "Cancelled", "Complete", "New".
+* **IssueDate:** E.g. "2025-02-28". The date the invoice was issued.
+* **DueDate:** E.g. "2025-03-30". The date the invoice is due.
+* **Amount:** E.g. 40000. The total amount of the invoice. Scope: ?
+* **PaidAmount:** E.g. 40000. The amount paid on the invoice. Scope: ? 
+* **PaidDate:** E.g. "2025-03-25". The date the invoice was paid (blank if not paid).
+* **Description:** E.g. "Initial security assessment milestone". A description of the invoice.
+* **CreatedOn:** E.g. "2025-02-28". The date when the invoice record was created.
+* **ModifiedOn:** E.g. "2025-03-25". The date when the invoice record was last modified.
+
+**8. Approved Timesheets Table**
+
+* **TimesheetID:** E.g. "TS-001". Listed in 3 digits, in running order of timesheets.
+* **ProjectID:** E.g. "PRJ-001". The ID of the project the timesheet is for.
+* **EmployeeID:** E.g. "EMP-001". The ID of the employee who submitted the timesheet. Scope: 20 Employees
+* **WeekStartDate:** E.g. "2025-02-03". The start date of the week the timesheet covers.
+* **WeekEndDate:** E.g. "2025-02-09". The end date of the week the timesheet covers.
+* **Status:** E.g. "Approved". The current status of the timesheet. Scope: "Draft", "Submitted", "Approved", "Rejected", "Under Review", "Processed", "Finalised".
+* **TotalHours:** E.g. 40. The total number of hours worked during the week. Scope: ?
+* **BillableHours:** E.g. 35. The number of billable hours worked during the week. Scope: ?
+* **NonBillableHours:** E.g. 5. The number of non-billable hours worked during the week. Scope: ?
+* **ApprovedBy:** E.g. "USER-001". The ID of the user who approved the timesheet. Scope: 2 approvers
+* **ApprovalDate:** E.g. "2025-02-10". The date the timesheet was approved.
+* **Comments:** E.g. "Security assessment activities". Any comments related to the timesheet.
+* **CreatedOn:** E.g. "2025-02-09". The date when the timesheet record was created.
+* **ModifiedOn:** E.g. "2025-02-10". The date when the timesheet record was last modified.
