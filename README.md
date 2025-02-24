@@ -138,3 +138,17 @@ This github repository is for storing datasets and code related to Project TROT 
 
 ## ERD Diagram
 ![image](https://github.com/user-attachments/assets/bc47384a-8f77-4ae5-9666-438a6a0951c1)
+
+## Status Relationships
+- Converted Leads becomes Opportunities
+- All Opportunities becomes Quotes
+- Cancelled Opportunities must have Rejected Quotes
+- Accepted Quotes become Contracts
+- Approved Contacts becomes Milestones & Project
+- Suspended / Completed / Expired Contract must have Cancelled Milestones & Inactive Project
+- Completed Contract must have Completed Milestones & Closed Project
+- Completed Milestones must have Completed Invoice for those with Payment Term 'As Per Contract milestone'
+- Closed Projects must have Finalized Timesheets 
+
+
+
