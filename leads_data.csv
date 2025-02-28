@@ -1,101 +1,101 @@
 LeadID,Topic,FirstName,LastName,JobTitle,CompanyName,Email,Phone,Industry,LeadSource,Status,Rating,EstimatedValue,EstimatedCloseDate,CreatedOn,ModifiedOn,OwnerID
-LEAD-001,Penetration Testing,Sarah,Johnson,Data Security Officer,InfoDefense,Sarah.johnson@infodefense.com,+65 91894256,Education,Website,Converted,Cold,52764,2025-04-03,2024-12-26,2025-01-11,USER-017
-LEAD-002,Security Awareness Training,Michael,Wilson,Network Engineer,DataSafe,Michael.wilson@datasafe.com,+65 83844410,Healthcare,Website,Open,Warm,9442,2025-04-07,2025-02-09,2025-02-14,USER-010
-LEAD-003,Penetration Testing,Sarah,Garcia,IT Director,Peak Performance,Sarah.garcia@peakperformance.com,+65 88127193,Government,Partner,Open,Warm,18138,2025-06-25,2025-02-01,2025-02-05,USER-002
-LEAD-004,Data Encryption,Robert,Wilson,IT Director,GlobalTech,Robert.wilson@globaltech.com,+65 84097642,Consulting,Email Campaign,Converted,Cold,31879,2025-12-22,2025-01-18,2025-02-10,USER-005
-LEAD-005,Cloud Migration,Matthew,Davis,CEO,Alpha Dynamics,Matthew.davis@alphadynamics.com,+65 80571094,Technology,Partner,Open,Cold,49985,2025-08-11,2025-01-20,2025-02-09,USER-010
-LEAD-006,Digital Transformation,Robert,Clark,Compliance Officer,LegalEase,Robert.clark@legalease.com,+65 80274580,Manufacturing,Direct Mail,Open,Hot,22781,2025-05-08,2025-02-09,2025-03-05,USER-017
-LEAD-007,Security Audit,Ashley,Clark,System Administrator,LegalEase,Ashley.clark@legalease.com,+65 82309247,Education,Social Media,Open,Hot,34767,2026-02-18,2025-02-20,2025-02-22,USER-006
-LEAD-008,Security Awareness Training,Sarah,Johnson,Security Analyst,Peak Performance,Sarah.johnson@peakperformance.com,+65 99878998,Non-profit,Website,Converted,Warm,35303,2025-10-17,2024-12-04,2024-12-07,USER-012
-LEAD-009,ERP Implementation,John,Wilson,CISO,NetSolutions,John.wilson@netsolutions.com,+65 98713349,Government,Webinar,Converted,Warm,20002,2025-04-05,2024-12-24,2025-01-04,USER-006
-LEAD-010,Data Analytics Solution,John,Brown,Security Engineer,Analytics Pro,John.brown@analyticspro.com,+65 92728895,Financial Services,LinkedIn,Open,Cold,15873,2025-06-09,2025-02-27,2025-03-21,USER-007
-LEAD-011,Network Security,Jessica,Davis,Compliance Officer,Analytics Pro,Jessica.davis@analyticspro.com,+65 93649565,Healthcare,Webinar,Converted,Warm,28043,2025-12-10,2025-02-02,2025-02-10,USER-009
-LEAD-012,Incident Response,Emma,Davis,Consultant,TechCorp Inc.,Emma.davis@techcorpinc..com,+65 98669518,Non-profit,Social Media,Open,Cold,27335,2026-01-27,2025-02-05,2025-02-07,USER-018
-LEAD-013,Data Analytics Solution,Michael,Johnson,HR Manager,Office Solutions,Michael.johnson@officesolutions.com,+65 97866440,Retail,Email Campaign,Converted,Warm,30498,2025-03-26,2024-12-26,2025-01-04,USER-008
-LEAD-014,Data Analytics Solution,Matthew,Smith,Data Analyst,RetailMart,Matthew.smith@retailmart.com,+65 84335817,Healthcare,LinkedIn,Converted,Hot,18564,2025-04-18,2025-01-23,2025-02-09,USER-016
-LEAD-015,Security Audit,Christopher,Clark,HR Manager,Office Solutions,Christopher.clark@officesolutions.com,+65 97903927,Consulting,Referral,Converted,Cold,15649,2025-05-15,2025-01-08,2025-01-23,USER-008
-LEAD-016,Cloud Migration,John,Rodriguez,Compliance Officer,Alpha Dynamics,John.rodriguez@alphadynamics.com,+65 98066796,Manufacturing,LinkedIn,Converted,Cold,16257,2025-07-28,2024-12-11,2025-01-07,USER-009
-LEAD-017,Data Analytics Solution,Matthew,Clark,IT Director,TechCorp Inc.,Matthew.clark@techcorpinc..com,+65 83753788,Education,Website,Converted,Warm,14613,2025-10-25,2024-12-11,2024-12-25,USER-005
-LEAD-018,Data Analytics Solution,Robert,Wilson,Data Analyst,EduPlus,Robert.wilson@eduplus.com,+65 86601676,Manufacturing,Webinar,Converted,Cold,30688,2025-10-26,2025-01-24,2025-02-23,USER-015
-LEAD-019,Data Analytics Solution,John,Garcia,Security Manager,MedTech,John.garcia@medtech.com,+65 85014535,Education,Webinar,Converted,Warm,43621,2025-09-01,2025-02-16,2025-02-22,USER-001
-LEAD-020,Digital Transformation,Michael,Lee,Cloud Architect,AppSecure,Michael.lee@appsecure.com,+65 85869950,Retail,Partner,Converted,Cold,53753,2025-10-21,2024-12-17,2025-01-06,USER-008
-LEAD-021,Penetration Testing,Michael,Rodriguez,HR Manager,Gamma Enterprises,Michael.rodriguez@gammaenterprises.com,+65 83101700,Technology,Direct Mail,Open,Warm,52011,2026-02-03,2025-02-23,2025-03-01,USER-009
-LEAD-022,Security Awareness Training,Jessica,Davis,Compliance Officer,Office Solutions,Jessica.davis@officesolutions.com,+65 89616068,Healthcare,Partner,Converted,Cold,44202,2025-09-16,2025-01-16,2025-01-26,USER-017
-LEAD-023,ERP Implementation,Emma,Clark,Network Engineer,MedTech,Emma.clark@medtech.com,+65 94946336,Financial Services,Partner,Converted,Hot,52769,2025-11-22,2025-01-06,2025-01-27,USER-005
-LEAD-024,ERP Implementation,Sarah,Brown,Software Developer,Beta Innovations,Sarah.brown@betainnovations.com,+65 99591562,Manufacturing,Partner,Converted,Warm,28717,2026-02-02,2025-02-12,2025-03-06,USER-006
-LEAD-025,Network Security,Jessica,Smith,IT Manager,InfoDefense,Jessica.smith@infodefense.com,+65 94819852,Retail,Webinar,Converted,Warm,30093,2025-05-22,2025-01-18,2025-01-22,USER-008
-LEAD-026,Security Awareness Training,Sarah,Johnson,CISO,Manufacturing Plus,Sarah.johnson@manufacturingplus.com,+65 96300869,Legal,Webinar,Open,Hot,13830,2025-12-14,2024-12-30,2025-01-03,USER-012
-LEAD-027,Cloud Migration,David,Garcia,Security Engineer,GlobalTech,David.garcia@globaltech.com,+65 97803163,Consulting,Webinar,Converted,Warm,22349,2025-12-24,2024-12-29,2025-01-26,USER-015
-LEAD-028,Security Audit,Sarah,Brown,CEO,FinanceFirst,Sarah.brown@financefirst.com,+65 81887228,Consulting,Social Media,Open,Hot,57236,2025-05-29,2024-12-05,2024-12-10,USER-001
-LEAD-029,Data Encryption,Michael,Lee,IT Manager,Zeta Solutions,Michael.lee@zetasolutions.com,+65 90521045,Legal,Trade Show,Converted,Warm,39123,2025-12-30,2025-01-21,2025-01-21,USER-010
-LEAD-030,Digital Transformation,John,Brown,CTO,Zeta Solutions,John.brown@zetasolutions.com,+65 91150533,Retail,Webinar,Converted,Hot,14036,2025-06-16,2024-12-07,2024-12-10,USER-005
-LEAD-031,Cloud Migration,Jessica,Garcia,Security Manager,Peak Performance,Jessica.garcia@peakperformance.com,+65 98956396,Legal,Partner,Converted,Warm,13886,2025-05-22,2024-12-12,2025-01-10,USER-011
-LEAD-032,Cloud Migration,Christopher,Davis,CISO,LegalEase,Christopher.davis@legalease.com,+65 90167785,Consulting,Email Campaign,Open,Warm,15573,2025-11-03,2024-12-05,2024-12-10,USER-003
-LEAD-033,Cloud Migration,Ashley,Brown,Network Engineer,Retail Solutions,Ashley.brown@retailsolutions.com,+65 90541393,Healthcare,Direct Mail,Converted,Cold,17934,2025-10-22,2025-02-28,2025-03-28,USER-014
-LEAD-034,Penetration Testing,Jessica,Lewis,Data Analyst,CyberSecure,Jessica.lewis@cybersecure.com,+65 95385019,Education,Direct Mail,Converted,Hot,17763,2025-04-16,2024-12-11,2024-12-13,USER-010
-LEAD-035,ERP Implementation,Matthew,Wilson,Security Manager,Alpha Dynamics,Matthew.wilson@alphadynamics.com,+65 98823458,Consulting,Email Campaign,Converted,Hot,36965,2025-06-21,2025-01-07,2025-02-03,USER-015
-LEAD-036,Data Encryption,Sarah,Johnson,CTO,DataGuard,Sarah.johnson@dataguard.com,+65 86870169,Government,Event,Converted,Warm,9747,2025-10-20,2025-01-13,2025-02-10,USER-003
-LEAD-037,Penetration Testing,Michael,Johnson,IT Manager,TechCorp Inc.,Michael.johnson@techcorpinc..com,+65 90345584,Legal,Event,Open,Warm,48619,2025-07-02,2025-02-27,2025-03-28,USER-003
-LEAD-038,Data Encryption,Michael,Wilson,System Administrator,Innovate Inc.,Michael.wilson@innovateinc..com,+65 86444401,Technology,Website,Open,Cold,23024,2025-02-13,2024-12-31,2025-01-13,USER-003
-LEAD-039,Penetration Testing,Michael,Garcia,Security Engineer,InfoDefense,Michael.garcia@infodefense.com,+65 83300813,Healthcare,Direct Mail,Converted,Warm,29006,2025-04-09,2024-12-16,2024-12-29,USER-008
-LEAD-040,Data Analytics Solution,Robert,Smith,IT Specialist,SecureNet,Robert.smith@securenet.com,+65 89502368,Consulting,Email Campaign,Converted,Warm,19007,2025-08-03,2025-02-05,2025-02-20,USER-009
-LEAD-041,Penetration Testing,Robert,Johnson,IT Manager,Cloud Solutions,Robert.johnson@cloudsolutions.com,+65 94057611,Education,Social Media,Converted,Warm,11348,2025-05-03,2025-01-14,2025-02-04,USER-013
-LEAD-042,Network Security,Ashley,Wilson,CISO,Analytics Pro,Ashley.wilson@analyticspro.com,+65 84573821,Technology,Direct Mail,Converted,Cold,48722,2025-09-04,2024-12-30,2025-01-02,USER-004
-LEAD-043,Security Audit,Robert,Davis,IT Manager,Beta Innovations,Robert.davis@betainnovations.com,+65 97383377,Retail,Referral,Converted,Hot,59871,2025-06-22,2025-01-13,2025-01-18,USER-004
-LEAD-044,ERP Implementation,Jessica,Garcia,Security Manager,GlobalTech,Jessica.garcia@globaltech.com,+65 89967860,Healthcare,Referral,Converted,Cold,55094,2025-10-12,2025-01-30,2025-02-12,USER-007
-LEAD-045,Network Security,Ashley,Clark,IT Director,InfoDefense,Ashley.clark@infodefense.com,+65 84906632,Education,Referral,Open,Hot,23592,2025-09-07,2024-12-28,2025-01-21,USER-006
-LEAD-046,Penetration Testing,Ashley,Garcia,HR Manager,Zeta Solutions,Ashley.garcia@zetasolutions.com,+65 83638199,Government,Partner,Converted,Cold,49207,2025-11-12,2025-01-15,2025-01-29,USER-007
-LEAD-047,Security Audit,Matthew,Lee,Compliance Officer,Office Solutions,Matthew.lee@officesolutions.com,+65 91727781,Manufacturing,Webinar,Open,Warm,15746,2025-12-06,2025-02-02,2025-02-12,USER-014
-LEAD-048,Penetration Testing,Robert,Brown,Consultant,LegalEase,Robert.brown@legalease.com,+65 95395390,Financial Services,LinkedIn,Open,Hot,57539,2025-07-04,2024-12-03,2024-12-10,USER-002
-LEAD-049,ERP Implementation,Christopher,Davis,Cloud Architect,MedTech,Christopher.davis@medtech.com,+65 89333690,Consulting,Referral,Converted,Warm,44095,2025-07-09,2024-12-19,2024-12-20,USER-011
-LEAD-050,Data Encryption,Ashley,Lewis,Consultant,AppSecure,Ashley.lewis@appsecure.com,+65 98872609,Healthcare,Event,Converted,Warm,42382,2025-09-07,2025-01-10,2025-01-14,USER-006
-LEAD-051,ERP Implementation,Matthew,Johnson,HR Manager,DataGuard,Matthew.johnson@dataguard.com,+65 80720413,Technology,Event,Open,Warm,17868,2025-03-05,2024-12-06,2025-01-03,USER-014
-LEAD-052,Data Encryption,Jessica,Smith,HR Manager,AppSecure,Jessica.smith@appsecure.com,+65 83521812,Government,Social Media,Converted,Hot,59268,2025-04-02,2024-12-04,2024-12-10,USER-018
-LEAD-053,Penetration Testing,Robert,Johnson,Data Analyst,Cloud Solutions,Robert.johnson@cloudsolutions.com,+65 81591918,Government,Email Campaign,Open,Hot,13118,2025-05-02,2024-12-01,2024-12-31,USER-008
-LEAD-054,Network Security,Christopher,Lee,Cloud Architect,EduPlus,Christopher.lee@eduplus.com,+65 83378351,Manufacturing,Partner,Converted,Hot,27836,2025-03-04,2024-11-30,2024-12-12,USER-016
-LEAD-055,Digital Transformation,Jessica,Lee,IT Specialist,SecurePlus,Jessica.lee@secureplus.com,+65 83690679,Financial Services,Website,Converted,Cold,50688,2025-12-11,2025-02-09,2025-02-19,USER-001
-LEAD-056,Data Encryption,Michael,Smith,Consultant,InfoDefense,Michael.smith@infodefense.com,+65 81813672,Healthcare,Trade Show,Converted,Cold,11759,2025-11-08,2025-02-12,2025-03-06,USER-001
-LEAD-057,Security Awareness Training,Matthew,Clark,Security Manager,AppSecure,Matthew.clark@appsecure.com,+65 83489086,Technology,Social Media,Converted,Hot,28499,2025-11-14,2024-12-15,2025-01-01,USER-007
-LEAD-058,ERP Implementation,Jessica,Lewis,System Administrator,SecureNet,Jessica.lewis@securenet.com,+65 97024445,Consulting,Referral,Converted,Hot,42353,2025-10-05,2024-11-30,2024-12-07,USER-018
-LEAD-059,Data Analytics Solution,John,Davis,IT Manager,TechCorp Inc.,John.davis@techcorpinc..com,+65 90096688,Manufacturing,Email Campaign,Converted,Cold,40479,2025-01-10,2024-12-08,2024-12-10,USER-016
-LEAD-060,Incident Response,Ashley,Lee,Compliance Officer,AppSecure,Ashley.lee@appsecure.com,+65 99264360,Consulting,Email Campaign,Open,Hot,46914,2025-03-12,2025-02-06,2025-02-18,USER-010
-LEAD-061,Security Audit,John,Lewis,System Administrator,TechCorp Inc.,John.lewis@techcorpinc..com,+65 93005152,Technology,Trade Show,Open,Cold,35029,2025-08-01,2025-01-02,2025-01-02,USER-005
-LEAD-062,Data Analytics Solution,John,Brown,System Administrator,HealthFirst,John.brown@healthfirst.com,+65 85668068,Education,Direct Mail,Open,Hot,23429,2025-03-24,2024-12-31,2025-01-17,USER-009
-LEAD-063,Cloud Migration,Matthew,Rodriguez,Project Manager,FinanceFirst,Matthew.rodriguez@financefirst.com,+65 92137751,Legal,Trade Show,Converted,Cold,43849,2025-10-29,2024-11-30,2024-12-23,USER-014
-LEAD-064,ERP Implementation,David,Garcia,Network Engineer,AppSecure,David.garcia@appsecure.com,+65 98929782,Non-profit,Social Media,Converted,Hot,54326,2025-06-05,2025-02-07,2025-03-09,USER-015
-LEAD-065,Cloud Migration,Emma,Smith,IT Director,SecureNet,Emma.smith@securenet.com,+65 97863038,Manufacturing,LinkedIn,Converted,Warm,54512,2025-04-04,2025-01-21,2025-02-12,USER-010
-LEAD-066,Security Awareness Training,Robert,Smith,Data Security Officer,Beta Innovations,Robert.smith@betainnovations.com,+65 90966473,Manufacturing,Webinar,Converted,Cold,9092,2025-07-27,2025-02-21,2025-03-22,USER-015
-LEAD-067,ERP Implementation,John,Brown,Data Analyst,Cloud Solutions,John.brown@cloudsolutions.com,+65 90189104,Government,Email Campaign,Open,Hot,25969,2025-12-18,2025-01-14,2025-01-26,USER-019
-LEAD-068,Data Analytics Solution,Ashley,Brown,IT Director,NetSolutions,Ashley.brown@netsolutions.com,+65 85125670,Manufacturing,Email Campaign,Converted,Warm,43060,2025-12-07,2024-12-23,2025-01-11,USER-017
-LEAD-069,Data Encryption,Christopher,Johnson,CTO,Summit Solutions,Christopher.johnson@summitsolutions.com,+65 99190614,Non-profit,Trade Show,Converted,Warm,20745,2025-03-24,2025-01-02,2025-01-27,USER-019
-LEAD-070,Incident Response,Ashley,Smith,Security Engineer,Innovate Inc.,Ashley.smith@innovateinc..com,+65 97346841,Government,Webinar,Open,Cold,17013,2025-07-09,2024-12-20,2024-12-29,USER-014
-LEAD-071,Security Audit,Emma,Garcia,COO,Epsilon Technologies,Emma.garcia@epsilontechnologies.com,+65 84136425,Non-profit,Social Media,Converted,Hot,48280,2025-09-17,2025-02-18,2025-02-22,USER-002
-LEAD-072,Security Audit,Christopher,Brown,CTO,LegalEase,Christopher.brown@legalease.com,+65 91923206,Financial Services,Referral,Open,Cold,54790,2025-12-20,2025-01-26,2025-02-19,USER-015
-LEAD-073,Security Audit,John,Lewis,Data Analyst,FinanceFirst,John.lewis@financefirst.com,+65 89279068,Manufacturing,Email Campaign,Converted,Hot,37774,2025-07-18,2024-12-11,2024-12-23,USER-003
-LEAD-074,Penetration Testing,Michael,Clark,IT Director,HealthFirst,Michael.clark@healthfirst.com,+65 82467114,Legal,LinkedIn,Converted,Hot,32731,2025-06-27,2025-02-25,2025-03-21,USER-006
-LEAD-075,ERP Implementation,Matthew,Lee,Consultant,InfoDefense,Matthew.lee@infodefense.com,+65 91918317,Healthcare,Event,Converted,Hot,18091,2025-06-19,2025-01-05,2025-01-08,USER-004
-LEAD-076,Security Awareness Training,Ashley,Wilson,Project Manager,SecureNet,Ashley.wilson@securenet.com,+65 98886524,Legal,Email Campaign,Converted,Warm,40121,2025-03-06,2024-12-26,2025-01-25,USER-013
-LEAD-077,Penetration Testing,Emma,Davis,Security Analyst,CyberSecure,Emma.davis@cybersecure.com,+65 98865447,Education,Email Campaign,Converted,Warm,29609,2025-06-18,2025-02-21,2025-02-24,USER-005
-LEAD-078,Security Awareness Training,Robert,Clark,System Administrator,Beta Innovations,Robert.clark@betainnovations.com,+65 83127296,Education,Event,Open,Warm,34058,2025-10-04,2025-02-17,2025-02-23,USER-019
-LEAD-079,Digital Transformation,Jessica,Wilson,Security Manager,DataSafe,Jessica.wilson@datasafe.com,+65 94514496,Education,Event,Converted,Hot,27402,2025-09-06,2025-02-22,2025-03-01,USER-001
-LEAD-080,Security Awareness Training,Sarah,Johnson,Security Manager,AppSecure,Sarah.johnson@appsecure.com,+65 97684795,Technology,Webinar,Converted,Hot,10363,2025-09-26,2025-02-19,2025-02-21,USER-002
-LEAD-081,ERP Implementation,John,Rodriguez,System Administrator,FinanceFirst,John.rodriguez@financefirst.com,+65 86447257,Financial Services,Webinar,Converted,Cold,52969,2026-02-12,2025-02-13,2025-03-15,USER-004
-LEAD-082,ERP Implementation,Christopher,Wilson,Software Developer,SecureNet,Christopher.wilson@securenet.com,+65 99771273,Retail,Direct Mail,Converted,Warm,51833,2025-12-16,2025-02-06,2025-02-25,USER-004
-LEAD-083,ERP Implementation,Christopher,Lewis,HR Manager,DataSafe,Christopher.lewis@datasafe.com,+65 99167330,Consulting,Social Media,Open,Cold,46624,2025-02-11,2024-12-12,2024-12-20,USER-005
-LEAD-084,Security Audit,John,Wilson,IT Specialist,Peak Performance,John.wilson@peakperformance.com,+65 97152672,Education,Website,Converted,Warm,40214,2025-08-08,2025-02-10,2025-03-04,USER-002
-LEAD-085,Incident Response,Sarah,Clark,COO,Delta Systems,Sarah.clark@deltasystems.com,+65 96100398,Government,Referral,Converted,Warm,33547,2025-05-18,2025-02-26,2025-03-08,USER-003
-LEAD-086,Penetration Testing,Robert,Lewis,CISO,SecurePlus,Robert.lewis@secureplus.com,+65 99963623,Non-profit,Partner,Converted,Hot,24726,2026-01-13,2025-02-09,2025-02-18,USER-001
-LEAD-087,Data Analytics Solution,Michael,Clark,CTO,Office Solutions,Michael.clark@officesolutions.com,+65 88990918,Consulting,Partner,Open,Cold,34051,2025-10-25,2024-12-23,2025-01-06,USER-003
-LEAD-088,Cloud Migration,Jessica,Rodriguez,Data Analyst,TechCorp Inc.,Jessica.rodriguez@techcorpinc..com,+65 90790719,Retail,Website,Converted,Cold,47344,2025-03-23,2025-02-07,2025-02-07,USER-008
-LEAD-089,Security Awareness Training,Robert,Smith,Data Analyst,Manufacturing Plus,Robert.smith@manufacturingplus.com,+65 97407106,Consulting,Event,Converted,Hot,45297,2025-11-04,2025-02-10,2025-03-01,USER-009
-LEAD-090,ERP Implementation,Christopher,Lewis,Security Engineer,RetailMart,Christopher.lewis@retailmart.com,+65 98906000,Financial Services,Webinar,Open,Hot,11072,2025-09-14,2025-02-25,2025-03-21,USER-017
-LEAD-091,Network Security,Michael,Johnson,CISO,DataSafe,Michael.johnson@datasafe.com,+65 94103369,Legal,Event,Converted,Cold,13250,2025-12-20,2025-02-13,2025-02-16,USER-006
-LEAD-092,Data Analytics Solution,John,Smith,CTO,Retail Solutions,John.smith@retailsolutions.com,+65 86262880,Technology,Email Campaign,Converted,Cold,54292,2025-12-27,2025-01-16,2025-01-20,USER-017
-LEAD-093,Security Awareness Training,Emma,Clark,IT Specialist,SecureNet,Emma.clark@securenet.com,+65 80573111,Education,Website,Converted,Hot,33078,2025-06-27,2024-12-24,2025-01-23,USER-004
-LEAD-094,Data Analytics Solution,John,Johnson,Security Manager,HealthFirst,John.johnson@healthfirst.com,+65 99297602,Government,Website,Converted,Cold,49708,2025-08-15,2024-12-06,2024-12-16,USER-016
-LEAD-095,Cloud Migration,Jessica,Lee,IT Manager,Delta Systems,Jessica.lee@deltasystems.com,+65 98863395,Government,Partner,Converted,Hot,36144,2025-07-03,2025-01-02,2025-01-12,USER-016
-LEAD-096,Digital Transformation,Ashley,Brown,IT Specialist,CyberSecure,Ashley.brown@cybersecure.com,+65 83479714,Government,Trade Show,Converted,Cold,14893,2025-03-31,2025-01-13,2025-01-19,USER-011
-LEAD-097,ERP Implementation,Emma,Lewis,Cloud Architect,DataGuard,Emma.lewis@dataguard.com,+65 87125720,Healthcare,Referral,Converted,Warm,52398,2025-11-15,2024-12-03,2024-12-25,USER-008
-LEAD-098,ERP Implementation,David,Wilson,Consultant,CyberSecure,David.wilson@cybersecure.com,+65 99132470,Government,Website,Converted,Cold,51290,2025-09-22,2024-12-16,2024-12-16,USER-015
-LEAD-099,Security Awareness Training,Christopher,Wilson,CTO,DataGuard,Christopher.wilson@dataguard.com,+65 80832081,Education,LinkedIn,Open,Hot,31155,2025-02-06,2024-12-01,2024-12-09,USER-007
-LEAD-100,Security Awareness Training,Sarah,Clark,CTO,Epsilon Technologies,Sarah.clark@epsilontechnologies.com,+65 97379419,Legal,Trade Show,Converted,Warm,15720,2025-03-13,2025-02-08,2025-02-15,USER-007
+LEAD-001,Security Audit,Jessica,Garcia,Data Security Officer,TechCorp Inc.,Jessica.garcia@techcorpinc..com,+65 95806324,Financial Services,Partner,Open,Cold,26739,2025-10-23,2025-02-27,2025-03-25,USER-007
+LEAD-002,Security Audit,Emma,Garcia,Data Security Officer,Manufacturing Plus,Emma.garcia@manufacturingplus.com,+65 81774941,Non-profit,Event,Converted,Cold,45729,2025-07-18,2024-12-04,2024-12-13,USER-008
+LEAD-003,Data Analytics Solution,David,Clark,Security Engineer,Alpha Dynamics,David.clark@alphadynamics.com,+65 96429344,Retail,Direct Mail,Converted,Warm,36313,2025-12-11,2025-01-11,2025-02-09,USER-001
+LEAD-004,Data Encryption,John,Lewis,COO,TechCorp Inc.,John.lewis@techcorpinc..com,+65 96615880,Non-profit,Email Campaign,Converted,Hot,26219,2025-09-06,2024-12-18,2024-12-22,USER-018
+LEAD-005,Data Analytics Solution,Emma,Lewis,Software Developer,NetSolutions,Emma.lewis@netsolutions.com,+65 98448761,Non-profit,Website,Converted,Cold,15625,2025-12-10,2025-02-18,2025-03-19,USER-004
+LEAD-006,Security Awareness Training,Emma,Garcia,Security Manager,TechCorp Inc.,Emma.garcia@techcorpinc..com,+65 97515457,Education,Partner,Open,Cold,40247,2025-01-13,2024-12-06,2024-12-26,USER-002
+LEAD-007,ERP Implementation,Jessica,Rodriguez,CEO,DataGuard,Jessica.rodriguez@dataguard.com,+65 94922270,Non-profit,Website,Open,Warm,58281,2025-09-27,2025-01-05,2025-01-21,USER-012
+LEAD-008,ERP Implementation,Robert,Clark,IT Manager,DataGuard,Robert.clark@dataguard.com,+65 84851648,Legal,Trade Show,Converted,Warm,56692,2025-11-10,2024-12-21,2025-01-06,USER-015
+LEAD-009,Data Encryption,Jessica,Johnson,IT Manager,Cloud Solutions,Jessica.johnson@cloudsolutions.com,+65 90028160,Healthcare,Email Campaign,Open,Warm,25948,2025-04-29,2025-01-05,2025-01-09,USER-006
+LEAD-010,Network Security,David,Rodriguez,Data Security Officer,Epsilon Technologies,David.rodriguez@epsilontechnologies.com,+65 97557923,Financial Services,Social Media,Converted,Cold,16510,2025-09-30,2024-12-11,2025-01-07,USER-018
+LEAD-011,Digital Transformation,Robert,Smith,Compliance Officer,Summit Solutions,Robert.smith@summitsolutions.com,+65 85994991,Technology,Trade Show,Open,Hot,46102,2025-12-08,2025-01-24,2025-02-03,USER-018
+LEAD-012,Cloud Migration,Matthew,Brown,Data Analyst,Analytics Pro,Matthew.brown@analyticspro.com,+65 97574207,Financial Services,Direct Mail,Converted,Hot,45900,2025-12-27,2025-01-11,2025-01-25,USER-001
+LEAD-013,Network Security,David,Lee,Data Security Officer,SecurePlus,David.lee@secureplus.com,+65 83854820,Government,Website,Converted,Cold,55501,2025-07-18,2024-12-03,2024-12-08,USER-006
+LEAD-014,Digital Transformation,Christopher,Smith,Data Analyst,FinanceFirst,Christopher.smith@financefirst.com,+65 80459944,Legal,Referral,Converted,Cold,16791,2026-01-03,2025-02-19,2025-03-10,USER-016
+LEAD-015,Digital Transformation,David,Clark,Cloud Architect,Summit Solutions,David.clark@summitsolutions.com,+65 90417823,Legal,Event,Converted,Warm,10332,2025-05-26,2024-12-24,2025-01-04,USER-016
+LEAD-016,Incident Response,Sarah,Davis,Cloud Architect,MedTech,Sarah.davis@medtech.com,+65 97847493,Government,Event,Converted,Warm,23909,2025-03-06,2025-01-31,2025-02-01,USER-003
+LEAD-017,Security Awareness Training,Robert,Lewis,IT Manager,NetSolutions,Robert.lewis@netsolutions.com,+65 94932574,Healthcare,Trade Show,Converted,Cold,12361,2026-02-18,2025-02-23,2025-03-22,USER-003
+LEAD-018,Network Security,Emma,Davis,Data Analyst,AppSecure,Emma.davis@appsecure.com,+65 82183679,Retail,Email Campaign,Open,Cold,58383,2025-12-18,2025-02-07,2025-02-07,USER-016
+LEAD-019,Digital Transformation,Michael,Garcia,Project Manager,GlobalTech,Michael.garcia@globaltech.com,+65 84220892,Education,Website,Converted,Cold,39731,2025-06-20,2025-02-27,2025-03-14,USER-004
+LEAD-020,Penetration Testing,Sarah,Lee,Software Developer,MedTech,Sarah.lee@medtech.com,+65 93238800,Technology,Partner,Converted,Warm,31379,2025-10-01,2025-01-14,2025-02-06,USER-016
+LEAD-021,Digital Transformation,Robert,Brown,IT Specialist,RetailMart,Robert.brown@retailmart.com,+65 88220183,Retail,Trade Show,Open,Hot,23367,2025-12-18,2025-02-23,2025-02-23,USER-002
+LEAD-022,Digital Transformation,Ashley,Lewis,Project Manager,MedTech,Ashley.lewis@medtech.com,+65 96470776,Non-profit,LinkedIn,Converted,Hot,59845,2025-07-07,2025-01-07,2025-01-12,USER-006
+LEAD-023,Cloud Migration,David,Lee,CTO,Epsilon Technologies,David.lee@epsilontechnologies.com,+65 99358042,Non-profit,Website,Converted,Cold,12450,2025-02-10,2024-12-29,2025-01-28,USER-017
+LEAD-024,Security Awareness Training,Michael,Smith,Data Security Officer,SecurePlus,Michael.smith@secureplus.com,+65 99882972,Education,Event,Open,Hot,26085,2025-08-28,2025-02-10,2025-03-08,USER-011
+LEAD-025,Digital Transformation,Emma,Johnson,Consultant,Epsilon Technologies,Emma.johnson@epsilontechnologies.com,+65 82414276,Manufacturing,Direct Mail,Converted,Warm,56018,2025-09-02,2025-01-16,2025-01-25,USER-006
+LEAD-026,Security Awareness Training,Ashley,Davis,Security Manager,Office Solutions,Ashley.davis@officesolutions.com,+65 87820847,Financial Services,Email Campaign,Converted,Hot,44733,2025-04-20,2024-12-09,2024-12-26,USER-002
+LEAD-027,Data Analytics Solution,John,Lewis,CEO,Beta Innovations,John.lewis@betainnovations.com,+65 80979686,Legal,Partner,Open,Hot,39374,2025-09-15,2024-12-11,2025-01-02,USER-008
+LEAD-028,Cloud Migration,Sarah,Brown,IT Specialist,Beta Innovations,Sarah.brown@betainnovations.com,+65 85030921,Manufacturing,Email Campaign,Open,Hot,44428,2025-08-02,2024-12-23,2025-01-01,USER-006
+LEAD-029,Network Security,Jessica,Lewis,Security Engineer,Retail Solutions,Jessica.lewis@retailsolutions.com,+65 91800901,Non-profit,Social Media,Open,Warm,50502,2025-05-19,2025-01-27,2025-02-24,USER-002
+LEAD-030,Network Security,John,Lee,Consultant,RetailMart,John.lee@retailmart.com,+65 93999550,Government,Webinar,Open,Hot,13214,2025-09-22,2025-02-18,2025-02-24,USER-002
+LEAD-031,Penetration Testing,Matthew,Clark,HR Manager,Manufacturing Plus,Matthew.clark@manufacturingplus.com,+65 95671807,Technology,Direct Mail,Open,Hot,48971,2025-09-20,2024-12-11,2024-12-16,USER-012
+LEAD-032,Security Awareness Training,Ashley,Clark,IT Director,DataSafe,Ashley.clark@datasafe.com,+65 93910107,Retail,Event,Converted,Warm,53769,2025-01-10,2024-11-30,2024-12-04,USER-016
+LEAD-033,Digital Transformation,Jessica,Wilson,CISO,FinanceFirst,Jessica.wilson@financefirst.com,+65 99145116,Retail,Social Media,Open,Cold,24802,2025-04-13,2024-12-24,2025-01-22,USER-005
+LEAD-034,Data Encryption,Matthew,Brown,Security Engineer,HealthFirst,Matthew.brown@healthfirst.com,+65 80393640,Non-profit,Email Campaign,Open,Warm,13067,2025-03-10,2025-01-28,2025-02-03,USER-014
+LEAD-035,Penetration Testing,Michael,Garcia,Security Analyst,Summit Solutions,Michael.garcia@summitsolutions.com,+65 85057881,Legal,Referral,Converted,Hot,17582,2025-12-22,2025-02-21,2025-02-22,USER-005
+LEAD-036,Data Encryption,Michael,Lee,Security Analyst,Epsilon Technologies,Michael.lee@epsilontechnologies.com,+65 88578092,Manufacturing,Referral,Converted,Warm,58390,2025-06-10,2024-12-12,2024-12-25,USER-005
+LEAD-037,ERP Implementation,John,Garcia,Data Analyst,CyberSecure,John.garcia@cybersecure.com,+65 96586747,Retail,Social Media,Converted,Cold,25299,2025-12-22,2025-01-06,2025-01-14,USER-002
+LEAD-038,Security Awareness Training,Ashley,Rodriguez,CEO,HealthFirst,Ashley.rodriguez@healthfirst.com,+65 94313884,Legal,Webinar,Open,Hot,38124,2026-01-10,2025-02-20,2025-03-14,USER-009
+LEAD-039,Digital Transformation,Ashley,Lee,Cloud Architect,MedTech,Ashley.lee@medtech.com,+65 99456694,Consulting,Website,Converted,Hot,26664,2025-02-22,2024-12-30,2025-01-19,USER-002
+LEAD-040,Security Audit,Ashley,Clark,IT Director,Zeta Solutions,Ashley.clark@zetasolutions.com,+65 82243658,Manufacturing,Trade Show,Converted,Hot,52532,2025-03-15,2025-01-17,2025-02-13,USER-002
+LEAD-041,Penetration Testing,David,Wilson,CTO,LegalEase,David.wilson@legalease.com,+65 90896425,Healthcare,Website,Converted,Warm,21124,2025-10-15,2024-12-20,2025-01-02,USER-004
+LEAD-042,ERP Implementation,John,Davis,Cloud Architect,Retail Solutions,John.davis@retailsolutions.com,+65 94159966,Government,Webinar,Open,Hot,35001,2025-08-06,2025-02-24,2025-03-24,USER-006
+LEAD-043,Incident Response,Robert,Lewis,IT Director,Analytics Pro,Robert.lewis@analyticspro.com,+65 84401833,Consulting,Email Campaign,Converted,Hot,30844,2025-09-07,2024-12-13,2024-12-24,USER-008
+LEAD-044,Penetration Testing,Matthew,Clark,HR Manager,DataGuard,Matthew.clark@dataguard.com,+65 81229583,Government,Social Media,Open,Cold,27315,2025-10-03,2024-12-04,2024-12-28,USER-006
+LEAD-045,Data Encryption,Emma,Brown,Data Analyst,SecureNet,Emma.brown@securenet.com,+65 94480100,Government,Partner,Converted,Hot,36004,2025-04-24,2025-01-31,2025-02-12,USER-019
+LEAD-046,Incident Response,Ashley,Lewis,Security Manager,LegalEase,Ashley.lewis@legalease.com,+65 89641761,Legal,Referral,Converted,Hot,30154,2025-10-30,2025-02-02,2025-02-03,USER-017
+LEAD-047,ERP Implementation,David,Davis,Data Security Officer,DataSafe,David.davis@datasafe.com,+65 85839186,Education,Webinar,Converted,Hot,40734,2025-03-06,2024-12-06,2024-12-24,USER-019
+LEAD-048,Security Audit,Robert,Lewis,IT Director,Zeta Solutions,Robert.lewis@zetasolutions.com,+65 90349164,Non-profit,Email Campaign,Converted,Hot,13503,2025-03-07,2025-01-06,2025-02-01,USER-001
+LEAD-049,Data Analytics Solution,Christopher,Garcia,Security Manager,Analytics Pro,Christopher.garcia@analyticspro.com,+65 97040741,Manufacturing,Website,Open,Hot,44480,2025-12-18,2025-01-01,2025-01-30,USER-015
+LEAD-050,Cloud Migration,Michael,Rodriguez,Security Engineer,Beta Innovations,Michael.rodriguez@betainnovations.com,+65 89767482,Healthcare,Referral,Converted,Cold,30596,2025-09-26,2025-02-22,2025-03-07,USER-015
+LEAD-051,Digital Transformation,Michael,Clark,Data Security Officer,Cloud Solutions,Michael.clark@cloudsolutions.com,+65 85217024,Education,Referral,Converted,Cold,38679,2025-04-11,2025-01-20,2025-02-04,USER-019
+LEAD-052,Data Encryption,David,Smith,Data Security Officer,Gamma Enterprises,David.smith@gammaenterprises.com,+65 80109881,Manufacturing,Event,Converted,Cold,38680,2025-11-11,2025-01-18,2025-02-12,USER-017
+LEAD-053,ERP Implementation,Matthew,Wilson,Compliance Officer,HealthFirst,Matthew.wilson@healthfirst.com,+65 87836430,Manufacturing,Partner,Open,Hot,12953,2025-05-04,2025-01-22,2025-02-02,USER-003
+LEAD-054,Network Security,Emma,Wilson,Compliance Officer,LegalEase,Emma.wilson@legalease.com,+65 81655470,Government,Webinar,Open,Warm,38498,2025-10-26,2025-02-06,2025-02-15,USER-016
+LEAD-055,Network Security,Jessica,Garcia,IT Specialist,Peak Performance,Jessica.garcia@peakperformance.com,+65 80704726,Financial Services,Website,Converted,Cold,40941,2025-09-24,2024-12-17,2024-12-28,USER-011
+LEAD-056,Security Audit,Robert,Garcia,Project Manager,FinanceFirst,Robert.garcia@financefirst.com,+65 95856730,Non-profit,Email Campaign,Converted,Warm,55370,2025-07-03,2025-02-09,2025-02-17,USER-004
+LEAD-057,Security Awareness Training,Christopher,Smith,IT Director,Manufacturing Plus,Christopher.smith@manufacturingplus.com,+65 91964534,Healthcare,Event,Open,Cold,24415,2025-07-18,2024-12-25,2025-01-02,USER-009
+LEAD-058,Penetration Testing,Jessica,Rodriguez,Consultant,NetSolutions,Jessica.rodriguez@netsolutions.com,+65 99053821,Manufacturing,Social Media,Converted,Cold,21313,2025-03-21,2025-01-03,2025-01-22,USER-015
+LEAD-059,ERP Implementation,Jessica,Rodriguez,Security Engineer,RetailMart,Jessica.rodriguez@retailmart.com,+65 83999249,Consulting,Partner,Open,Hot,45362,2025-04-26,2024-12-19,2024-12-29,USER-014
+LEAD-060,Cloud Migration,Ashley,Lewis,Network Engineer,LegalEase,Ashley.lewis@legalease.com,+65 89037603,Government,Direct Mail,Converted,Hot,47310,2025-10-26,2025-01-11,2025-01-14,USER-013
+LEAD-061,Penetration Testing,Robert,Lee,Cloud Architect,SecureNet,Robert.lee@securenet.com,+65 90433275,Government,Partner,Converted,Hot,34241,2025-12-05,2024-12-14,2024-12-27,USER-004
+LEAD-062,Network Security,Jessica,Lewis,IT Specialist,CyberSecure,Jessica.lewis@cybersecure.com,+65 88126537,Manufacturing,Referral,Converted,Hot,34381,2025-07-04,2024-12-12,2024-12-13,USER-019
+LEAD-063,Penetration Testing,Matthew,Davis,Cloud Architect,DataSafe,Matthew.davis@datasafe.com,+65 81632094,Financial Services,LinkedIn,Converted,Hot,29573,2025-10-13,2024-12-19,2024-12-30,USER-006
+LEAD-064,Cloud Migration,Ashley,Lewis,Security Manager,NetSolutions,Ashley.lewis@netsolutions.com,+65 91182581,Financial Services,Email Campaign,Open,Cold,14598,2026-02-10,2025-02-20,2025-03-02,USER-009
+LEAD-065,Data Analytics Solution,John,Clark,IT Manager,LegalEase,John.clark@legalease.com,+65 92450574,Healthcare,Email Campaign,Converted,Hot,46736,2025-11-25,2025-01-03,2025-01-14,USER-011
+LEAD-066,Data Encryption,Robert,Wilson,System Administrator,InfoDefense,Robert.wilson@infodefense.com,+65 87153788,Consulting,Event,Open,Cold,49320,2025-06-04,2024-12-17,2024-12-25,USER-015
+LEAD-067,Incident Response,Emma,Rodriguez,CISO,TechCorp Inc.,Emma.rodriguez@techcorpinc..com,+65 81974067,Healthcare,Event,Open,Warm,56692,2025-08-04,2024-12-04,2024-12-16,USER-001
+LEAD-068,Data Analytics Solution,Jessica,Wilson,Compliance Officer,DataGuard,Jessica.wilson@dataguard.com,+65 85908662,Financial Services,Email Campaign,Converted,Warm,50838,2025-10-22,2025-01-24,2025-02-23,USER-010
+LEAD-069,Incident Response,Jessica,Rodriguez,Security Manager,Peak Performance,Jessica.rodriguez@peakperformance.com,+65 80136255,Manufacturing,Event,Converted,Warm,51441,2026-01-15,2025-02-17,2025-03-15,USER-008
+LEAD-070,Cloud Migration,Robert,Wilson,Consultant,Retail Solutions,Robert.wilson@retailsolutions.com,+65 81869299,Healthcare,Webinar,Open,Warm,44256,2025-12-13,2024-12-30,2025-01-02,USER-016
+LEAD-071,Cloud Migration,Sarah,Wilson,Compliance Officer,Innovate Inc.,Sarah.wilson@innovateinc..com,+65 88927694,Consulting,Website,Converted,Cold,44067,2025-03-24,2024-12-30,2025-01-07,USER-013
+LEAD-072,Cloud Migration,Emma,Smith,Data Analyst,Innovate Inc.,Emma.smith@innovateinc..com,+65 97315571,Financial Services,Event,Converted,Hot,44978,2025-08-15,2024-12-03,2024-12-11,USER-013
+LEAD-073,Digital Transformation,David,Brown,System Administrator,CyberSecure,David.brown@cybersecure.com,+65 82521544,Education,Referral,Converted,Warm,42543,2025-12-08,2025-02-25,2025-03-16,USER-014
+LEAD-074,Penetration Testing,Michael,Garcia,Cloud Architect,Innovate Inc.,Michael.garcia@innovateinc..com,+65 97765719,Consulting,Direct Mail,Converted,Warm,52400,2025-08-04,2025-01-06,2025-01-10,USER-007
+LEAD-075,ERP Implementation,Ashley,Garcia,Cloud Architect,EduPlus,Ashley.garcia@eduplus.com,+65 89595732,Financial Services,Website,Converted,Cold,29373,2025-04-06,2025-02-24,2025-03-05,USER-015
+LEAD-076,Data Encryption,Robert,Clark,COO,FinanceFirst,Robert.clark@financefirst.com,+65 86159255,Non-profit,Email Campaign,Converted,Warm,12172,2025-12-23,2024-12-27,2025-01-13,USER-014
+LEAD-077,Security Awareness Training,Jessica,Davis,HR Manager,DataSafe,Jessica.davis@datasafe.com,+65 89316563,Financial Services,Referral,Converted,Cold,21650,2025-04-14,2024-12-24,2025-01-22,USER-010
+LEAD-078,Security Audit,John,Clark,Security Analyst,AppSecure,John.clark@appsecure.com,+65 94321454,Financial Services,Referral,Converted,Cold,35921,2025-07-26,2024-12-04,2024-12-17,USER-018
+LEAD-079,Network Security,Ashley,Rodriguez,HR Manager,FinanceFirst,Ashley.rodriguez@financefirst.com,+65 94781091,Non-profit,LinkedIn,Open,Warm,30828,2025-04-17,2025-02-02,2025-02-18,USER-010
+LEAD-080,Incident Response,Matthew,Rodriguez,CEO,Innovate Inc.,Matthew.rodriguez@innovateinc..com,+65 89423751,Government,Event,Converted,Hot,17207,2025-11-20,2025-01-07,2025-01-30,USER-008
+LEAD-081,Digital Transformation,Ashley,Lee,Data Analyst,MedTech,Ashley.lee@medtech.com,+65 86026178,Non-profit,Social Media,Converted,Warm,12152,2025-10-20,2024-12-26,2025-01-01,USER-017
+LEAD-082,Security Awareness Training,David,Lewis,CEO,MedTech,David.lewis@medtech.com,+65 90369564,Financial Services,Social Media,Converted,Warm,24383,2025-08-26,2024-12-26,2025-01-24,USER-019
+LEAD-083,Penetration Testing,Emma,Clark,IT Manager,GlobalTech,Emma.clark@globaltech.com,+65 99427678,Financial Services,Social Media,Open,Hot,59730,2025-05-26,2024-12-20,2024-12-22,USER-014
+LEAD-084,Data Analytics Solution,Emma,Garcia,System Administrator,Beta Innovations,Emma.garcia@betainnovations.com,+65 87060341,Consulting,LinkedIn,Converted,Hot,27539,2025-11-02,2024-12-19,2025-01-12,USER-017
+LEAD-085,ERP Implementation,Jessica,Garcia,HR Manager,AppSecure,Jessica.garcia@appsecure.com,+65 82936963,Government,Email Campaign,Open,Hot,51406,2025-04-16,2025-02-16,2025-03-12,USER-016
+LEAD-086,Security Audit,Robert,Rodriguez,Security Analyst,Beta Innovations,Robert.rodriguez@betainnovations.com,+65 82087619,Retail,Trade Show,Converted,Cold,51326,2025-12-31,2025-01-26,2025-02-24,USER-017
+LEAD-087,Cloud Migration,David,Garcia,Cloud Architect,Analytics Pro,David.garcia@analyticspro.com,+65 99088671,Retail,Direct Mail,Converted,Hot,31291,2025-06-21,2025-01-02,2025-01-18,USER-016
+LEAD-088,Incident Response,David,Lee,HR Manager,FinanceFirst,David.lee@financefirst.com,+65 96139253,Manufacturing,Social Media,Converted,Hot,49070,2025-03-05,2024-12-23,2025-01-20,USER-001
+LEAD-089,Data Encryption,Ashley,Davis,IT Specialist,DataGuard,Ashley.davis@dataguard.com,+65 91107749,Consulting,Referral,Converted,Cold,14176,2025-05-21,2024-12-14,2025-01-09,USER-015
+LEAD-090,Data Analytics Solution,Robert,Brown,COO,EduPlus,Robert.brown@eduplus.com,+65 82473198,Consulting,Partner,Converted,Warm,43756,2025-12-24,2025-01-15,2025-01-21,USER-005
+LEAD-091,Penetration Testing,Emma,Davis,Data Security Officer,Delta Systems,Emma.davis@deltasystems.com,+65 97398005,Manufacturing,Social Media,Converted,Warm,10719,2025-11-02,2025-02-07,2025-03-08,USER-014
+LEAD-092,ERP Implementation,Sarah,Johnson,CEO,TechCorp Inc.,Sarah.johnson@techcorpinc..com,+65 81202422,Legal,Email Campaign,Converted,Cold,41012,2025-10-28,2025-01-11,2025-01-21,USER-015
+LEAD-093,Penetration Testing,David,Rodriguez,IT Manager,Gamma Enterprises,David.rodriguez@gammaenterprises.com,+65 98248325,Manufacturing,Partner,Converted,Warm,41192,2025-06-07,2025-02-02,2025-03-03,USER-014
+LEAD-094,Cloud Migration,Matthew,Smith,IT Director,CyberSecure,Matthew.smith@cybersecure.com,+65 97826541,Manufacturing,Direct Mail,Open,Cold,56150,2025-08-29,2024-12-07,2024-12-30,USER-003
+LEAD-095,Data Encryption,Matthew,Brown,Compliance Officer,SecurePlus,Matthew.brown@secureplus.com,+65 99604359,Healthcare,LinkedIn,Open,Hot,29153,2025-08-10,2025-02-24,2025-03-11,USER-006
+LEAD-096,Data Encryption,Christopher,Johnson,CISO,HealthFirst,Christopher.johnson@healthfirst.com,+65 88671397,Financial Services,Trade Show,Converted,Hot,10098,2025-09-11,2024-12-25,2025-01-02,USER-008
+LEAD-097,Security Awareness Training,Christopher,Smith,System Administrator,DataGuard,Christopher.smith@dataguard.com,+65 97850578,Retail,Email Campaign,Converted,Warm,39167,2025-11-11,2025-01-17,2025-02-03,USER-005
+LEAD-098,Incident Response,John,Wilson,Security Manager,GlobalTech,John.wilson@globaltech.com,+65 92077528,Manufacturing,Partner,Converted,Hot,40325,2025-09-18,2024-12-22,2024-12-24,USER-019
+LEAD-099,Incident Response,John,Davis,CISO,Peak Performance,John.davis@peakperformance.com,+65 93647643,Education,Trade Show,Converted,Warm,46185,2026-02-05,2025-02-22,2025-03-23,USER-007
+LEAD-100,Data Encryption,Emma,Garcia,CTO,Retail Solutions,Emma.garcia@retailsolutions.com,+65 87938757,Retail,Event,Converted,Hot,47879,2025-05-23,2025-01-22,2025-02-20,USER-001
