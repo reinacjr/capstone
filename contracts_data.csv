@@ -1,111 +1,111 @@
 ContractID,QuoteID,AccountID,ContractNumber,Name,Status,StartDate,EndDate,TotalValue,BillingFrequency,PaymentTerms,CreatedOn,ModifiedOn
-CON-001,QUO-008,ACC-003,C2025-001,Sales Performance Optimization Contract,Draft,2025-02-08,2027-01-14,9613.7,Quarterly,Net 30,2025-01-25,2025-02-20
-CON-002,QUO-032,ACC-002,C2025-002,Risk Management Analytics Contract,Approved,2025-02-17,2026-09-02,52690.77,As Per Contract Milestone,Net 90,2025-01-19,2025-02-11
-CON-003,QUO-041,ACC-001,C2025-003,Predictive Maintenance Contract,Completed,2025-07-04,2026-07-19,48620.42,Annually,Net 60,2025-06-27,2026-07-19
-CON-004,QUO-047,ACC-003,C2025-004,Fraud Detection Contract,Cancelled,2025-06-11,2027-01-15,49485.54,As Per Contract Milestone,Net 30,2025-06-09,2025-06-20
-CON-005,QUO-060,ACC-002,C2025-005,ERP Implementation - TechCorp Contract,Draft,2025-03-12,2026-05-24,41920.43,Monthly,Net 90,2025-03-11,2025-04-05
-CON-006,QUO-062,ACC-004,C2025-006,Cloud-Based ERP Upgrade Contract,Draft,2025-03-08,2026-12-06,46442.84,As Per Contract Milestone,Net 90,2025-02-24,2025-02-28
-CON-007,QUO-073,ACC-003,C2025-007,Post-Implementation ERP Support Contract,Approved,2025-05-04,2027-02-05,17044.06,Quarterly,Net 60,2025-04-22,2025-05-09
-CON-008,QUO-078,ACC-004,C2025-008,Phishing Simulation Contract,Pending,2025-04-16,2027-01-16,36070.65,Annually,Net 60,2025-04-06,2025-05-03
-CON-009,QUO-087,ACC-004,C2025-009,Customer Experience Enhancement Contract,Draft,2025-07-20,2026-08-19,47751.15,Monthly,Net 60,2025-06-22,2025-07-20
-CON-010,QUO-131,ACC-002,C2025-010,Network Infrastructure Contract,Pending,2025-06-05,2026-11-18,25416.45,Quarterly,Net 30,2025-06-04,2025-06-12
-CON-011,QUO-138,ACC-003,C2025-011,Wireless Network Contract,Suspended,2025-03-22,2026-10-25,47061.94,Annually,Net 30,2025-03-18,2026-04-23
-CON-012,QUO-162,ACC-001,C2025-012,Supply Chain Optimization Contract,Draft,2025-03-06,2026-04-06,50875.47,As Per Contract Milestone,Net 90,2025-03-02,2025-03-15
-CON-013,QUO-168,ACC-001,C2024-013,Infrastructure as a Service (IaaS) Contract,Cancelled,2025-01-23,2026-10-18,52206.88,Annually,Net 30,2024-12-27,2025-01-25
-CON-014,QUO-190,ACC-004,C2025-014,Database Encryption Contract,Draft,2025-06-06,2026-06-12,40570.57,As Per Contract Milestone,Net 30,2025-05-12,2025-05-18
-CON-015,QUO-204,ACC-002,C2025-015,Full Disk Encryption Contract,Draft,2025-05-14,2026-10-18,21513.87,As Per Contract Milestone,Net 60,2025-04-19,2025-04-19
-CON-016,QUO-209,ACC-003,C2025-016,Email Encryption Contract,Draft,2025-05-24,2026-06-10,28895.6,Monthly,Net 30,2025-05-01,2025-05-10
-CON-017,QUO-219,ACC-002,C2025-017,Cloud Storage Encryption Contract,Suspended,2025-07-05,2027-03-04,48823.67,As Per Contract Milestone,Net 90,2025-06-11,2025-12-26
-CON-018,QUO-252,ACC-001,C2025-018,Social Engineering Awareness Contract,Approved,2025-08-16,2027-05-22,48134.91,Monthly,Net 60,2025-07-28,2025-08-06
-CON-019,QUO-280,ACC-004,C2025-019,Infrastructure as a Service (IaaS) Contract,Expired,2025-05-16,2027-01-01,54566.48,Quarterly,Net 90,2025-05-02,2027-01-02
-CON-020,QUO-297,ACC-001,C2025-020,Hybrid Cloud Implementation Contract,Completed,2025-06-23,2027-04-19,33842.29,Quarterly,Net 30,2025-06-14,2027-04-19
-CON-021,QUO-299,ACC-003,C2025-021,Data Migration & Integration Contract,Draft,2025-03-17,2026-06-30,12580.42,Quarterly,Net 60,2025-03-14,2025-03-24
-CON-022,QUO-306,ACC-001,C2025-022,Application Modernization Contract,Expired,2025-05-11,2026-09-09,7897.88,Annually,Net 90,2025-05-06,2026-09-12
-CON-023,QUO-319,ACC-003,C2025-023,Database Encryption Contract,Expired,2025-03-05,2026-03-27,19463.71,As Per Contract Milestone,Net 30,2025-02-06,2026-04-08
-CON-024,QUO-354,ACC-004,C2025-024,Intrusion Detection/Prevention System (IDS/IPS) Contract,Expired,2025-03-07,2026-11-09,13253.52,Quarterly,Net 30,2025-03-06,2026-11-13
-CON-025,QUO-368,ACC-004,C2025-025,Network Infrastructure Contract,Draft,2025-04-30,2027-02-26,30173.69,Annually,Net 30,2025-04-08,2025-04-28
-CON-026,QUO-386,ACC-002,C2025-026,Cloud Environment Contract,Expired,2025-03-07,2026-09-07,9306.5,Monthly,Net 30,2025-02-27,2026-09-23
-CON-027,QUO-409,ACC-003,C2025-027,Compliance (HIPAA) Contract,Approved,2025-07-20,2027-04-30,52547.61,Monthly,Net 60,2025-07-08,2025-07-08
-CON-028,QUO-435,ACC-003,C2025-028,Cloud Environment Contract,Expired,2025-05-25,2026-12-23,7660.61,Monthly,Net 60,2025-05-07,2027-01-17
-CON-029,QUO-494,ACC-004,C2025-029,Email Encryption Contract,Cancelled,2025-05-06,2026-09-10,23849.01,Quarterly,Net 30,2025-04-20,2025-05-05
-CON-030,QUO-507,ACC-002,C2025-030,Mobile Device Encryption Contract,Suspended,2025-03-27,2026-07-27,39727.25,Annually,Net 30,2025-03-06,2025-09-30
-CON-031,QUO-526,ACC-002,C2025-031,Supply Chain Optimization Contract,Approved,2025-03-05,2026-12-25,15456.73,Quarterly,Net 60,2025-02-15,2025-03-05
-CON-032,QUO-545,ACC-003,C2025-032,File Encryption Contract,Completed,2025-06-26,2026-10-06,36352.44,Quarterly,Net 30,2025-05-30,2026-10-06
-CON-033,QUO-596,ACC-004,C2025-033,Ransomware Attack Contract,Cancelled,2025-08-22,2027-05-05,20959.33,As Per Contract Milestone,Net 90,2025-07-28,2025-07-31
-CON-034,QUO-610,ACC-003,C2025-034,Ransomware Attack Contract,Completed,2025-04-22,2027-01-05,41025.42,Monthly,Net 30,2025-04-12,2027-01-05
-CON-035,QUO-643,ACC-001,C2025-035,Denial of Service (DoS) Attack Contract,Completed,2025-05-25,2027-01-13,14164.07,Monthly,Net 60,2025-05-17,2027-01-13
-CON-036,QUO-652,ACC-001,C2025-036,Unauthorized Access Contract,Completed,2025-04-07,2026-08-24,25090.83,Monthly,Net 60,2025-04-02,2026-08-24
-CON-037,QUO-653,ACC-002,C2025-037,Cloud Security Incident Contract,Draft,2025-03-31,2027-01-29,32674.23,Quarterly,Net 90,2025-03-10,2025-04-04
-CON-038,QUO-655,ACC-001,C2025-038,Network Intrusion Contract,Cancelled,2025-02-26,2026-06-01,49263.63,Quarterly,Net 90,2025-02-08,2025-02-28
-CON-039,QUO-682,ACC-003,C2025-039,Platform as a Service (PaaS) Contract,Pending,2025-06-11,2026-11-14,43642.65,As Per Contract Milestone,Net 60,2025-05-26,2025-06-18
-CON-040,QUO-699,ACC-001,C2025-040,Data Migration & Integration Contract,Suspended,2025-02-20,2026-09-03,25637.95,As Per Contract Milestone,Net 90,2025-01-26,2026-10-28
-CON-041,QUO-724,ACC-001,C2025-041,ERP Implementation - TechCorp Contract,Completed,2025-04-30,2026-08-06,27643.18,Annually,Net 60,2025-04-23,2026-08-06
-CON-042,QUO-744,ACC-003,C2025-042,File Encryption Contract,Pending,2025-04-25,2026-12-10,23270.89,Annually,Net 90,2025-04-11,2025-05-03
-CON-043,QUO-760,ACC-002,C2025-043,Mobile Device Encryption Contract,Suspended,2025-02-18,2026-12-18,37981.37,Annually,Net 60,2025-02-15,2026-05-15
-CON-044,QUO-770,ACC-002,C2025-044,File Encryption Contract,Expired,2025-04-03,2027-02-12,25161.14,Monthly,Net 90,2025-03-20,2027-02-23
-CON-045,QUO-787,ACC-002,C2025-045,Email Encryption Contract,Cancelled,2025-04-19,2026-09-11,8846.14,Quarterly,Net 90,2025-04-03,2025-05-01
-CON-046,QUO-791,ACC-004,C2025-046,Cloud Storage Encryption Contract,Expired,2025-03-05,2026-10-16,35112.91,Quarterly,Net 60,2025-02-16,2026-10-18
-CON-047,QUO-804,ACC-003,C2025-047,Network Traffic Encryption (TLS/SSL) Contract,Suspended,2025-04-21,2026-09-11,40654.44,Monthly,Net 90,2025-04-08,2025-07-27
-CON-048,QUO-829,ACC-004,C2025-048,Data Privacy and GDPR Contract,Pending,2025-05-28,2026-10-21,28161.72,Monthly,Net 60,2025-05-19,2025-06-09
-CON-049,QUO-860,ACC-001,C2025-049,Intrusion Detection/Prevention System (IDS/IPS) Contract,Draft,2025-07-23,2026-09-03,17114.07,Monthly,Net 30,2025-06-23,2025-07-02
-CON-050,QUO-867,ACC-003,C2025-050,Virtual Private Network (VPN) Deployment Contract,Completed,2025-05-27,2027-03-04,29161.41,Annually,Net 30,2025-05-09,2027-03-04
-CON-051,QUO-881,ACC-004,C2025-051,Network Access Control (NAC) Contract,Suspended,2025-06-30,2027-06-14,40442.92,As Per Contract Milestone,Net 30,2025-06-01,2026-08-22
-CON-052,QUO-890,ACC-001,C2025-052,Wireless Network Security Contract,Approved,2025-04-29,2026-08-28,35569.08,Annually,Net 30,2025-04-26,2025-05-22
-CON-053,QUO-893,ACC-003,C2025-053,Network Segmentation Contract,Approved,2025-02-20,2026-08-13,25493.3,Quarterly,Net 90,2025-02-01,2025-02-08
-CON-054,QUO-911,ACC-001,C2025-054,Intrusion Detection/Prevention System (IDS/IPS) Contract,Approved,2025-06-01,2027-03-04,20570.4,Annually,Net 90,2025-05-30,2025-06-19
-CON-055,QUO-925,ACC-004,C2025-055,File Encryption Contract,Expired,2025-07-10,2027-05-27,11445.42,Annually,Net 90,2025-06-24,2027-06-26
-CON-056,QUO-929,ACC-004,C2025-056,Full Disk Encryption Contract,Completed,2025-03-22,2026-09-27,16813.56,Annually,Net 60,2025-03-06,2026-09-27
-CON-057,QUO-946,ACC-003,C2025-057,Cloud Storage Encryption Contract,Completed,2025-08-04,2027-05-16,29723.24,Annually,Net 60,2025-07-05,2027-05-16
-CON-058,QUO-952,ACC-004,C2025-058,Mobile Device Encryption Contract,Completed,2025-08-02,2027-02-08,20259.15,Annually,Net 30,2025-07-08,2027-02-08
-CON-059,QUO-969,ACC-001,C2025-059,Network Traffic Encryption (TLS/SSL) Contract,Expired,2025-03-21,2026-09-27,25241.54,Annually,Net 60,2025-03-05,2026-09-28
-CON-060,QUO-984,ACC-001,C2025-060,Malware Infection Contract,Pending,2025-05-31,2027-05-12,25891.82,Annually,Net 60,2025-05-14,2025-05-16
-CON-061,QUO-989,ACC-004,C2025-061,Phishing Attack Contract,Suspended,2025-05-10,2027-03-23,46178.5,Monthly,Net 60,2025-04-11,2027-04-23
-CON-062,QUO-999,ACC-003,C2025-062,Insider Threat Contract,Approved,2025-06-12,2027-03-05,22778.11,Quarterly,Net 60,2025-06-05,2025-06-26
-CON-063,QUO-1013,ACC-002,C2025-063,Cloud Security Incident Contract,Pending,2025-04-23,2026-12-04,48427.33,Quarterly,Net 60,2025-04-09,2025-05-04
-CON-064,QUO-1016,ACC-002,C2025-064,Network Infrastructure Contract,Pending,2025-02-25,2026-06-15,13065.3,Quarterly,Net 60,2025-02-25,2025-03-08
-CON-065,QUO-1061,ACC-004,C2025-065,Internal Systems Contract,Cancelled,2025-03-11,2027-02-03,27674.47,As Per Contract Milestone,Net 30,2025-02-28,2025-03-27
-CON-066,QUO-1085,ACC-003,C2025-066,Password Security Contract,Approved,2025-03-27,2026-09-17,18856.65,Monthly,Net 90,2025-02-28,2025-03-14
-CON-067,QUO-1108,ACC-002,C2025-067,Data Breach Contract,Cancelled,2025-04-29,2026-11-06,19151.56,Annually,Net 60,2025-04-28,2025-05-25
-CON-068,QUO-1135,ACC-001,C2025-068,Platform as a Service (PaaS) Contract,Pending,2025-02-07,2026-05-19,51992.58,Quarterly,Net 90,2025-01-13,2025-02-07
-CON-069,QUO-1142,ACC-004,C2025-069,Software as a Service (SaaS) Contract,Draft,2025-06-15,2027-05-05,30951.81,Quarterly,Net 90,2025-06-12,2025-07-04
-CON-070,QUO-1152,ACC-002,C2025-070,Data Migration & Integration Contract,Completed,2025-06-16,2026-11-09,22330.7,As Per Contract Milestone,Net 90,2025-06-01,2026-11-09
-CON-071,QUO-1185,ACC-003,C2025-071,Network Access Control (NAC) Contract,Pending,2025-06-18,2027-05-15,21290.54,As Per Contract Milestone,Net 90,2025-06-13,2025-07-01
-CON-072,QUO-1197,ACC-003,C2025-072,Ransomware Attack Contract,Pending,2025-03-12,2026-12-11,20289.81,Quarterly,Net 90,2025-02-21,2025-03-03
-CON-073,QUO-1207,ACC-004,C2025-073,Data Breach Contract,Approved,2025-06-28,2026-11-23,44709.43,Annually,Net 90,2025-06-15,2025-06-18
-CON-074,QUO-1214,ACC-002,C2025-074,Malware Infection Contract,Approved,2025-05-24,2027-03-22,44811.63,Monthly,Net 60,2025-04-29,2025-05-15
-CON-075,QUO-1232,ACC-004,C2025-075,Denial of Service (DoS) Attack Contract,Pending,2025-05-04,2026-07-23,24831.1,Annually,Net 90,2025-04-25,2025-05-14
-CON-076,QUO-1240,ACC-003,C2025-076,Insider Threat Contract,Completed,2025-07-13,2026-09-17,36799.92,As Per Contract Milestone,Net 90,2025-06-28,2026-09-17
-CON-077,QUO-1250,ACC-001,C2025-077,Cloud Security Incident Contract,Approved,2025-08-14,2026-10-01,15968.37,As Per Contract Milestone,Net 90,2025-08-03,2025-08-03
-CON-078,QUO-1252,ACC-002,C2025-078,Network Intrusion Contract,Completed,2025-01-19,2026-05-08,27612.24,Annually,Net 30,2025-01-06,2026-05-08
-CON-079,QUO-1260,ACC-003,C2025-079,ERP Implementation - TechCorp Contract,Expired,2025-05-29,2027-04-01,34764.77,As Per Contract Milestone,Net 60,2025-05-13,2027-04-22
-CON-080,QUO-1261,ACC-004,C2025-080,Ransomware Attack Contract,Cancelled,2025-04-07,2026-11-25,31555.42,Monthly,Net 30,2025-03-20,2025-04-10
-CON-081,QUO-1285,ACC-001,C2025-081,Denial of Service (DoS) Attack Contract,Suspended,2025-02-20,2027-01-19,9082.79,Quarterly,Net 30,2025-02-06,2027-02-07
-CON-082,QUO-1310,ACC-004,C2025-082,Network Infrastructure Contract,Suspended,2025-04-30,2027-04-19,17597.37,Annually,Net 30,2025-04-20,2025-06-05
-CON-083,QUO-1324,ACC-002,C2025-083,Firewall Implementation Contract,Completed,2025-05-28,2027-01-04,23899.84,Annually,Net 60,2025-05-14,2027-01-04
-CON-084,QUO-1332,ACC-003,C2025-084,Intrusion Detection/Prevention System (IDS/IPS) Contract,Completed,2025-04-29,2026-08-09,9178.46,Quarterly,Net 60,2025-04-20,2026-08-09
-CON-085,QUO-1337,ACC-001,C2025-085,Virtual Private Network (VPN) Deployment Contract,Pending,2025-05-28,2026-06-12,10079.03,Monthly,Net 30,2025-05-24,2025-06-18
-CON-086,QUO-1339,ACC-002,C2025-086,Phishing Simulation Contract,Cancelled,2025-03-20,2026-11-11,33081.95,Quarterly,Net 90,2025-03-01,2025-03-05
-CON-087,QUO-1417,ACC-004,C2025-087,Compliance (HIPAA) Contract,Draft,2025-06-24,2027-05-09,51753.64,Annually,Net 90,2025-06-09,2025-07-08
-CON-088,QUO-1425,ACC-002,C2025-088,Infrastructure as a Service (IaaS) Contract,Pending,2025-06-04,2026-12-15,11643.29,Quarterly,Net 90,2025-05-29,2025-06-07
-CON-089,QUO-1443,ACC-002,C2025-089,Marketing Campaign Effectiveness Contract,Completed,2025-08-17,2027-03-08,39853.49,Annually,Net 60,2025-07-21,2027-03-08
-CON-090,QUO-1456,ACC-002,C2025-090,Ransomware Attack Contract,Draft,2025-05-03,2026-12-30,31986.04,As Per Contract Milestone,Net 60,2025-04-11,2025-04-17
-CON-091,QUO-1477,ACC-002,C2025-091,Ransomware Attack Contract,Approved,2025-03-11,2026-05-01,25882.45,Quarterly,Net 60,2025-03-11,2025-04-08
-CON-092,QUO-1540,ACC-004,C2025-092,Full Disk Encryption Contract,Suspended,2025-02-03,2026-07-26,38763.55,Quarterly,Net 30,2025-01-16,2026-07-23
-CON-093,QUO-1545,ACC-002,C2025-093,Mobile Device Encryption Contract,Draft,2025-02-13,2026-05-01,18281.46,Quarterly,Net 30,2025-01-29,2025-02-05
-CON-094,QUO-1577,ACC-002,C2025-094,Hardware Security Module (HSM) Integration Contract,Cancelled,2025-08-30,2027-04-25,32041.33,Monthly,Net 60,2025-08-13,2025-08-28
-CON-095,QUO-1587,ACC-002,C2025-095,ERP Data Migration Project Contract,Cancelled,2025-03-10,2026-05-19,49044.71,Annually,Net 90,2025-02-21,2025-03-20
-CON-096,QUO-1613,ACC-004,C2025-096,Wireless Network Contract,Cancelled,2025-07-23,2027-05-11,33108.6,As Per Contract Milestone,Net 30,2025-07-19,2025-08-12
-CON-097,QUO-1621,ACC-001,C2025-097,Cloud-Based ERP Upgrade Contract,Completed,2025-03-05,2027-02-23,17815.97,As Per Contract Milestone,Net 30,2025-03-03,2027-02-23
-CON-098,QUO-1631,ACC-004,C2025-098,Phishing Simulation Contract,Approved,2025-02-20,2026-09-03,27422.61,Quarterly,Net 90,2025-02-03,2025-03-05
-CON-099,QUO-1679,ACC-002,C2025-099,Supply Chain Optimization Contract,Suspended,2025-06-04,2026-11-02,49850.82,Annually,Net 30,2025-05-18,2027-03-29
-CON-100,QUO-1687,ACC-001,C2025-100,Financial Forecasting Contract,Approved,2025-06-22,2026-06-27,28470.95,As Per Contract Milestone,Net 60,2025-06-10,2025-07-06
-CON-101,QUO-1715,ACC-003,C2025-101,Customer Experience Enhancement Contract,Approved,2025-07-06,2026-10-29,12240.67,Annually,Net 60,2025-06-08,2025-06-17
-CON-102,QUO-1717,ACC-004,C2025-102,Business Process Automation Contract,Cancelled,2025-02-26,2026-05-19,32615.28,Annually,Net 30,2025-02-21,2025-03-20
-CON-103,QUO-1732,ACC-003,C2025-103,Cloud-Based ERP Upgrade Contract,Cancelled,2025-04-13,2026-09-22,12563.97,As Per Contract Milestone,Net 90,2025-03-25,2025-04-05
-CON-104,QUO-1750,ACC-002,C2025-104,Post-Implementation ERP Support Contract,Approved,2025-06-09,2027-03-07,40306.17,Quarterly,Net 30,2025-05-12,2025-05-19
-CON-105,QUO-1778,ACC-004,C2025-105,Cloud Adoption Strategy Contract,Approved,2025-03-10,2026-06-15,7797.63,Annually,Net 30,2025-03-10,2025-03-16
-CON-106,QUO-1790,ACC-002,C2025-106,Intrusion Detection/Prevention System (IDS/IPS) Contract,Approved,2025-06-08,2026-06-22,27755.4,Monthly,Net 30,2025-05-21,2025-06-01
-CON-107,QUO-1791,ACC-003,C2025-107,Virtual Private Network (VPN) Deployment Contract,Cancelled,2025-01-31,2026-06-29,33677.1,Monthly,Net 60,2025-01-19,2025-02-02
-CON-108,QUO-1806,ACC-001,C2025-108,Network Access Control (NAC) Contract,Draft,2025-05-18,2026-06-28,37879.36,Quarterly,Net 90,2025-05-16,2025-05-27
-CON-109,QUO-1837,ACC-001,C2025-109,Email Encryption Contract,Suspended,2025-06-26,2027-02-12,25500.32,Monthly,Net 60,2025-06-23,2025-10-05
-CON-110,QUO-1842,ACC-001,C2025-110,Mobile Device Encryption Contract,Pending,2025-04-07,2026-06-01,33908.49,Monthly,Net 30,2025-03-12,2025-03-26
+CON-001,QUO-008,ACC-003,C2025-001,Sales Performance Optimization Contract,Pending,2025-02-24,2026-11-24,9613.7,As Per Contract Milestone,Net 90,2025-01-25,2025-02-14
+CON-002,QUO-032,ACC-002,C2025-002,Risk Management Analytics Contract,Suspended,2025-02-17,2026-09-01,52690.77,As Per Contract Milestone,Net 90,2025-01-19,2026-04-23
+CON-003,QUO-041,ACC-001,C2025-003,Predictive Maintenance Contract,Completed,2025-07-12,2027-05-22,48620.42,Quarterly,Net 30,2025-06-27,2027-05-22
+CON-004,QUO-047,ACC-003,C2025-004,Fraud Detection Contract,Pending,2025-06-18,2026-09-27,49485.54,As Per Contract Milestone,Net 90,2025-06-09,2025-06-24
+CON-005,QUO-060,ACC-002,C2025-005,ERP Implementation - TechCorp Contract,Draft,2025-03-27,2026-06-02,41920.43,Annually,Net 30,2025-03-11,2025-04-07
+CON-006,QUO-062,ACC-004,C2025-006,Cloud-Based ERP Upgrade Contract,Pending,2025-03-19,2026-07-02,46442.84,Quarterly,Net 60,2025-02-24,2025-03-26
+CON-007,QUO-073,ACC-003,C2025-007,Post-Implementation ERP Support Contract,Approved,2025-04-26,2027-04-14,17044.06,Quarterly,Net 90,2025-04-22,2025-05-07
+CON-008,QUO-078,ACC-004,C2025-008,Phishing Simulation Contract,Cancelled,2025-04-29,2026-06-12,36070.65,Monthly,Net 90,2025-04-06,2025-04-06
+CON-009,QUO-087,ACC-004,C2025-009,Customer Experience Enhancement Contract,Approved,2025-07-14,2026-08-26,47751.15,Quarterly,Net 60,2025-06-22,2025-07-04
+CON-010,QUO-131,ACC-002,C2025-010,Network Infrastructure Contract,Expired,2025-07-03,2026-11-22,25416.45,Quarterly,Net 90,2025-06-04,2026-12-17
+CON-011,QUO-138,ACC-003,C2025-011,Wireless Network Contract,Pending,2025-03-23,2026-05-26,47061.94,As Per Contract Milestone,Net 90,2025-03-18,2025-03-21
+CON-012,QUO-162,ACC-001,C2025-012,Supply Chain Optimization Contract,Pending,2025-04-01,2026-08-08,50875.47,Monthly,Net 90,2025-03-02,2025-03-02
+CON-013,QUO-168,ACC-001,C2024-013,Infrastructure as a Service (IaaS) Contract,Cancelled,2025-01-13,2026-06-13,52206.88,Quarterly,Net 60,2024-12-27,2025-01-02
+CON-014,QUO-190,ACC-004,C2025-014,Database Encryption Contract,Approved,2025-05-28,2026-08-11,40570.57,Annually,Net 30,2025-05-12,2025-05-13
+CON-015,QUO-204,ACC-002,C2025-015,Full Disk Encryption Contract,Cancelled,2025-05-04,2026-06-27,21513.87,Annually,Net 30,2025-04-19,2025-05-15
+CON-016,QUO-209,ACC-003,C2025-016,Email Encryption Contract,Suspended,2025-05-06,2026-06-27,28895.6,Quarterly,Net 90,2025-05-01,2025-12-16
+CON-017,QUO-219,ACC-002,C2025-017,Cloud Storage Encryption Contract,Completed,2025-06-28,2027-04-11,48823.67,As Per Contract Milestone,Net 30,2025-06-11,2027-04-11
+CON-018,QUO-252,ACC-001,C2025-018,Social Engineering Awareness Contract,Completed,2025-08-22,2027-02-24,48134.91,Monthly,Net 60,2025-07-28,2027-02-24
+CON-019,QUO-280,ACC-004,C2025-019,Infrastructure as a Service (IaaS) Contract,Expired,2025-05-03,2026-11-02,54566.48,Monthly,Net 30,2025-05-02,2026-11-06
+CON-020,QUO-297,ACC-001,C2025-020,Hybrid Cloud Implementation Contract,Draft,2025-06-27,2027-03-06,33842.29,Monthly,Net 90,2025-06-14,2025-07-08
+CON-021,QUO-299,ACC-003,C2025-021,Data Migration & Integration Contract,Draft,2025-04-11,2026-06-18,12580.42,Monthly,Net 90,2025-03-14,2025-03-29
+CON-022,QUO-306,ACC-001,C2025-022,Application Modernization Contract,Cancelled,2025-05-20,2026-10-22,7897.88,Annually,Net 30,2025-05-06,2025-06-02
+CON-023,QUO-319,ACC-003,C2025-023,Database Encryption Contract,Suspended,2025-02-14,2026-03-15,19463.71,Monthly,Net 60,2025-02-06,2026-08-17
+CON-024,QUO-354,ACC-004,C2025-024,Intrusion Detection/Prevention System (IDS/IPS) Contract,Expired,2025-03-23,2026-12-25,13253.52,Monthly,Net 90,2025-03-06,2027-01-11
+CON-025,QUO-368,ACC-004,C2025-025,Network Infrastructure Contract,Pending,2025-05-08,2027-04-17,30173.69,As Per Contract Milestone,Net 60,2025-04-08,2025-05-02
+CON-026,QUO-386,ACC-002,C2025-026,Cloud Environment Contract,Approved,2025-03-17,2026-08-04,9306.5,Quarterly,Net 30,2025-02-27,2025-03-03
+CON-027,QUO-409,ACC-003,C2025-027,Compliance (HIPAA) Contract,Approved,2025-07-09,2027-03-31,52547.61,As Per Contract Milestone,Net 30,2025-07-08,2025-07-13
+CON-028,QUO-435,ACC-003,C2025-028,Cloud Environment Contract,Draft,2025-05-29,2027-01-05,7660.61,As Per Contract Milestone,Net 90,2025-05-07,2025-06-04
+CON-029,QUO-494,ACC-004,C2025-029,Email Encryption Contract,Draft,2025-04-26,2026-08-20,23849.01,Monthly,Net 30,2025-04-20,2025-05-07
+CON-030,QUO-507,ACC-002,C2025-030,Mobile Device Encryption Contract,Completed,2025-03-14,2026-11-10,39727.25,Annually,Net 30,2025-03-06,2026-11-10
+CON-031,QUO-526,ACC-002,C2025-031,Supply Chain Optimization Contract,Completed,2025-03-02,2026-08-11,15456.73,Annually,Net 60,2025-02-15,2026-08-11
+CON-032,QUO-545,ACC-003,C2025-032,File Encryption Contract,Draft,2025-06-13,2027-03-30,36352.44,Annually,Net 60,2025-05-30,2025-06-19
+CON-033,QUO-596,ACC-004,C2025-033,Ransomware Attack Contract,Draft,2025-08-15,2027-04-13,20959.33,Annually,Net 90,2025-07-28,2025-08-25
+CON-034,QUO-610,ACC-003,C2025-034,Ransomware Attack Contract,Completed,2025-05-04,2026-07-29,41025.42,As Per Contract Milestone,Net 90,2025-04-12,2026-07-29
+CON-035,QUO-643,ACC-001,C2025-035,Denial of Service (DoS) Attack Contract,Pending,2025-06-07,2027-01-14,14164.07,Annually,Net 30,2025-05-17,2025-05-18
+CON-036,QUO-652,ACC-001,C2025-036,Unauthorized Access Contract,Completed,2025-04-14,2026-11-03,25090.83,As Per Contract Milestone,Net 90,2025-04-02,2026-11-03
+CON-037,QUO-653,ACC-002,C2025-037,Cloud Security Incident Contract,Draft,2025-03-12,2026-10-08,32674.23,As Per Contract Milestone,Net 90,2025-03-10,2025-03-23
+CON-038,QUO-655,ACC-001,C2025-038,Network Intrusion Contract,Suspended,2025-02-23,2026-09-28,49263.63,Annually,Net 30,2025-02-08,2025-06-03
+CON-039,QUO-682,ACC-003,C2025-039,Platform as a Service (PaaS) Contract,Pending,2025-06-14,2027-03-29,43642.65,Annually,Net 60,2025-05-26,2025-05-26
+CON-040,QUO-699,ACC-001,C2025-040,Data Migration & Integration Contract,Cancelled,2025-01-29,2026-06-24,25637.95,Monthly,Net 90,2025-01-26,2025-02-24
+CON-041,QUO-724,ACC-001,C2025-041,ERP Implementation - TechCorp Contract,Approved,2025-05-20,2026-12-02,27643.18,Monthly,Net 90,2025-04-23,2025-05-05
+CON-042,QUO-744,ACC-003,C2025-042,File Encryption Contract,Cancelled,2025-05-09,2027-02-09,23270.89,Monthly,Net 30,2025-04-11,2025-04-12
+CON-043,QUO-760,ACC-002,C2025-043,Mobile Device Encryption Contract,Completed,2025-02-18,2027-01-03,37981.37,Monthly,Net 90,2025-02-15,2027-01-03
+CON-044,QUO-770,ACC-002,C2025-044,File Encryption Contract,Completed,2025-04-18,2026-11-29,25161.14,Quarterly,Net 30,2025-03-20,2026-11-29
+CON-045,QUO-787,ACC-002,C2025-045,Email Encryption Contract,Expired,2025-04-15,2026-06-05,8846.14,As Per Contract Milestone,Net 30,2025-04-03,2026-06-11
+CON-046,QUO-791,ACC-004,C2025-046,Cloud Storage Encryption Contract,Expired,2025-03-14,2026-09-18,35112.91,As Per Contract Milestone,Net 30,2025-02-16,2026-10-09
+CON-047,QUO-804,ACC-003,C2025-047,Network Traffic Encryption (TLS/SSL) Contract,Approved,2025-04-08,2027-03-02,40654.44,Quarterly,Net 60,2025-04-08,2025-05-03
+CON-048,QUO-829,ACC-004,C2025-048,Data Privacy and GDPR Contract,Suspended,2025-05-21,2026-07-12,28161.72,Monthly,Net 60,2025-05-19,2026-03-11
+CON-049,QUO-860,ACC-001,C2025-049,Intrusion Detection/Prevention System (IDS/IPS) Contract,Suspended,2025-07-01,2027-02-17,17114.07,Monthly,Net 60,2025-06-23,2026-08-27
+CON-050,QUO-867,ACC-003,C2025-050,Virtual Private Network (VPN) Deployment Contract,Draft,2025-05-22,2026-12-30,29161.41,Monthly,Net 90,2025-05-09,2025-05-11
+CON-051,QUO-881,ACC-004,C2025-051,Network Access Control (NAC) Contract,Completed,2025-06-15,2027-01-28,40442.92,Quarterly,Net 60,2025-06-01,2027-01-28
+CON-052,QUO-890,ACC-001,C2025-052,Wireless Network Security Contract,Draft,2025-05-24,2026-08-30,35569.08,Monthly,Net 90,2025-04-26,2025-04-28
+CON-053,QUO-893,ACC-003,C2025-053,Network Segmentation Contract,Draft,2025-02-05,2026-09-20,25493.3,Annually,Net 60,2025-02-01,2025-02-15
+CON-054,QUO-911,ACC-001,C2025-054,Intrusion Detection/Prevention System (IDS/IPS) Contract,Cancelled,2025-06-17,2027-05-09,20570.4,Quarterly,Net 30,2025-05-30,2025-06-05
+CON-055,QUO-925,ACC-004,C2025-055,File Encryption Contract,Expired,2025-06-28,2027-03-03,11445.42,Quarterly,Net 60,2025-06-24,2027-03-15
+CON-056,QUO-929,ACC-004,C2025-056,Full Disk Encryption Contract,Pending,2025-03-28,2026-04-14,16813.56,As Per Contract Milestone,Net 90,2025-03-06,2025-03-16
+CON-057,QUO-946,ACC-003,C2025-057,Cloud Storage Encryption Contract,Approved,2025-07-24,2027-01-29,29723.24,As Per Contract Milestone,Net 90,2025-07-05,2025-08-01
+CON-058,QUO-952,ACC-004,C2025-058,Mobile Device Encryption Contract,Completed,2025-07-10,2027-03-19,20259.15,As Per Contract Milestone,Net 30,2025-07-08,2027-03-19
+CON-059,QUO-969,ACC-001,C2025-059,Network Traffic Encryption (TLS/SSL) Contract,Cancelled,2025-03-29,2026-07-06,25241.54,As Per Contract Milestone,Net 60,2025-03-05,2025-03-13
+CON-060,QUO-984,ACC-001,C2025-060,Malware Infection Contract,Approved,2025-05-23,2026-07-18,25891.82,Monthly,Net 30,2025-05-14,2025-05-17
+CON-061,QUO-989,ACC-004,C2025-061,Phishing Attack Contract,Expired,2025-05-03,2027-04-03,46178.5,Quarterly,Net 60,2025-04-11,2027-04-19
+CON-062,QUO-999,ACC-003,C2025-062,Insider Threat Contract,Expired,2025-06-17,2026-09-17,22778.11,Quarterly,Net 60,2025-06-05,2026-09-21
+CON-063,QUO-1013,ACC-002,C2025-063,Cloud Security Incident Contract,Pending,2025-05-07,2026-09-22,48427.33,Monthly,Net 60,2025-04-09,2025-04-16
+CON-064,QUO-1016,ACC-002,C2025-064,Network Infrastructure Contract,Approved,2025-03-08,2026-04-12,13065.3,Annually,Net 90,2025-02-25,2025-03-18
+CON-065,QUO-1061,ACC-004,C2025-065,Internal Systems Contract,Completed,2025-03-26,2026-03-29,27674.47,Quarterly,Net 90,2025-02-28,2026-03-29
+CON-066,QUO-1085,ACC-003,C2025-066,Password Security Contract,Cancelled,2025-03-14,2026-08-04,18856.65,Quarterly,Net 60,2025-02-28,2025-03-11
+CON-067,QUO-1108,ACC-002,C2025-067,Data Breach Contract,Suspended,2025-05-06,2026-06-20,19151.56,As Per Contract Milestone,Net 60,2025-04-28,2026-03-04
+CON-068,QUO-1135,ACC-001,C2025-068,Platform as a Service (PaaS) Contract,Expired,2025-01-23,2026-05-10,51992.58,Monthly,Net 30,2025-01-13,2026-05-14
+CON-069,QUO-1142,ACC-004,C2025-069,Software as a Service (SaaS) Contract,Expired,2025-06-13,2026-12-05,30951.81,As Per Contract Milestone,Net 90,2025-06-12,2026-12-07
+CON-070,QUO-1152,ACC-002,C2025-070,Data Migration & Integration Contract,Completed,2025-06-06,2026-06-09,22330.7,As Per Contract Milestone,Net 60,2025-06-01,2026-06-09
+CON-071,QUO-1185,ACC-003,C2025-071,Network Access Control (NAC) Contract,Suspended,2025-07-04,2026-12-07,21290.54,Quarterly,Net 60,2025-06-13,2027-03-22
+CON-072,QUO-1197,ACC-003,C2025-072,Ransomware Attack Contract,Draft,2025-03-02,2026-04-02,20289.81,Annually,Net 90,2025-02-21,2025-03-11
+CON-073,QUO-1207,ACC-004,C2025-073,Data Breach Contract,Cancelled,2025-07-08,2027-02-20,44709.43,Annually,Net 60,2025-06-15,2025-06-29
+CON-074,QUO-1214,ACC-002,C2025-074,Malware Infection Contract,Approved,2025-05-23,2027-02-12,44811.63,Quarterly,Net 60,2025-04-29,2025-05-20
+CON-075,QUO-1232,ACC-004,C2025-075,Denial of Service (DoS) Attack Contract,Approved,2025-05-14,2026-10-20,24831.1,Annually,Net 60,2025-04-25,2025-05-10
+CON-076,QUO-1240,ACC-003,C2025-076,Insider Threat Contract,Pending,2025-07-28,2027-02-15,36799.92,Monthly,Net 30,2025-06-28,2025-07-09
+CON-077,QUO-1250,ACC-001,C2025-077,Cloud Security Incident Contract,Expired,2025-08-29,2027-06-16,15968.37,As Per Contract Milestone,Net 90,2025-08-03,2027-07-16
+CON-078,QUO-1252,ACC-002,C2025-078,Network Intrusion Contract,Expired,2025-02-02,2026-12-30,27612.24,As Per Contract Milestone,Net 90,2025-01-06,2027-01-04
+CON-079,QUO-1260,ACC-003,C2025-079,ERP Implementation - TechCorp Contract,Pending,2025-06-07,2027-05-26,34764.77,As Per Contract Milestone,Net 30,2025-05-13,2025-06-07
+CON-080,QUO-1261,ACC-004,C2025-080,Ransomware Attack Contract,Draft,2025-04-17,2026-08-10,31555.42,Annually,Net 30,2025-03-20,2025-04-06
+CON-081,QUO-1285,ACC-001,C2025-081,Denial of Service (DoS) Attack Contract,Approved,2025-02-17,2026-11-24,9082.79,Quarterly,Net 90,2025-02-06,2025-03-05
+CON-082,QUO-1310,ACC-004,C2025-082,Network Infrastructure Contract,Cancelled,2025-04-23,2027-01-30,17597.37,Monthly,Net 30,2025-04-20,2025-05-07
+CON-083,QUO-1324,ACC-002,C2025-083,Firewall Implementation Contract,Suspended,2025-05-31,2027-05-18,23899.84,Annually,Net 60,2025-05-14,2027-02-11
+CON-084,QUO-1332,ACC-003,C2025-084,Intrusion Detection/Prevention System (IDS/IPS) Contract,Cancelled,2025-05-15,2027-02-04,9178.46,As Per Contract Milestone,Net 60,2025-04-20,2025-05-20
+CON-085,QUO-1337,ACC-001,C2025-085,Virtual Private Network (VPN) Deployment Contract,Draft,2025-06-15,2027-05-10,10079.03,Quarterly,Net 60,2025-05-24,2025-06-11
+CON-086,QUO-1339,ACC-002,C2025-086,Phishing Simulation Contract,Approved,2025-03-25,2026-07-09,33081.95,Annually,Net 90,2025-03-01,2025-03-19
+CON-087,QUO-1417,ACC-004,C2025-087,Compliance (HIPAA) Contract,Expired,2025-06-19,2026-09-23,51753.64,Monthly,Net 60,2025-06-09,2026-10-01
+CON-088,QUO-1425,ACC-002,C2025-088,Infrastructure as a Service (IaaS) Contract,Expired,2025-06-21,2027-04-09,11643.29,Quarterly,Net 60,2025-05-29,2027-05-09
+CON-089,QUO-1443,ACC-002,C2025-089,Marketing Campaign Effectiveness Contract,Pending,2025-07-31,2026-12-25,39853.49,Monthly,Net 60,2025-07-21,2025-08-03
+CON-090,QUO-1456,ACC-002,C2025-090,Ransomware Attack Contract,Cancelled,2025-05-09,2027-03-08,31986.04,Annually,Net 90,2025-04-11,2025-05-08
+CON-091,QUO-1477,ACC-002,C2025-091,Ransomware Attack Contract,Expired,2025-03-26,2026-12-24,25882.45,Quarterly,Net 60,2025-03-11,2026-12-28
+CON-092,QUO-1540,ACC-004,C2025-092,Full Disk Encryption Contract,Draft,2025-02-07,2026-05-18,38763.55,Quarterly,Net 30,2025-01-16,2025-02-02
+CON-093,QUO-1545,ACC-002,C2025-093,Mobile Device Encryption Contract,Expired,2025-02-19,2026-12-27,18281.46,Annually,Net 30,2025-01-29,2026-12-28
+CON-094,QUO-1577,ACC-002,C2025-094,Hardware Security Module (HSM) Integration Contract,Approved,2025-08-25,2027-04-14,32041.33,Quarterly,Net 90,2025-08-13,2025-09-11
+CON-095,QUO-1587,ACC-002,C2025-095,ERP Data Migration Project Contract,Completed,2025-02-24,2026-09-04,49044.71,Quarterly,Net 90,2025-02-21,2026-09-04
+CON-096,QUO-1613,ACC-004,C2025-096,Wireless Network Contract,Approved,2025-08-14,2027-02-26,33108.6,Annually,Net 90,2025-07-19,2025-07-20
+CON-097,QUO-1621,ACC-001,C2025-097,Cloud-Based ERP Upgrade Contract,Completed,2025-04-02,2026-10-11,17815.97,Monthly,Net 90,2025-03-03,2026-10-11
+CON-098,QUO-1631,ACC-004,C2025-098,Phishing Simulation Contract,Draft,2025-02-08,2026-06-12,27422.61,Quarterly,Net 30,2025-02-03,2025-02-24
+CON-099,QUO-1679,ACC-002,C2025-099,Supply Chain Optimization Contract,Draft,2025-05-30,2027-01-22,49850.82,Monthly,Net 90,2025-05-18,2025-06-12
+CON-100,QUO-1687,ACC-001,C2025-100,Financial Forecasting Contract,Completed,2025-07-10,2027-02-06,28470.95,Annually,Net 60,2025-06-10,2027-02-06
+CON-101,QUO-1715,ACC-003,C2025-101,Customer Experience Enhancement Contract,Completed,2025-06-19,2027-03-13,12240.67,Quarterly,Net 60,2025-06-08,2027-03-13
+CON-102,QUO-1717,ACC-004,C2025-102,Business Process Automation Contract,Expired,2025-03-12,2027-01-21,32615.28,As Per Contract Milestone,Net 60,2025-02-21,2027-02-17
+CON-103,QUO-1732,ACC-003,C2025-103,Cloud-Based ERP Upgrade Contract,Approved,2025-03-29,2026-05-04,12563.97,Quarterly,Net 90,2025-03-25,2025-03-29
+CON-104,QUO-1750,ACC-002,C2025-104,Post-Implementation ERP Support Contract,Completed,2025-05-13,2026-12-15,40306.17,As Per Contract Milestone,Net 30,2025-05-12,2026-12-15
+CON-105,QUO-1778,ACC-004,C2025-105,Cloud Adoption Strategy Contract,Cancelled,2025-03-26,2026-11-06,7797.63,As Per Contract Milestone,Net 60,2025-03-10,2025-03-13
+CON-106,QUO-1790,ACC-002,C2025-106,Intrusion Detection/Prevention System (IDS/IPS) Contract,Approved,2025-06-19,2027-01-08,27755.4,Annually,Net 60,2025-05-21,2025-06-04
+CON-107,QUO-1791,ACC-003,C2025-107,Virtual Private Network (VPN) Deployment Contract,Cancelled,2025-02-03,2026-02-16,33677.1,Quarterly,Net 60,2025-01-19,2025-02-15
+CON-108,QUO-1806,ACC-001,C2025-108,Network Access Control (NAC) Contract,Approved,2025-06-07,2026-10-04,37879.36,As Per Contract Milestone,Net 60,2025-05-16,2025-05-31
+CON-109,QUO-1837,ACC-001,C2025-109,Email Encryption Contract,Pending,2025-06-25,2027-06-03,25500.32,As Per Contract Milestone,Net 30,2025-06-23,2025-07-22
+CON-110,QUO-1842,ACC-001,C2025-110,Mobile Device Encryption Contract,Expired,2025-04-07,2026-08-02,33908.49,Quarterly,Net 60,2025-03-12,2026-08-15
