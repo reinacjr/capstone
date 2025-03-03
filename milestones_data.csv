@@ -1,475 +1,589 @@
 MilestoneID,ContractID,Name,DueDate,Amount,Status,CompletionDate,InvoiceID,CreatedOn,ModifiedOn
-MIL-001,CON-002,Scope Walkthrough,2025-05-21,8781.795,Completed,2025-05-25,INV-001,2025-02-17,2025-05-25
-MIL-002,CON-002,Reconnaissance and Intelligence Gathering,2025-08-22,8781.795,Completed,2025-08-22,INV-002,2025-02-17,2025-08-22
-MIL-003,CON-002,Vulnerability Analysis and Exploitation,2025-11-23,8781.795,Completed,2025-11-30,INV-003,2025-02-17,2025-11-30
-MIL-004,CON-002,Post Exploitation and Impact Assessment,2026-02-24,8781.795,Delayed,,,2025-02-17,2026-03-04
-MIL-005,CON-002,Reporting and Remediation Recommendation,2026-05-28,8781.795,Not Started,,,2025-02-17,2026-05-29
-MIL-006,CON-002,Remediation Validation and Retest,2026-08-29,8781.795,Not Started,,,2025-02-17,2026-08-25
-MIL-007,CON-003,Scope Walkthrough,2025-11-02,8103.403333333333,Completed,2025-11-05,INV-007,2025-07-12,2025-11-05
-MIL-008,CON-003,Reconnaissance and Intelligence Gathering,2026-02-23,8103.403333333333,Completed,2026-03-02,INV-008,2025-07-12,2026-03-02
-MIL-009,CON-003,Vulnerability Analysis and Exploitation,2026-06-16,8103.403333333333,Completed,2026-06-22,INV-009,2025-07-12,2026-06-22
-MIL-010,CON-003,Post Exploitation and Impact Assessment,2026-10-07,8103.403333333333,Completed,2026-10-01,INV-010,2025-07-12,2026-10-01
-MIL-011,CON-003,Reporting and Remediation Recommendation,2027-01-28,8103.403333333333,Completed,2027-01-19,INV-011,2025-07-12,2027-01-19
-MIL-012,CON-003,Remediation Validation and Retest,2027-05-21,8103.403333333333,Completed,2027-05-18,INV-012,2025-07-12,2027-05-18
-MIL-013,CON-007,Scope Walkthrough,2025-08-23,2840.6766666666667,Completed,2025-08-16,INV-013,2025-04-26,2025-08-16
-MIL-014,CON-007,Reconnaissance and Intelligence Gathering,2025-12-20,2840.6766666666667,Completed,2025-12-21,INV-014,2025-04-26,2025-12-21
-MIL-015,CON-007,Vulnerability Analysis and Exploitation,2026-04-18,2840.6766666666667,Completed,2026-04-16,INV-015,2025-04-26,2026-04-16
-MIL-016,CON-007,Post Exploitation and Impact Assessment,2026-08-15,2840.6766666666667,Completed,2026-08-10,INV-016,2025-04-26,2026-08-10
-MIL-017,CON-007,Reporting and Remediation Recommendation,2026-12-12,2840.6766666666667,In Progress,,,2025-04-26,2026-12-09
-MIL-018,CON-007,Remediation Validation and Retest,2027-04-10,2840.6766666666667,Not Started,,,2025-04-26,2027-04-11
-MIL-019,CON-008,Scope Walkthrough,2025-07-06,6011.775000000001,Cancelled,2025-07-04,INV-019,2025-04-29,2025-07-04
-MIL-020,CON-008,Reconnaissance and Intelligence Gathering,2025-09-12,6011.775000000001,Cancelled,2025-09-02,INV-020,2025-04-29,2025-09-02
-MIL-021,CON-008,Vulnerability Analysis and Exploitation,2025-11-19,6011.775000000001,Cancelled,2025-11-17,INV-021,2025-04-29,2025-11-17
-MIL-022,CON-008,Post Exploitation and Impact Assessment,2026-01-26,6011.775000000001,Cancelled,,,2025-04-29,2026-01-19
-MIL-023,CON-008,Reporting and Remediation Recommendation,2026-04-04,6011.775000000001,Cancelled,,,2025-04-29,2026-03-26
-MIL-024,CON-008,Remediation Validation and Retest,2026-06-11,6011.775000000001,Cancelled,,,2025-04-29,2026-06-20
-MIL-025,CON-009,Scope Walkthrough,2025-09-20,7958.525000000001,Completed,2025-09-29,INV-025,2025-07-14,2025-09-29
-MIL-026,CON-009,Reconnaissance and Intelligence Gathering,2025-11-27,7958.525000000001,Completed,2025-12-07,INV-026,2025-07-14,2025-12-07
-MIL-027,CON-009,Vulnerability Analysis and Exploitation,2026-02-03,7958.525000000001,Completed,2026-01-25,INV-027,2025-07-14,2026-01-25
-MIL-028,CON-009,Post Exploitation and Impact Assessment,2026-04-12,7958.525000000001,Completed,2026-04-12,INV-028,2025-07-14,2026-04-12
-MIL-029,CON-009,Reporting and Remediation Recommendation,2026-06-19,7958.525000000001,In Progress,,,2025-07-14,2026-06-16
-MIL-030,CON-009,Remediation Validation and Retest,2026-08-26,7958.525000000001,Not Started,,,2025-07-14,2026-09-05
-MIL-031,CON-010,Scope Walkthrough,2025-09-25,4236.075,Completed,2025-09-16,INV-031,2025-07-03,2025-09-16
-MIL-032,CON-010,Reconnaissance and Intelligence Gathering,2025-12-18,4236.075,Completed,2025-12-08,INV-032,2025-07-03,2025-12-08
-MIL-033,CON-010,Vulnerability Analysis and Exploitation,2026-03-12,4236.075,Delayed,,,2025-07-03,2026-03-17
-MIL-034,CON-010,Post Exploitation and Impact Assessment,2026-06-04,4236.075,Not Started,,,2025-07-03,2026-06-13
-MIL-035,CON-010,Reporting and Remediation Recommendation,2026-08-27,4236.075,Not Started,,,2025-07-03,2026-09-06
-MIL-036,CON-010,Remediation Validation and Retest,2026-11-19,4236.075,Not Started,,,2025-07-03,2026-11-21
-MIL-037,CON-013,Scope Walkthrough,2025-04-09,8701.146666666666,Cancelled,2025-03-31,INV-037,2025-01-13,2025-03-31
-MIL-038,CON-013,Reconnaissance and Intelligence Gathering,2025-07-04,8701.146666666666,Cancelled,2025-07-05,INV-038,2025-01-13,2025-07-05
-MIL-039,CON-013,Vulnerability Analysis and Exploitation,2025-09-28,8701.146666666666,Cancelled,2025-09-20,INV-039,2025-01-13,2025-09-20
-MIL-040,CON-013,Post Exploitation and Impact Assessment,2025-12-23,8701.146666666666,Cancelled,2025-12-25,INV-040,2025-01-13,2025-12-25
-MIL-041,CON-013,Reporting and Remediation Recommendation,2026-03-19,8701.146666666666,Cancelled,,,2025-01-13,2026-03-22
-MIL-042,CON-013,Remediation Validation and Retest,2026-06-13,8701.146666666666,Cancelled,,,2025-01-13,2026-06-22
-MIL-043,CON-014,Scope Walkthrough,2025-08-09,6761.761666666666,Completed,2025-08-16,INV-043,2025-05-28,2025-08-16
-MIL-044,CON-014,Reconnaissance and Intelligence Gathering,2025-10-21,6761.761666666666,Completed,2025-10-16,INV-044,2025-05-28,2025-10-16
-MIL-045,CON-014,Vulnerability Analysis and Exploitation,2026-01-02,6761.761666666666,Completed,2026-01-05,INV-045,2025-05-28,2026-01-05
-MIL-046,CON-014,Post Exploitation and Impact Assessment,2026-03-16,6761.761666666666,Completed,2026-03-26,INV-046,2025-05-28,2026-03-26
-MIL-047,CON-014,Reporting and Remediation Recommendation,2026-05-28,6761.761666666666,In Progress,,,2025-05-28,2026-05-25
-MIL-048,CON-014,Remediation Validation and Retest,2026-08-09,6761.761666666666,Not Started,,,2025-05-28,2026-08-09
-MIL-049,CON-015,Scope Walkthrough,2025-07-12,3585.645,Cancelled,,,2025-05-04,2025-07-03
-MIL-050,CON-015,Reconnaissance and Intelligence Gathering,2025-09-19,3585.645,Cancelled,,,2025-05-04,2025-09-18
-MIL-051,CON-015,Vulnerability Analysis and Exploitation,2025-11-27,3585.645,Cancelled,,,2025-05-04,2025-12-05
-MIL-052,CON-015,Post Exploitation and Impact Assessment,2026-02-04,3585.645,Cancelled,,,2025-05-04,2026-01-31
-MIL-053,CON-015,Reporting and Remediation Recommendation,2026-04-14,3585.645,Cancelled,,,2025-05-04,2026-04-09
-MIL-054,CON-015,Remediation Validation and Retest,2026-06-22,3585.645,Cancelled,,,2025-05-04,2026-06-26
-MIL-055,CON-016,Scope Walkthrough,2025-07-14,4815.933333333333,On Hold,,,2025-05-06,2025-07-11
-MIL-056,CON-016,Reconnaissance and Intelligence Gathering,2025-09-21,4815.933333333333,Not Started,,,2025-05-06,2025-09-14
-MIL-057,CON-016,Vulnerability Analysis and Exploitation,2025-11-29,4815.933333333333,Not Started,,,2025-05-06,2025-11-23
-MIL-058,CON-016,Post Exploitation and Impact Assessment,2026-02-06,4815.933333333333,Not Started,,,2025-05-06,2026-01-27
-MIL-059,CON-016,Reporting and Remediation Recommendation,2026-04-16,4815.933333333333,Not Started,,,2025-05-06,2026-04-07
-MIL-060,CON-016,Remediation Validation and Retest,2026-06-24,4815.933333333333,Not Started,,,2025-05-06,2026-06-14
-MIL-061,CON-017,Scope Walkthrough,2025-10-14,8137.278333333333,Completed,2025-10-17,INV-061,2025-06-28,2025-10-17
-MIL-062,CON-017,Reconnaissance and Intelligence Gathering,2026-01-30,8137.278333333333,Completed,2026-02-01,INV-062,2025-06-28,2026-02-01
-MIL-063,CON-017,Vulnerability Analysis and Exploitation,2026-05-18,8137.278333333333,Completed,2026-05-14,INV-063,2025-06-28,2026-05-14
-MIL-064,CON-017,Post Exploitation and Impact Assessment,2026-09-03,8137.278333333333,Completed,2026-09-05,INV-064,2025-06-28,2026-09-05
-MIL-065,CON-017,Reporting and Remediation Recommendation,2026-12-20,8137.278333333333,Completed,2026-12-11,INV-065,2025-06-28,2026-12-11
-MIL-066,CON-017,Remediation Validation and Retest,2027-04-07,8137.278333333333,Completed,2027-03-28,INV-066,2025-06-28,2027-03-28
-MIL-067,CON-018,Scope Walkthrough,2025-11-21,8022.485000000001,Completed,2025-11-28,INV-067,2025-08-22,2025-11-28
-MIL-068,CON-018,Reconnaissance and Intelligence Gathering,2026-02-20,8022.485000000001,Completed,2026-02-20,INV-068,2025-08-22,2026-02-20
-MIL-069,CON-018,Vulnerability Analysis and Exploitation,2026-05-22,8022.485000000001,Completed,2026-05-22,INV-069,2025-08-22,2026-05-22
-MIL-070,CON-018,Post Exploitation and Impact Assessment,2026-08-21,8022.485000000001,Completed,2026-08-22,INV-070,2025-08-22,2026-08-22
-MIL-071,CON-018,Reporting and Remediation Recommendation,2026-11-20,8022.485000000001,Completed,2026-11-15,INV-071,2025-08-22,2026-11-15
-MIL-072,CON-018,Remediation Validation and Retest,2027-02-19,8022.485000000001,Completed,2027-02-15,INV-072,2025-08-22,2027-02-15
-MIL-073,CON-019,Scope Walkthrough,2025-08-02,9094.413333333334,Completed,2025-07-29,INV-073,2025-05-03,2025-07-29
-MIL-074,CON-019,Reconnaissance and Intelligence Gathering,2025-11-01,9094.413333333334,Delayed,,,2025-05-03,2025-11-11
-MIL-075,CON-019,Vulnerability Analysis and Exploitation,2026-01-31,9094.413333333334,Not Started,,,2025-05-03,2026-02-04
-MIL-076,CON-019,Post Exploitation and Impact Assessment,2026-05-02,9094.413333333334,Not Started,,,2025-05-03,2026-04-22
-MIL-077,CON-019,Reporting and Remediation Recommendation,2026-08-01,9094.413333333334,Not Started,,,2025-05-03,2026-07-29
-MIL-078,CON-019,Remediation Validation and Retest,2026-10-31,9094.413333333334,Not Started,,,2025-05-03,2026-10-29
-MIL-079,CON-022,Scope Walkthrough,2025-08-14,1316.3133333333333,Cancelled,2025-08-07,INV-079,2025-05-20,2025-08-07
-MIL-080,CON-022,Reconnaissance and Intelligence Gathering,2025-11-08,1316.3133333333333,Cancelled,2025-11-01,INV-080,2025-05-20,2025-11-01
-MIL-081,CON-022,Vulnerability Analysis and Exploitation,2026-02-02,1316.3133333333333,Cancelled,,,2025-05-20,2026-02-07
-MIL-082,CON-022,Post Exploitation and Impact Assessment,2026-04-29,1316.3133333333333,Cancelled,,,2025-05-20,2026-05-03
-MIL-083,CON-022,Reporting and Remediation Recommendation,2026-07-24,1316.3133333333333,Cancelled,,,2025-05-20,2026-07-22
-MIL-084,CON-022,Remediation Validation and Retest,2026-10-18,1316.3133333333333,Cancelled,,,2025-05-20,2026-10-12
-MIL-085,CON-023,Scope Walkthrough,2025-04-20,3243.9516666666664,Completed,2025-04-15,INV-085,2025-02-14,2025-04-15
-MIL-086,CON-023,Reconnaissance and Intelligence Gathering,2025-06-24,3243.9516666666664,On Hold,,,2025-02-14,2025-06-16
-MIL-087,CON-023,Vulnerability Analysis and Exploitation,2025-08-28,3243.9516666666664,Not Started,,,2025-02-14,2025-08-28
-MIL-088,CON-023,Post Exploitation and Impact Assessment,2025-11-01,3243.9516666666664,Not Started,,,2025-02-14,2025-10-30
-MIL-089,CON-023,Reporting and Remediation Recommendation,2026-01-05,3243.9516666666664,Not Started,,,2025-02-14,2025-12-26
-MIL-090,CON-023,Remediation Validation and Retest,2026-03-11,3243.9516666666664,Not Started,,,2025-02-14,2026-03-06
-MIL-091,CON-024,Scope Walkthrough,2025-07-08,2208.92,Completed,2025-07-05,INV-091,2025-03-23,2025-07-05
-MIL-092,CON-024,Reconnaissance and Intelligence Gathering,2025-10-23,2208.92,Completed,2025-10-16,INV-092,2025-03-23,2025-10-16
-MIL-093,CON-024,Vulnerability Analysis and Exploitation,2026-02-07,2208.92,Completed,2026-02-04,INV-093,2025-03-23,2026-02-04
-MIL-094,CON-024,Post Exploitation and Impact Assessment,2026-05-25,2208.92,Completed,2026-05-26,INV-094,2025-03-23,2026-05-26
-MIL-095,CON-024,Reporting and Remediation Recommendation,2026-09-09,2208.92,In Progress,,,2025-03-23,2026-08-30
-MIL-096,CON-024,Remediation Validation and Retest,2026-12-25,2208.92,Not Started,,,2025-03-23,2026-12-30
-MIL-097,CON-026,Scope Walkthrough,2025-06-09,1551.0833333333333,Completed,2025-06-11,INV-097,2025-03-17,2025-06-11
-MIL-098,CON-026,Reconnaissance and Intelligence Gathering,2025-09-01,1551.0833333333333,Completed,2025-08-31,INV-098,2025-03-17,2025-08-31
-MIL-099,CON-026,Vulnerability Analysis and Exploitation,2025-11-24,1551.0833333333333,Completed,2025-11-16,INV-099,2025-03-17,2025-11-16
-MIL-100,CON-026,Post Exploitation and Impact Assessment,2026-02-16,1551.0833333333333,Completed,2026-02-11,INV-100,2025-03-17,2026-02-11
-MIL-101,CON-026,Reporting and Remediation Recommendation,2026-05-11,1551.0833333333333,Completed,2026-05-06,INV-101,2025-03-17,2026-05-06
-MIL-102,CON-026,Remediation Validation and Retest,2026-08-03,1551.0833333333333,Delayed,,,2025-03-17,2026-08-05
-MIL-103,CON-027,Scope Walkthrough,2025-10-22,8757.935,Completed,2025-10-24,INV-103,2025-07-09,2025-10-24
-MIL-104,CON-027,Reconnaissance and Intelligence Gathering,2026-02-04,8757.935,Completed,2026-02-09,INV-104,2025-07-09,2026-02-09
-MIL-105,CON-027,Vulnerability Analysis and Exploitation,2026-05-20,8757.935,In Progress,,,2025-07-09,2026-05-20
-MIL-106,CON-027,Post Exploitation and Impact Assessment,2026-09-02,8757.935,Not Started,,,2025-07-09,2026-09-06
-MIL-107,CON-027,Reporting and Remediation Recommendation,2026-12-16,8757.935,Not Started,,,2025-07-09,2026-12-26
-MIL-108,CON-027,Remediation Validation and Retest,2027-03-31,8757.935,Not Started,,,2025-07-09,2027-03-25
-MIL-109,CON-030,Scope Walkthrough,2025-06-23,6621.208333333333,Completed,2025-06-24,INV-109,2025-03-14,2025-06-24
-MIL-110,CON-030,Reconnaissance and Intelligence Gathering,2025-10-02,6621.208333333333,Completed,2025-09-28,INV-110,2025-03-14,2025-09-28
-MIL-111,CON-030,Vulnerability Analysis and Exploitation,2026-01-11,6621.208333333333,Completed,2026-01-04,INV-111,2025-03-14,2026-01-04
-MIL-112,CON-030,Post Exploitation and Impact Assessment,2026-04-22,6621.208333333333,Completed,2026-04-13,INV-112,2025-03-14,2026-04-13
-MIL-113,CON-030,Reporting and Remediation Recommendation,2026-08-01,6621.208333333333,Completed,2026-08-01,INV-113,2025-03-14,2026-08-01
-MIL-114,CON-030,Remediation Validation and Retest,2026-11-10,6621.208333333333,Completed,2026-11-14,INV-114,2025-03-14,2026-11-14
-MIL-115,CON-031,Scope Walkthrough,2025-05-28,2576.1216666666664,Completed,2025-06-01,INV-115,2025-03-02,2025-06-01
-MIL-116,CON-031,Reconnaissance and Intelligence Gathering,2025-08-23,2576.1216666666664,Completed,2025-08-13,INV-116,2025-03-02,2025-08-13
-MIL-117,CON-031,Vulnerability Analysis and Exploitation,2025-11-18,2576.1216666666664,Completed,2025-11-10,INV-117,2025-03-02,2025-11-10
-MIL-118,CON-031,Post Exploitation and Impact Assessment,2026-02-13,2576.1216666666664,Completed,2026-02-11,INV-118,2025-03-02,2026-02-11
-MIL-119,CON-031,Reporting and Remediation Recommendation,2026-05-11,2576.1216666666664,Completed,2026-05-16,INV-119,2025-03-02,2026-05-16
-MIL-120,CON-031,Remediation Validation and Retest,2026-08-06,2576.1216666666664,Completed,2026-08-16,INV-120,2025-03-02,2026-08-16
-MIL-121,CON-034,Scope Walkthrough,2025-07-18,6837.57,Completed,2025-07-10,INV-121,2025-05-04,2025-07-10
-MIL-122,CON-034,Reconnaissance and Intelligence Gathering,2025-10-01,6837.57,Completed,2025-10-10,INV-122,2025-05-04,2025-10-10
-MIL-123,CON-034,Vulnerability Analysis and Exploitation,2025-12-15,6837.57,Completed,2025-12-12,INV-123,2025-05-04,2025-12-12
-MIL-124,CON-034,Post Exploitation and Impact Assessment,2026-02-28,6837.57,Completed,2026-03-05,INV-124,2025-05-04,2026-03-05
-MIL-125,CON-034,Reporting and Remediation Recommendation,2026-05-14,6837.57,Completed,2026-05-04,INV-125,2025-05-04,2026-05-04
-MIL-126,CON-034,Remediation Validation and Retest,2026-07-28,6837.57,Completed,2026-08-02,INV-126,2025-05-04,2026-08-02
-MIL-127,CON-036,Scope Walkthrough,2025-07-17,4181.805,Completed,2025-07-21,INV-127,2025-04-14,2025-07-21
-MIL-128,CON-036,Reconnaissance and Intelligence Gathering,2025-10-19,4181.805,Completed,2025-10-19,INV-128,2025-04-14,2025-10-19
-MIL-129,CON-036,Vulnerability Analysis and Exploitation,2026-01-21,4181.805,Completed,2026-01-28,INV-129,2025-04-14,2026-01-28
-MIL-130,CON-036,Post Exploitation and Impact Assessment,2026-04-25,4181.805,Completed,2026-04-28,INV-130,2025-04-14,2026-04-28
-MIL-131,CON-036,Reporting and Remediation Recommendation,2026-07-28,4181.805,Completed,2026-08-04,INV-131,2025-04-14,2026-08-04
-MIL-132,CON-036,Remediation Validation and Retest,2026-10-30,4181.805,Completed,2026-10-31,INV-132,2025-04-14,2026-10-31
-MIL-133,CON-038,Scope Walkthrough,2025-05-31,8210.605,Completed,2025-06-08,INV-133,2025-02-23,2025-06-08
-MIL-134,CON-038,Reconnaissance and Intelligence Gathering,2025-09-05,8210.605,Completed,2025-09-10,INV-134,2025-02-23,2025-09-10
-MIL-135,CON-038,Vulnerability Analysis and Exploitation,2025-12-11,8210.605,Completed,2025-12-17,INV-135,2025-02-23,2025-12-17
-MIL-136,CON-038,Post Exploitation and Impact Assessment,2026-03-18,8210.605,Completed,2026-03-09,INV-136,2025-02-23,2026-03-09
-MIL-137,CON-038,Reporting and Remediation Recommendation,2026-06-23,8210.605,Completed,2026-06-26,INV-137,2025-02-23,2026-06-26
-MIL-138,CON-038,Remediation Validation and Retest,2026-09-28,8210.605,On Hold,,,2025-02-23,2026-09-28
-MIL-139,CON-040,Scope Walkthrough,2025-04-24,4272.991666666667,Cancelled,,,2025-01-29,2025-04-25
-MIL-140,CON-040,Reconnaissance and Intelligence Gathering,2025-07-18,4272.991666666667,Cancelled,,,2025-01-29,2025-07-14
-MIL-141,CON-040,Vulnerability Analysis and Exploitation,2025-10-11,4272.991666666667,Cancelled,,,2025-01-29,2025-10-05
-MIL-142,CON-040,Post Exploitation and Impact Assessment,2026-01-04,4272.991666666667,Cancelled,,,2025-01-29,2025-12-25
-MIL-143,CON-040,Reporting and Remediation Recommendation,2026-03-30,4272.991666666667,Cancelled,,,2025-01-29,2026-03-24
-MIL-144,CON-040,Remediation Validation and Retest,2026-06-23,4272.991666666667,Cancelled,,,2025-01-29,2026-06-18
-MIL-145,CON-041,Scope Walkthrough,2025-08-21,4607.196666666667,Completed,2025-08-23,INV-145,2025-05-20,2025-08-23
-MIL-146,CON-041,Reconnaissance and Intelligence Gathering,2025-11-22,4607.196666666667,Completed,2025-11-12,INV-146,2025-05-20,2025-11-12
-MIL-147,CON-041,Vulnerability Analysis and Exploitation,2026-02-23,4607.196666666667,Completed,2026-03-04,INV-147,2025-05-20,2026-03-04
-MIL-148,CON-041,Post Exploitation and Impact Assessment,2026-05-27,4607.196666666667,Delayed,,,2025-05-20,2026-06-06
-MIL-149,CON-041,Reporting and Remediation Recommendation,2026-08-28,4607.196666666667,Not Started,,,2025-05-20,2026-08-20
-MIL-150,CON-041,Remediation Validation and Retest,2026-11-29,4607.196666666667,Not Started,,,2025-05-20,2026-11-26
-MIL-151,CON-042,Scope Walkthrough,2025-08-23,3878.4816666666666,Cancelled,2025-08-15,INV-151,2025-05-09,2025-08-15
-MIL-152,CON-042,Reconnaissance and Intelligence Gathering,2025-12-07,3878.4816666666666,Cancelled,2025-12-02,INV-152,2025-05-09,2025-12-02
-MIL-153,CON-042,Vulnerability Analysis and Exploitation,2026-03-23,3878.4816666666666,Cancelled,2026-03-22,INV-153,2025-05-09,2026-03-22
-MIL-154,CON-042,Post Exploitation and Impact Assessment,2026-07-07,3878.4816666666666,Cancelled,,,2025-05-09,2026-07-05
-MIL-155,CON-042,Reporting and Remediation Recommendation,2026-10-21,3878.4816666666666,Cancelled,,,2025-05-09,2026-10-31
-MIL-156,CON-042,Remediation Validation and Retest,2027-02-04,3878.4816666666666,Cancelled,,,2025-05-09,2027-01-29
-MIL-157,CON-043,Scope Walkthrough,2025-06-12,6330.2283333333335,Completed,2025-06-08,INV-157,2025-02-18,2025-06-08
-MIL-158,CON-043,Reconnaissance and Intelligence Gathering,2025-10-04,6330.2283333333335,Completed,2025-10-05,INV-158,2025-02-18,2025-10-05
-MIL-159,CON-043,Vulnerability Analysis and Exploitation,2026-01-26,6330.2283333333335,Completed,2026-01-27,INV-159,2025-02-18,2026-01-27
-MIL-160,CON-043,Post Exploitation and Impact Assessment,2026-05-20,6330.2283333333335,Completed,2026-05-25,INV-160,2025-02-18,2026-05-25
-MIL-161,CON-043,Reporting and Remediation Recommendation,2026-09-11,6330.2283333333335,Completed,2026-09-07,INV-161,2025-02-18,2026-09-07
-MIL-162,CON-043,Remediation Validation and Retest,2027-01-03,6330.2283333333335,Completed,2026-12-28,INV-162,2025-02-18,2026-12-28
-MIL-163,CON-044,Scope Walkthrough,2025-07-25,4193.5233333333335,Completed,2025-08-04,INV-163,2025-04-18,2025-08-04
-MIL-164,CON-044,Reconnaissance and Intelligence Gathering,2025-10-31,4193.5233333333335,Completed,2025-10-30,INV-164,2025-04-18,2025-10-30
-MIL-165,CON-044,Vulnerability Analysis and Exploitation,2026-02-06,4193.5233333333335,Completed,2026-02-12,INV-165,2025-04-18,2026-02-12
-MIL-166,CON-044,Post Exploitation and Impact Assessment,2026-05-15,4193.5233333333335,Completed,2026-05-24,INV-166,2025-04-18,2026-05-24
-MIL-167,CON-044,Reporting and Remediation Recommendation,2026-08-21,4193.5233333333335,Completed,2026-08-29,INV-167,2025-04-18,2026-08-29
-MIL-168,CON-044,Remediation Validation and Retest,2026-11-27,4193.5233333333335,Completed,2026-11-26,INV-168,2025-04-18,2026-11-26
-MIL-169,CON-045,Scope Walkthrough,2025-06-23,1474.3566666666666,Completed,2025-06-13,INV-169,2025-04-15,2025-06-13
-MIL-170,CON-045,Reconnaissance and Intelligence Gathering,2025-08-31,1474.3566666666666,Completed,2025-08-21,INV-170,2025-04-15,2025-08-21
-MIL-171,CON-045,Vulnerability Analysis and Exploitation,2025-11-08,1474.3566666666666,Completed,2025-10-30,INV-171,2025-04-15,2025-10-30
-MIL-172,CON-045,Post Exploitation and Impact Assessment,2026-01-16,1474.3566666666666,In Progress,,,2025-04-15,2026-01-07
-MIL-173,CON-045,Reporting and Remediation Recommendation,2026-03-26,1474.3566666666666,Not Started,,,2025-04-15,2026-03-19
-MIL-174,CON-045,Remediation Validation and Retest,2026-06-03,1474.3566666666666,Not Started,,,2025-04-15,2026-06-06
-MIL-175,CON-046,Scope Walkthrough,2025-06-14,5852.151666666668,Completed,2025-06-21,INV-175,2025-03-14,2025-06-21
-MIL-176,CON-046,Reconnaissance and Intelligence Gathering,2025-09-14,5852.151666666668,Completed,2025-09-14,INV-176,2025-03-14,2025-09-14
-MIL-177,CON-046,Vulnerability Analysis and Exploitation,2025-12-15,5852.151666666668,In Progress,,,2025-03-14,2025-12-10
-MIL-178,CON-046,Post Exploitation and Impact Assessment,2026-03-17,5852.151666666668,Not Started,,,2025-03-14,2026-03-19
-MIL-179,CON-046,Reporting and Remediation Recommendation,2026-06-17,5852.151666666668,Not Started,,,2025-03-14,2026-06-10
-MIL-180,CON-046,Remediation Validation and Retest,2026-09-17,5852.151666666668,Not Started,,,2025-03-14,2026-09-27
-MIL-181,CON-047,Scope Walkthrough,2025-08-01,6775.740000000001,Completed,2025-08-06,INV-181,2025-04-08,2025-08-06
-MIL-182,CON-047,Reconnaissance and Intelligence Gathering,2025-11-24,6775.740000000001,In Progress,,,2025-04-08,2025-11-16
-MIL-183,CON-047,Vulnerability Analysis and Exploitation,2026-03-19,6775.740000000001,Not Started,,,2025-04-08,2026-03-18
-MIL-184,CON-047,Post Exploitation and Impact Assessment,2026-07-12,6775.740000000001,Not Started,,,2025-04-08,2026-07-16
-MIL-185,CON-047,Reporting and Remediation Recommendation,2026-11-04,6775.740000000001,Not Started,,,2025-04-08,2026-11-06
-MIL-186,CON-047,Remediation Validation and Retest,2027-02-27,6775.740000000001,Not Started,,,2025-04-08,2027-03-02
-MIL-187,CON-048,Scope Walkthrough,2025-07-29,4693.62,Completed,2025-07-25,INV-187,2025-05-21,2025-07-25
-MIL-188,CON-048,Reconnaissance and Intelligence Gathering,2025-10-06,4693.62,Completed,2025-09-26,INV-188,2025-05-21,2025-09-26
-MIL-189,CON-048,Vulnerability Analysis and Exploitation,2025-12-14,4693.62,Completed,2025-12-07,INV-189,2025-05-21,2025-12-07
-MIL-190,CON-048,Post Exploitation and Impact Assessment,2026-02-21,4693.62,Delayed,,,2025-05-21,2026-02-23
-MIL-191,CON-048,Reporting and Remediation Recommendation,2026-05-01,4693.62,Not Started,,,2025-05-21,2026-04-25
-MIL-192,CON-048,Remediation Validation and Retest,2026-07-09,4693.62,Not Started,,,2025-05-21,2026-07-10
-MIL-193,CON-049,Scope Walkthrough,2025-10-08,2852.345,Completed,2025-10-18,INV-193,2025-07-01,2025-10-18
-MIL-194,CON-049,Reconnaissance and Intelligence Gathering,2026-01-15,2852.345,Completed,2026-01-12,INV-194,2025-07-01,2026-01-12
-MIL-195,CON-049,Vulnerability Analysis and Exploitation,2026-04-24,2852.345,Completed,2026-04-19,INV-195,2025-07-01,2026-04-19
-MIL-196,CON-049,Post Exploitation and Impact Assessment,2026-08-01,2852.345,Completed,2026-08-09,INV-196,2025-07-01,2026-08-09
-MIL-197,CON-049,Reporting and Remediation Recommendation,2026-11-08,2852.345,Delayed,,,2025-07-01,2026-11-17
-MIL-198,CON-049,Remediation Validation and Retest,2027-02-15,2852.345,Not Started,,,2025-07-01,2027-02-12
-MIL-199,CON-051,Scope Walkthrough,2025-09-21,6740.486666666667,Completed,2025-09-26,INV-199,2025-06-15,2025-09-26
-MIL-200,CON-051,Reconnaissance and Intelligence Gathering,2025-12-28,6740.486666666667,Completed,2026-01-05,INV-200,2025-06-15,2026-01-05
-MIL-201,CON-051,Vulnerability Analysis and Exploitation,2026-04-05,6740.486666666667,Completed,2026-04-09,INV-201,2025-06-15,2026-04-09
-MIL-202,CON-051,Post Exploitation and Impact Assessment,2026-07-12,6740.486666666667,Completed,2026-07-09,INV-202,2025-06-15,2026-07-09
-MIL-203,CON-051,Reporting and Remediation Recommendation,2026-10-18,6740.486666666667,Completed,2026-10-22,INV-203,2025-06-15,2026-10-22
-MIL-204,CON-051,Remediation Validation and Retest,2027-01-24,6740.486666666667,Completed,2027-02-03,INV-204,2025-06-15,2027-02-03
-MIL-205,CON-054,Scope Walkthrough,2025-10-10,3428.4,Cancelled,2025-10-05,INV-205,2025-06-17,2025-10-05
-MIL-206,CON-054,Reconnaissance and Intelligence Gathering,2026-02-02,3428.4,Cancelled,2026-01-25,INV-206,2025-06-17,2026-01-25
-MIL-207,CON-054,Vulnerability Analysis and Exploitation,2026-05-28,3428.4,Cancelled,2026-05-19,INV-207,2025-06-17,2026-05-19
-MIL-208,CON-054,Post Exploitation and Impact Assessment,2026-09-20,3428.4,Cancelled,2026-09-28,INV-208,2025-06-17,2026-09-28
-MIL-209,CON-054,Reporting and Remediation Recommendation,2027-01-13,3428.4,Cancelled,2027-01-23,INV-209,2025-06-17,2027-01-23
-MIL-210,CON-054,Remediation Validation and Retest,2027-05-08,3428.4,Cancelled,,,2025-06-17,2027-04-30
-MIL-211,CON-055,Scope Walkthrough,2025-10-08,1907.57,Completed,2025-10-11,INV-211,2025-06-28,2025-10-11
-MIL-212,CON-055,Reconnaissance and Intelligence Gathering,2026-01-18,1907.57,Completed,2026-01-12,INV-212,2025-06-28,2026-01-12
-MIL-213,CON-055,Vulnerability Analysis and Exploitation,2026-04-30,1907.57,Completed,2026-05-10,INV-213,2025-06-28,2026-05-10
-MIL-214,CON-055,Post Exploitation and Impact Assessment,2026-08-10,1907.57,Completed,2026-08-13,INV-214,2025-06-28,2026-08-13
-MIL-215,CON-055,Reporting and Remediation Recommendation,2026-11-20,1907.57,Delayed,,,2025-06-28,2026-11-27
-MIL-216,CON-055,Remediation Validation and Retest,2027-03-02,1907.57,Not Started,,,2025-06-28,2027-03-05
-MIL-217,CON-057,Scope Walkthrough,2025-10-24,4953.873333333334,Completed,2025-10-17,INV-217,2025-07-24,2025-10-17
-MIL-218,CON-057,Reconnaissance and Intelligence Gathering,2026-01-24,4953.873333333334,Completed,2026-01-21,INV-218,2025-07-24,2026-01-21
-MIL-219,CON-057,Vulnerability Analysis and Exploitation,2026-04-26,4953.873333333334,Completed,2026-05-05,INV-219,2025-07-24,2026-05-05
-MIL-220,CON-057,Post Exploitation and Impact Assessment,2026-07-27,4953.873333333334,Delayed,,,2025-07-24,2026-08-04
-MIL-221,CON-057,Reporting and Remediation Recommendation,2026-10-27,4953.873333333334,Not Started,,,2025-07-24,2026-10-26
-MIL-222,CON-057,Remediation Validation and Retest,2027-01-27,4953.873333333334,Not Started,,,2025-07-24,2027-01-23
-MIL-223,CON-058,Scope Walkthrough,2025-10-20,3376.525,Completed,2025-10-21,INV-223,2025-07-10,2025-10-21
-MIL-224,CON-058,Reconnaissance and Intelligence Gathering,2026-01-30,3376.525,Completed,2026-01-31,INV-224,2025-07-10,2026-01-31
-MIL-225,CON-058,Vulnerability Analysis and Exploitation,2026-05-12,3376.525,Completed,2026-05-20,INV-225,2025-07-10,2026-05-20
-MIL-226,CON-058,Post Exploitation and Impact Assessment,2026-08-22,3376.525,Completed,2026-09-01,INV-226,2025-07-10,2026-09-01
-MIL-227,CON-058,Reporting and Remediation Recommendation,2026-12-02,3376.525,Completed,2026-11-25,INV-227,2025-07-10,2026-11-25
-MIL-228,CON-058,Remediation Validation and Retest,2027-03-14,3376.525,Completed,2027-03-14,INV-228,2025-07-10,2027-03-14
-MIL-229,CON-059,Scope Walkthrough,2025-06-14,4206.923333333333,Cancelled,2025-06-05,INV-229,2025-03-29,2025-06-05
-MIL-230,CON-059,Reconnaissance and Intelligence Gathering,2025-08-30,4206.923333333333,Cancelled,,,2025-03-29,2025-08-21
-MIL-231,CON-059,Vulnerability Analysis and Exploitation,2025-11-15,4206.923333333333,Cancelled,,,2025-03-29,2025-11-21
-MIL-232,CON-059,Post Exploitation and Impact Assessment,2026-01-31,4206.923333333333,Cancelled,,,2025-03-29,2026-01-29
-MIL-233,CON-059,Reporting and Remediation Recommendation,2026-04-18,4206.923333333333,Cancelled,,,2025-03-29,2026-04-16
-MIL-234,CON-059,Remediation Validation and Retest,2026-07-04,4206.923333333333,Cancelled,,,2025-03-29,2026-06-30
-MIL-235,CON-060,Scope Walkthrough,2025-08-01,4315.303333333333,Completed,2025-07-25,INV-235,2025-05-23,2025-07-25
-MIL-236,CON-060,Reconnaissance and Intelligence Gathering,2025-10-10,4315.303333333333,Completed,2025-10-03,INV-236,2025-05-23,2025-10-03
-MIL-237,CON-060,Vulnerability Analysis and Exploitation,2025-12-19,4315.303333333333,Completed,2025-12-13,INV-237,2025-05-23,2025-12-13
-MIL-238,CON-060,Post Exploitation and Impact Assessment,2026-02-27,4315.303333333333,Completed,2026-03-03,INV-238,2025-05-23,2026-03-03
-MIL-239,CON-060,Reporting and Remediation Recommendation,2026-05-08,4315.303333333333,In Progress,,,2025-05-23,2026-05-05
-MIL-240,CON-060,Remediation Validation and Retest,2026-07-17,4315.303333333333,Not Started,,,2025-05-23,2026-07-22
-MIL-241,CON-061,Scope Walkthrough,2025-08-27,7696.416666666667,Completed,2025-08-22,INV-241,2025-05-03,2025-08-22
-MIL-242,CON-061,Reconnaissance and Intelligence Gathering,2025-12-21,7696.416666666667,Completed,2025-12-24,INV-242,2025-05-03,2025-12-24
-MIL-243,CON-061,Vulnerability Analysis and Exploitation,2026-04-16,7696.416666666667,In Progress,,,2025-05-03,2026-04-16
-MIL-244,CON-061,Post Exploitation and Impact Assessment,2026-08-10,7696.416666666667,Not Started,,,2025-05-03,2026-08-13
-MIL-245,CON-061,Reporting and Remediation Recommendation,2026-12-04,7696.416666666667,Not Started,,,2025-05-03,2026-12-11
-MIL-246,CON-061,Remediation Validation and Retest,2027-03-30,7696.416666666667,Not Started,,,2025-05-03,2027-03-31
-MIL-247,CON-062,Scope Walkthrough,2025-09-01,3796.351666666667,Completed,2025-09-03,INV-247,2025-06-17,2025-09-03
-MIL-248,CON-062,Reconnaissance and Intelligence Gathering,2025-11-16,3796.351666666667,Completed,2025-11-09,INV-248,2025-06-17,2025-11-09
-MIL-249,CON-062,Vulnerability Analysis and Exploitation,2026-01-31,3796.351666666667,In Progress,,,2025-06-17,2026-01-26
-MIL-250,CON-062,Post Exploitation and Impact Assessment,2026-04-17,3796.351666666667,Not Started,,,2025-06-17,2026-04-08
-MIL-251,CON-062,Reporting and Remediation Recommendation,2026-07-02,3796.351666666667,Not Started,,,2025-06-17,2026-07-04
-MIL-252,CON-062,Remediation Validation and Retest,2026-09-16,3796.351666666667,Not Started,,,2025-06-17,2026-09-26
-MIL-253,CON-064,Scope Walkthrough,2025-05-13,2177.5499999999997,In Progress,,,2025-03-08,2025-05-09
-MIL-254,CON-064,Reconnaissance and Intelligence Gathering,2025-07-18,2177.5499999999997,Not Started,,,2025-03-08,2025-07-27
-MIL-255,CON-064,Vulnerability Analysis and Exploitation,2025-09-22,2177.5499999999997,Not Started,,,2025-03-08,2025-09-15
-MIL-256,CON-064,Post Exploitation and Impact Assessment,2025-11-27,2177.5499999999997,Not Started,,,2025-03-08,2025-12-01
-MIL-257,CON-064,Reporting and Remediation Recommendation,2026-02-01,2177.5499999999997,Not Started,,,2025-03-08,2026-01-29
-MIL-258,CON-064,Remediation Validation and Retest,2026-04-08,2177.5499999999997,Not Started,,,2025-03-08,2026-04-04
-MIL-259,CON-065,Scope Walkthrough,2025-05-26,4612.411666666667,Completed,2025-05-21,INV-259,2025-03-26,2025-05-21
-MIL-260,CON-065,Reconnaissance and Intelligence Gathering,2025-07-26,4612.411666666667,Completed,2025-07-19,INV-260,2025-03-26,2025-07-19
-MIL-261,CON-065,Vulnerability Analysis and Exploitation,2025-09-25,4612.411666666667,Completed,2025-09-15,INV-261,2025-03-26,2025-09-15
-MIL-262,CON-065,Post Exploitation and Impact Assessment,2025-11-25,4612.411666666667,Completed,2025-11-29,INV-262,2025-03-26,2025-11-29
-MIL-263,CON-065,Reporting and Remediation Recommendation,2026-01-25,4612.411666666667,Completed,2026-02-02,INV-263,2025-03-26,2026-02-02
-MIL-264,CON-065,Remediation Validation and Retest,2026-03-27,4612.411666666667,Completed,2026-04-01,INV-264,2025-03-26,2026-04-01
-MIL-265,CON-066,Scope Walkthrough,2025-06-06,3142.775,Cancelled,2025-05-29,INV-265,2025-03-14,2025-05-29
-MIL-266,CON-066,Reconnaissance and Intelligence Gathering,2025-08-29,3142.775,Cancelled,2025-09-06,INV-266,2025-03-14,2025-09-06
-MIL-267,CON-066,Vulnerability Analysis and Exploitation,2025-11-21,3142.775,Cancelled,2025-11-23,INV-267,2025-03-14,2025-11-23
-MIL-268,CON-066,Post Exploitation and Impact Assessment,2026-02-13,3142.775,Cancelled,2026-02-12,INV-268,2025-03-14,2026-02-12
-MIL-269,CON-066,Reporting and Remediation Recommendation,2026-05-08,3142.775,Cancelled,2026-05-03,INV-269,2025-03-14,2026-05-03
-MIL-270,CON-066,Remediation Validation and Retest,2026-07-31,3142.775,Cancelled,,,2025-03-14,2026-07-24
-MIL-271,CON-067,Scope Walkthrough,2025-07-13,3191.9266666666667,Completed,2025-07-07,INV-271,2025-05-06,2025-07-07
-MIL-272,CON-067,Reconnaissance and Intelligence Gathering,2025-09-19,3191.9266666666667,Completed,2025-09-28,INV-272,2025-05-06,2025-09-28
-MIL-273,CON-067,Vulnerability Analysis and Exploitation,2025-11-26,3191.9266666666667,Completed,2025-12-06,INV-273,2025-05-06,2025-12-06
-MIL-274,CON-067,Post Exploitation and Impact Assessment,2026-02-02,3191.9266666666667,Completed,2026-02-02,INV-274,2025-05-06,2026-02-02
-MIL-275,CON-067,Reporting and Remediation Recommendation,2026-04-11,3191.9266666666667,Completed,2026-04-10,INV-275,2025-05-06,2026-04-10
-MIL-276,CON-067,Remediation Validation and Retest,2026-06-18,3191.9266666666667,Delayed,,,2025-05-06,2026-06-19
-MIL-277,CON-068,Scope Walkthrough,2025-04-11,8665.43,Completed,2025-04-15,INV-277,2025-01-23,2025-04-15
-MIL-278,CON-068,Reconnaissance and Intelligence Gathering,2025-06-28,8665.43,In Progress,,,2025-01-23,2025-06-22
-MIL-279,CON-068,Vulnerability Analysis and Exploitation,2025-09-14,8665.43,Not Started,,,2025-01-23,2025-09-17
-MIL-280,CON-068,Post Exploitation and Impact Assessment,2025-12-01,8665.43,Not Started,,,2025-01-23,2025-11-26
-MIL-281,CON-068,Reporting and Remediation Recommendation,2026-02-17,8665.43,Not Started,,,2025-01-23,2026-02-10
-MIL-282,CON-068,Remediation Validation and Retest,2026-05-06,8665.43,Not Started,,,2025-01-23,2026-04-26
-MIL-283,CON-069,Scope Walkthrough,2025-09-11,5158.635,Completed,2025-09-08,INV-283,2025-06-13,2025-09-08
-MIL-284,CON-069,Reconnaissance and Intelligence Gathering,2025-12-10,5158.635,Delayed,,,2025-06-13,2025-12-16
-MIL-285,CON-069,Vulnerability Analysis and Exploitation,2026-03-10,5158.635,Not Started,,,2025-06-13,2026-02-28
-MIL-286,CON-069,Post Exploitation and Impact Assessment,2026-06-08,5158.635,Not Started,,,2025-06-13,2026-06-18
-MIL-287,CON-069,Reporting and Remediation Recommendation,2026-09-06,5158.635,Not Started,,,2025-06-13,2026-09-06
-MIL-288,CON-069,Remediation Validation and Retest,2026-12-05,5158.635,Not Started,,,2025-06-13,2026-12-11
-MIL-289,CON-070,Scope Walkthrough,2025-08-06,3721.7833333333333,Completed,2025-08-09,INV-289,2025-06-06,2025-08-09
-MIL-290,CON-070,Reconnaissance and Intelligence Gathering,2025-10-06,3721.7833333333333,Completed,2025-10-10,INV-290,2025-06-06,2025-10-10
-MIL-291,CON-070,Vulnerability Analysis and Exploitation,2025-12-06,3721.7833333333333,Completed,2025-11-29,INV-291,2025-06-06,2025-11-29
-MIL-292,CON-070,Post Exploitation and Impact Assessment,2026-02-05,3721.7833333333333,Completed,2026-02-11,INV-292,2025-06-06,2026-02-11
-MIL-293,CON-070,Reporting and Remediation Recommendation,2026-04-07,3721.7833333333333,Completed,2026-04-15,INV-293,2025-06-06,2026-04-15
-MIL-294,CON-070,Remediation Validation and Retest,2026-06-07,3721.7833333333333,Completed,2026-05-30,INV-294,2025-06-06,2026-05-30
-MIL-295,CON-071,Scope Walkthrough,2025-09-28,3548.4233333333336,Completed,2025-10-04,INV-295,2025-07-04,2025-10-04
-MIL-296,CON-071,Reconnaissance and Intelligence Gathering,2025-12-23,3548.4233333333336,Completed,2025-12-26,INV-296,2025-07-04,2025-12-26
-MIL-297,CON-071,Vulnerability Analysis and Exploitation,2026-03-19,3548.4233333333336,Completed,2026-03-14,INV-297,2025-07-04,2026-03-14
-MIL-298,CON-071,Post Exploitation and Impact Assessment,2026-06-13,3548.4233333333336,Completed,2026-06-04,INV-298,2025-07-04,2026-06-04
-MIL-299,CON-071,Reporting and Remediation Recommendation,2026-09-07,3548.4233333333336,Completed,2026-09-02,INV-299,2025-07-04,2026-09-02
-MIL-300,CON-071,Remediation Validation and Retest,2026-12-02,3548.4233333333336,On Hold,,,2025-07-04,2026-11-26
-MIL-301,CON-073,Scope Walkthrough,2025-10-14,7451.571666666667,Cancelled,2025-10-12,INV-301,2025-07-08,2025-10-12
-MIL-302,CON-073,Reconnaissance and Intelligence Gathering,2026-01-20,7451.571666666667,Cancelled,2026-01-14,INV-302,2025-07-08,2026-01-14
-MIL-303,CON-073,Vulnerability Analysis and Exploitation,2026-04-28,7451.571666666667,Cancelled,2026-05-04,INV-303,2025-07-08,2026-05-04
-MIL-304,CON-073,Post Exploitation and Impact Assessment,2026-08-04,7451.571666666667,Cancelled,2026-07-31,INV-304,2025-07-08,2026-07-31
-MIL-305,CON-073,Reporting and Remediation Recommendation,2026-11-10,7451.571666666667,Cancelled,2026-11-14,INV-305,2025-07-08,2026-11-14
-MIL-306,CON-073,Remediation Validation and Retest,2027-02-16,7451.571666666667,Cancelled,,,2025-07-08,2027-02-12
-MIL-307,CON-074,Scope Walkthrough,2025-09-05,7468.605,Completed,2025-09-15,INV-307,2025-05-23,2025-09-15
-MIL-308,CON-074,Reconnaissance and Intelligence Gathering,2025-12-19,7468.605,Completed,2025-12-16,INV-308,2025-05-23,2025-12-16
-MIL-309,CON-074,Vulnerability Analysis and Exploitation,2026-04-03,7468.605,Completed,2026-03-25,INV-309,2025-05-23,2026-03-25
-MIL-310,CON-074,Post Exploitation and Impact Assessment,2026-07-17,7468.605,In Progress,,,2025-05-23,2026-07-09
-MIL-311,CON-074,Reporting and Remediation Recommendation,2026-10-30,7468.605,Not Started,,,2025-05-23,2026-10-25
-MIL-312,CON-074,Remediation Validation and Retest,2027-02-12,7468.605,Not Started,,,2025-05-23,2027-02-22
-MIL-313,CON-075,Scope Walkthrough,2025-08-09,4138.516666666666,Completed,2025-08-10,INV-313,2025-05-14,2025-08-10
-MIL-314,CON-075,Reconnaissance and Intelligence Gathering,2025-11-04,4138.516666666666,Completed,2025-10-26,INV-314,2025-05-14,2025-10-26
-MIL-315,CON-075,Vulnerability Analysis and Exploitation,2026-01-30,4138.516666666666,Delayed,,,2025-05-14,2026-02-05
-MIL-316,CON-075,Post Exploitation and Impact Assessment,2026-04-27,4138.516666666666,Not Started,,,2025-05-14,2026-04-18
-MIL-317,CON-075,Reporting and Remediation Recommendation,2026-07-23,4138.516666666666,Not Started,,,2025-05-14,2026-07-15
-MIL-318,CON-075,Remediation Validation and Retest,2026-10-18,4138.516666666666,Not Started,,,2025-05-14,2026-10-17
-MIL-319,CON-077,Scope Walkthrough,2025-12-16,2661.395,Completed,2025-12-07,INV-319,2025-08-29,2025-12-07
-MIL-320,CON-077,Reconnaissance and Intelligence Gathering,2026-04-04,2661.395,Completed,2026-03-29,INV-320,2025-08-29,2026-03-29
-MIL-321,CON-077,Vulnerability Analysis and Exploitation,2026-07-22,2661.395,Completed,2026-07-24,INV-321,2025-08-29,2026-07-24
-MIL-322,CON-077,Post Exploitation and Impact Assessment,2026-11-08,2661.395,Delayed,,,2025-08-29,2026-11-13
-MIL-323,CON-077,Reporting and Remediation Recommendation,2027-02-25,2661.395,Not Started,,,2025-08-29,2027-02-15
-MIL-324,CON-077,Remediation Validation and Retest,2027-06-14,2661.395,Not Started,,,2025-08-29,2027-06-11
-MIL-325,CON-078,Scope Walkthrough,2025-05-29,4602.04,Completed,2025-05-24,INV-325,2025-02-02,2025-05-24
-MIL-326,CON-078,Reconnaissance and Intelligence Gathering,2025-09-22,4602.04,Completed,2025-09-21,INV-326,2025-02-02,2025-09-21
-MIL-327,CON-078,Vulnerability Analysis and Exploitation,2026-01-16,4602.04,Completed,2026-01-07,INV-327,2025-02-02,2026-01-07
-MIL-328,CON-078,Post Exploitation and Impact Assessment,2026-05-12,4602.04,Completed,2026-05-22,INV-328,2025-02-02,2026-05-22
-MIL-329,CON-078,Reporting and Remediation Recommendation,2026-09-05,4602.04,Completed,2026-08-28,INV-329,2025-02-02,2026-08-28
-MIL-330,CON-078,Remediation Validation and Retest,2026-12-30,4602.04,In Progress,,,2025-02-02,2026-12-21
-MIL-331,CON-081,Scope Walkthrough,2025-06-04,1513.7983333333334,Completed,2025-06-05,INV-331,2025-02-17,2025-06-05
-MIL-332,CON-081,Reconnaissance and Intelligence Gathering,2025-09-19,1513.7983333333334,Completed,2025-09-26,INV-332,2025-02-17,2025-09-26
-MIL-333,CON-081,Vulnerability Analysis and Exploitation,2026-01-04,1513.7983333333334,Completed,2025-12-28,INV-333,2025-02-17,2025-12-28
-MIL-334,CON-081,Post Exploitation and Impact Assessment,2026-04-21,1513.7983333333334,Completed,2026-04-20,INV-334,2025-02-17,2026-04-20
-MIL-335,CON-081,Reporting and Remediation Recommendation,2026-08-06,1513.7983333333334,Delayed,,,2025-02-17,2026-08-10
-MIL-336,CON-081,Remediation Validation and Retest,2026-11-21,1513.7983333333334,Not Started,,,2025-02-17,2026-11-15
-MIL-337,CON-082,Scope Walkthrough,2025-08-08,2932.895,Cancelled,2025-08-18,INV-337,2025-04-23,2025-08-18
-MIL-338,CON-082,Reconnaissance and Intelligence Gathering,2025-11-23,2932.895,Cancelled,2025-11-15,INV-338,2025-04-23,2025-11-15
-MIL-339,CON-082,Vulnerability Analysis and Exploitation,2026-03-10,2932.895,Cancelled,2026-03-15,INV-339,2025-04-23,2026-03-15
-MIL-340,CON-082,Post Exploitation and Impact Assessment,2026-06-25,2932.895,Cancelled,,,2025-04-23,2026-06-16
-MIL-341,CON-082,Reporting and Remediation Recommendation,2026-10-10,2932.895,Cancelled,,,2025-04-23,2026-10-19
-MIL-342,CON-082,Remediation Validation and Retest,2027-01-25,2932.895,Cancelled,,,2025-04-23,2027-01-31
-MIL-343,CON-083,Scope Walkthrough,2025-09-27,3983.306666666667,Completed,2025-09-25,INV-343,2025-05-31,2025-09-25
-MIL-344,CON-083,Reconnaissance and Intelligence Gathering,2026-01-24,3983.306666666667,Completed,2026-01-15,INV-344,2025-05-31,2026-01-15
-MIL-345,CON-083,Vulnerability Analysis and Exploitation,2026-05-23,3983.306666666667,Completed,2026-06-02,INV-345,2025-05-31,2026-06-02
-MIL-346,CON-083,Post Exploitation and Impact Assessment,2026-09-19,3983.306666666667,Completed,2026-09-16,INV-346,2025-05-31,2026-09-16
-MIL-347,CON-083,Reporting and Remediation Recommendation,2027-01-16,3983.306666666667,Completed,2027-01-14,INV-347,2025-05-31,2027-01-14
-MIL-348,CON-083,Remediation Validation and Retest,2027-05-15,3983.306666666667,On Hold,,,2025-05-31,2027-05-11
-MIL-349,CON-084,Scope Walkthrough,2025-08-28,1529.743333333333,Cancelled,2025-08-23,INV-349,2025-05-15,2025-08-23
-MIL-350,CON-084,Reconnaissance and Intelligence Gathering,2025-12-11,1529.743333333333,Cancelled,2025-12-11,INV-350,2025-05-15,2025-12-11
-MIL-351,CON-084,Vulnerability Analysis and Exploitation,2026-03-26,1529.743333333333,Cancelled,,,2025-05-15,2026-03-28
-MIL-352,CON-084,Post Exploitation and Impact Assessment,2026-07-09,1529.743333333333,Cancelled,,,2025-05-15,2026-07-03
-MIL-353,CON-084,Reporting and Remediation Recommendation,2026-10-22,1529.743333333333,Cancelled,,,2025-05-15,2026-10-24
-MIL-354,CON-084,Remediation Validation and Retest,2027-02-04,1529.743333333333,Cancelled,,,2025-05-15,2027-02-01
-MIL-355,CON-086,Scope Walkthrough,2025-06-11,5513.658333333333,Completed,2025-06-01,INV-355,2025-03-25,2025-06-01
-MIL-356,CON-086,Reconnaissance and Intelligence Gathering,2025-08-28,5513.658333333333,Delayed,,,2025-03-25,2025-09-02
-MIL-357,CON-086,Vulnerability Analysis and Exploitation,2025-11-14,5513.658333333333,Not Started,,,2025-03-25,2025-11-10
-MIL-358,CON-086,Post Exploitation and Impact Assessment,2026-01-31,5513.658333333333,Not Started,,,2025-03-25,2026-02-10
-MIL-359,CON-086,Reporting and Remediation Recommendation,2026-04-19,5513.658333333333,Not Started,,,2025-03-25,2026-04-21
-MIL-360,CON-086,Remediation Validation and Retest,2026-07-06,5513.658333333333,Not Started,,,2025-03-25,2026-06-27
-MIL-361,CON-087,Scope Walkthrough,2025-09-03,8625.606666666667,Completed,2025-08-26,INV-361,2025-06-19,2025-08-26
-MIL-362,CON-087,Reconnaissance and Intelligence Gathering,2025-11-18,8625.606666666667,Completed,2025-11-20,INV-362,2025-06-19,2025-11-20
-MIL-363,CON-087,Vulnerability Analysis and Exploitation,2026-02-02,8625.606666666667,Completed,2026-02-10,INV-363,2025-06-19,2026-02-10
-MIL-364,CON-087,Post Exploitation and Impact Assessment,2026-04-19,8625.606666666667,Completed,2026-04-25,INV-364,2025-06-19,2026-04-25
-MIL-365,CON-087,Reporting and Remediation Recommendation,2026-07-04,8625.606666666667,Completed,2026-06-27,INV-365,2025-06-19,2026-06-27
-MIL-366,CON-087,Remediation Validation and Retest,2026-09-18,8625.606666666667,Delayed,,,2025-06-19,2026-09-22
-MIL-367,CON-088,Scope Walkthrough,2025-10-08,1940.5483333333334,In Progress,,,2025-06-21,2025-10-02
-MIL-368,CON-088,Reconnaissance and Intelligence Gathering,2026-01-25,1940.5483333333334,Not Started,,,2025-06-21,2026-01-31
-MIL-369,CON-088,Vulnerability Analysis and Exploitation,2026-05-14,1940.5483333333334,Not Started,,,2025-06-21,2026-05-09
-MIL-370,CON-088,Post Exploitation and Impact Assessment,2026-08-31,1940.5483333333334,Not Started,,,2025-06-21,2026-08-21
-MIL-371,CON-088,Reporting and Remediation Recommendation,2026-12-18,1940.5483333333334,Not Started,,,2025-06-21,2026-12-08
-MIL-372,CON-088,Remediation Validation and Retest,2027-04-06,1940.5483333333334,Not Started,,,2025-06-21,2027-04-16
-MIL-373,CON-090,Scope Walkthrough,2025-08-28,5331.006666666667,Cancelled,2025-08-23,INV-373,2025-05-09,2025-08-23
-MIL-374,CON-090,Reconnaissance and Intelligence Gathering,2025-12-17,5331.006666666667,Cancelled,,,2025-05-09,2025-12-10
-MIL-375,CON-090,Vulnerability Analysis and Exploitation,2026-04-07,5331.006666666667,Cancelled,,,2025-05-09,2026-04-07
-MIL-376,CON-090,Post Exploitation and Impact Assessment,2026-07-27,5331.006666666667,Cancelled,,,2025-05-09,2026-08-05
-MIL-377,CON-090,Reporting and Remediation Recommendation,2026-11-15,5331.006666666667,Cancelled,,,2025-05-09,2026-11-20
-MIL-378,CON-090,Remediation Validation and Retest,2027-03-06,5331.006666666667,Cancelled,,,2025-05-09,2027-02-26
-MIL-379,CON-091,Scope Walkthrough,2025-07-10,4313.741666666667,Completed,2025-07-11,INV-379,2025-03-26,2025-07-11
-MIL-380,CON-091,Reconnaissance and Intelligence Gathering,2025-10-24,4313.741666666667,Completed,2025-10-15,INV-380,2025-03-26,2025-10-15
-MIL-381,CON-091,Vulnerability Analysis and Exploitation,2026-02-07,4313.741666666667,Completed,2026-02-13,INV-381,2025-03-26,2026-02-13
-MIL-382,CON-091,Post Exploitation and Impact Assessment,2026-05-24,4313.741666666667,Completed,2026-05-29,INV-382,2025-03-26,2026-05-29
-MIL-383,CON-091,Reporting and Remediation Recommendation,2026-09-07,4313.741666666667,Delayed,,,2025-03-26,2026-09-17
-MIL-384,CON-091,Remediation Validation and Retest,2026-12-22,4313.741666666667,Not Started,,,2025-03-26,2026-12-30
-MIL-385,CON-093,Scope Walkthrough,2025-06-11,3046.91,Completed,2025-06-06,INV-385,2025-02-19,2025-06-06
-MIL-386,CON-093,Reconnaissance and Intelligence Gathering,2025-10-01,3046.91,Completed,2025-10-02,INV-386,2025-02-19,2025-10-02
-MIL-387,CON-093,Vulnerability Analysis and Exploitation,2026-01-21,3046.91,Delayed,,,2025-02-19,2026-01-27
-MIL-388,CON-093,Post Exploitation and Impact Assessment,2026-05-13,3046.91,Not Started,,,2025-02-19,2026-05-08
-MIL-389,CON-093,Reporting and Remediation Recommendation,2026-09-02,3046.91,Not Started,,,2025-02-19,2026-09-02
-MIL-390,CON-093,Remediation Validation and Retest,2026-12-23,3046.91,Not Started,,,2025-02-19,2027-01-01
-MIL-391,CON-094,Scope Walkthrough,2025-12-02,5340.221666666667,Completed,2025-11-29,INV-391,2025-08-25,2025-11-29
-MIL-392,CON-094,Reconnaissance and Intelligence Gathering,2026-03-11,5340.221666666667,Completed,2026-03-01,INV-392,2025-08-25,2026-03-01
-MIL-393,CON-094,Vulnerability Analysis and Exploitation,2026-06-18,5340.221666666667,Completed,2026-06-21,INV-393,2025-08-25,2026-06-21
-MIL-394,CON-094,Post Exploitation and Impact Assessment,2026-09-25,5340.221666666667,In Progress,,,2025-08-25,2026-09-22
-MIL-395,CON-094,Reporting and Remediation Recommendation,2027-01-02,5340.221666666667,Not Started,,,2025-08-25,2026-12-29
-MIL-396,CON-094,Remediation Validation and Retest,2027-04-11,5340.221666666667,Not Started,,,2025-08-25,2027-04-01
-MIL-397,CON-095,Scope Walkthrough,2025-05-27,8174.118333333333,Completed,2025-06-03,INV-397,2025-02-24,2025-06-03
-MIL-398,CON-095,Reconnaissance and Intelligence Gathering,2025-08-27,8174.118333333333,Completed,2025-08-30,INV-398,2025-02-24,2025-08-30
-MIL-399,CON-095,Vulnerability Analysis and Exploitation,2025-11-27,8174.118333333333,Completed,2025-11-22,INV-399,2025-02-24,2025-11-22
-MIL-400,CON-095,Post Exploitation and Impact Assessment,2026-02-27,8174.118333333333,Completed,2026-02-27,INV-400,2025-02-24,2026-02-27
-MIL-401,CON-095,Reporting and Remediation Recommendation,2026-05-30,8174.118333333333,Completed,2026-05-29,INV-401,2025-02-24,2026-05-29
-MIL-402,CON-095,Remediation Validation and Retest,2026-08-30,8174.118333333333,Completed,2026-09-09,INV-402,2025-02-24,2026-09-09
-MIL-403,CON-096,Scope Walkthrough,2025-11-15,5518.099999999999,Completed,2025-11-20,INV-403,2025-08-14,2025-11-20
-MIL-404,CON-096,Reconnaissance and Intelligence Gathering,2026-02-16,5518.099999999999,Completed,2026-02-10,INV-404,2025-08-14,2026-02-10
-MIL-405,CON-096,Vulnerability Analysis and Exploitation,2026-05-20,5518.099999999999,Delayed,,,2025-08-14,2026-05-21
-MIL-406,CON-096,Post Exploitation and Impact Assessment,2026-08-21,5518.099999999999,Not Started,,,2025-08-14,2026-08-11
-MIL-407,CON-096,Reporting and Remediation Recommendation,2026-11-22,5518.099999999999,Not Started,,,2025-08-14,2026-11-20
-MIL-408,CON-096,Remediation Validation and Retest,2027-02-23,5518.099999999999,Not Started,,,2025-08-14,2027-03-04
-MIL-409,CON-097,Scope Walkthrough,2025-07-03,2969.3283333333334,Completed,2025-06-27,INV-409,2025-04-02,2025-06-27
-MIL-410,CON-097,Reconnaissance and Intelligence Gathering,2025-10-03,2969.3283333333334,Completed,2025-09-27,INV-410,2025-04-02,2025-09-27
-MIL-411,CON-097,Vulnerability Analysis and Exploitation,2026-01-03,2969.3283333333334,Completed,2025-12-29,INV-411,2025-04-02,2025-12-29
-MIL-412,CON-097,Post Exploitation and Impact Assessment,2026-04-05,2969.3283333333334,Completed,2026-04-13,INV-412,2025-04-02,2026-04-13
-MIL-413,CON-097,Reporting and Remediation Recommendation,2026-07-06,2969.3283333333334,Completed,2026-07-15,INV-413,2025-04-02,2026-07-15
-MIL-414,CON-097,Remediation Validation and Retest,2026-10-06,2969.3283333333334,Completed,2026-09-26,INV-414,2025-04-02,2026-09-26
-MIL-415,CON-100,Scope Walkthrough,2025-10-14,4745.158333333334,Completed,2025-10-11,INV-415,2025-07-10,2025-10-11
-MIL-416,CON-100,Reconnaissance and Intelligence Gathering,2026-01-18,4745.158333333334,Completed,2026-01-15,INV-416,2025-07-10,2026-01-15
-MIL-417,CON-100,Vulnerability Analysis and Exploitation,2026-04-24,4745.158333333334,Completed,2026-04-24,INV-417,2025-07-10,2026-04-24
-MIL-418,CON-100,Post Exploitation and Impact Assessment,2026-07-29,4745.158333333334,Completed,2026-07-25,INV-418,2025-07-10,2026-07-25
-MIL-419,CON-100,Reporting and Remediation Recommendation,2026-11-02,4745.158333333334,Completed,2026-10-26,INV-419,2025-07-10,2026-10-26
-MIL-420,CON-100,Remediation Validation and Retest,2027-02-06,4745.158333333334,Completed,2027-02-14,INV-420,2025-07-10,2027-02-14
-MIL-421,CON-101,Scope Walkthrough,2025-10-02,2040.1116666666667,Completed,2025-10-08,INV-421,2025-06-19,2025-10-08
-MIL-422,CON-101,Reconnaissance and Intelligence Gathering,2026-01-15,2040.1116666666667,Completed,2026-01-18,INV-422,2025-06-19,2026-01-18
-MIL-423,CON-101,Vulnerability Analysis and Exploitation,2026-04-30,2040.1116666666667,Completed,2026-05-10,INV-423,2025-06-19,2026-05-10
-MIL-424,CON-101,Post Exploitation and Impact Assessment,2026-08-13,2040.1116666666667,Completed,2026-08-10,INV-424,2025-06-19,2026-08-10
-MIL-425,CON-101,Reporting and Remediation Recommendation,2026-11-26,2040.1116666666667,Completed,2026-11-30,INV-425,2025-06-19,2026-11-30
-MIL-426,CON-101,Remediation Validation and Retest,2027-03-11,2040.1116666666667,Completed,2027-03-04,INV-426,2025-06-19,2027-03-04
-MIL-427,CON-102,Scope Walkthrough,2025-07-03,5435.88,Completed,2025-07-02,INV-427,2025-03-12,2025-07-02
-MIL-428,CON-102,Reconnaissance and Intelligence Gathering,2025-10-24,5435.88,Completed,2025-10-30,INV-428,2025-03-12,2025-10-30
-MIL-429,CON-102,Vulnerability Analysis and Exploitation,2026-02-14,5435.88,Completed,2026-02-15,INV-429,2025-03-12,2026-02-15
-MIL-430,CON-102,Post Exploitation and Impact Assessment,2026-06-07,5435.88,Completed,2026-06-14,INV-430,2025-03-12,2026-06-14
-MIL-431,CON-102,Reporting and Remediation Recommendation,2026-09-28,5435.88,Completed,2026-10-07,INV-431,2025-03-12,2026-10-07
-MIL-432,CON-102,Remediation Validation and Retest,2027-01-19,5435.88,Delayed,,,2025-03-12,2027-01-27
-MIL-433,CON-103,Scope Walkthrough,2025-06-03,2093.995,Completed,2025-06-06,INV-433,2025-03-29,2025-06-06
-MIL-434,CON-103,Reconnaissance and Intelligence Gathering,2025-08-08,2093.995,Completed,2025-08-11,INV-434,2025-03-29,2025-08-11
-MIL-435,CON-103,Vulnerability Analysis and Exploitation,2025-10-13,2093.995,In Progress,,,2025-03-29,2025-10-03
-MIL-436,CON-103,Post Exploitation and Impact Assessment,2025-12-18,2093.995,Not Started,,,2025-03-29,2025-12-08
-MIL-437,CON-103,Reporting and Remediation Recommendation,2026-02-22,2093.995,Not Started,,,2025-03-29,2026-02-23
-MIL-438,CON-103,Remediation Validation and Retest,2026-04-29,2093.995,Not Started,,,2025-03-29,2026-04-29
-MIL-439,CON-104,Scope Walkthrough,2025-08-17,6717.695,Completed,2025-08-23,INV-439,2025-05-13,2025-08-23
-MIL-440,CON-104,Reconnaissance and Intelligence Gathering,2025-11-21,6717.695,Completed,2025-11-24,INV-440,2025-05-13,2025-11-24
-MIL-441,CON-104,Vulnerability Analysis and Exploitation,2026-02-25,6717.695,Completed,2026-03-02,INV-441,2025-05-13,2026-03-02
-MIL-442,CON-104,Post Exploitation and Impact Assessment,2026-06-01,6717.695,Completed,2026-05-24,INV-442,2025-05-13,2026-05-24
-MIL-443,CON-104,Reporting and Remediation Recommendation,2026-09-05,6717.695,Completed,2026-09-03,INV-443,2025-05-13,2026-09-03
-MIL-444,CON-104,Remediation Validation and Retest,2026-12-10,6717.695,Completed,2026-12-10,INV-444,2025-05-13,2026-12-10
-MIL-445,CON-105,Scope Walkthrough,2025-07-02,1299.605,Cancelled,2025-07-12,INV-445,2025-03-26,2025-07-12
-MIL-446,CON-105,Reconnaissance and Intelligence Gathering,2025-10-08,1299.605,Cancelled,2025-10-15,INV-446,2025-03-26,2025-10-15
-MIL-447,CON-105,Vulnerability Analysis and Exploitation,2026-01-14,1299.605,Cancelled,2026-01-13,INV-447,2025-03-26,2026-01-13
-MIL-448,CON-105,Post Exploitation and Impact Assessment,2026-04-22,1299.605,Cancelled,,,2025-03-26,2026-04-29
-MIL-449,CON-105,Reporting and Remediation Recommendation,2026-07-29,1299.605,Cancelled,,,2025-03-26,2026-07-20
-MIL-450,CON-105,Remediation Validation and Retest,2026-11-04,1299.605,Cancelled,,,2025-03-26,2026-11-13
-MIL-451,CON-106,Scope Walkthrough,2025-09-21,4625.900000000001,Delayed,,,2025-06-19,2025-09-24
-MIL-452,CON-106,Reconnaissance and Intelligence Gathering,2025-12-24,4625.900000000001,Not Started,,,2025-06-19,2025-12-31
-MIL-453,CON-106,Vulnerability Analysis and Exploitation,2026-03-28,4625.900000000001,Not Started,,,2025-06-19,2026-04-06
-MIL-454,CON-106,Post Exploitation and Impact Assessment,2026-06-30,4625.900000000001,Not Started,,,2025-06-19,2026-06-30
-MIL-455,CON-106,Reporting and Remediation Recommendation,2026-10-02,4625.900000000001,Not Started,,,2025-06-19,2026-10-01
-MIL-456,CON-106,Remediation Validation and Retest,2027-01-04,4625.900000000001,Not Started,,,2025-06-19,2026-12-27
-MIL-457,CON-107,Scope Walkthrough,2025-04-07,5612.849999999999,Cancelled,2025-04-09,INV-457,2025-02-03,2025-04-09
-MIL-458,CON-107,Reconnaissance and Intelligence Gathering,2025-06-09,5612.849999999999,Cancelled,2025-06-08,INV-458,2025-02-03,2025-06-08
-MIL-459,CON-107,Vulnerability Analysis and Exploitation,2025-08-11,5612.849999999999,Cancelled,2025-08-02,INV-459,2025-02-03,2025-08-02
-MIL-460,CON-107,Post Exploitation and Impact Assessment,2025-10-13,5612.849999999999,Cancelled,2025-10-16,INV-460,2025-02-03,2025-10-16
-MIL-461,CON-107,Reporting and Remediation Recommendation,2025-12-15,5612.849999999999,Cancelled,,,2025-02-03,2025-12-07
-MIL-462,CON-107,Remediation Validation and Retest,2026-02-16,5612.849999999999,Cancelled,,,2025-02-03,2026-02-16
-MIL-463,CON-108,Scope Walkthrough,2025-08-26,6313.2266666666665,Completed,2025-08-16,INV-463,2025-06-07,2025-08-16
-MIL-464,CON-108,Reconnaissance and Intelligence Gathering,2025-11-14,6313.2266666666665,Completed,2025-11-17,INV-464,2025-06-07,2025-11-17
-MIL-465,CON-108,Vulnerability Analysis and Exploitation,2026-02-02,6313.2266666666665,Delayed,,,2025-06-07,2026-02-09
-MIL-466,CON-108,Post Exploitation and Impact Assessment,2026-04-23,6313.2266666666665,Not Started,,,2025-06-07,2026-04-13
-MIL-467,CON-108,Reporting and Remediation Recommendation,2026-07-12,6313.2266666666665,Not Started,,,2025-06-07,2026-07-10
-MIL-468,CON-108,Remediation Validation and Retest,2026-09-30,6313.2266666666665,Not Started,,,2025-06-07,2026-09-25
-MIL-469,CON-110,Scope Walkthrough,2025-06-26,5651.415,Completed,2025-06-29,INV-469,2025-04-07,2025-06-29
-MIL-470,CON-110,Reconnaissance and Intelligence Gathering,2025-09-14,5651.415,In Progress,,,2025-04-07,2025-09-12
-MIL-471,CON-110,Vulnerability Analysis and Exploitation,2025-12-03,5651.415,Not Started,,,2025-04-07,2025-12-13
-MIL-472,CON-110,Post Exploitation and Impact Assessment,2026-02-21,5651.415,Not Started,,,2025-04-07,2026-02-13
-MIL-473,CON-110,Reporting and Remediation Recommendation,2026-05-12,5651.415,Not Started,,,2025-04-07,2026-05-13
-MIL-474,CON-110,Remediation Validation and Retest,2026-07-31,5651.415,Not Started,,,2025-04-07,2026-08-06
+MIL-001,CON-002,Scope Walkthrough,2025-02-08,7189.366666666666,In Progress,,,2025-02-06,2025-02-07
+MIL-002,CON-002,Reconnaissance and Intelligence Gathering,2025-02-10,7189.366666666666,Not Started,,,2025-02-06,2025-02-08
+MIL-003,CON-002,Vulnerability Analysis and Exploitation,2025-02-12,7189.366666666666,Not Started,,,2025-02-06,2025-02-11
+MIL-004,CON-002,Post Exploitation and Impact Assessment,2025-02-14,7189.366666666666,Not Started,,,2025-02-06,2025-02-12
+MIL-005,CON-002,Reporting and Remediation Recommendation,2025-02-16,7189.366666666666,Not Started,,,2025-02-06,2025-02-14
+MIL-006,CON-002,Remediation Validation and Retest,2025-02-18,7189.366666666666,Not Started,,,2025-02-06,2025-02-16
+MIL-007,CON-003,Scope Walkthrough,2025-06-10,7028.408333333333,Completed,2025-06-08,INV-007,2025-06-07,2025-06-08
+MIL-008,CON-003,Reconnaissance and Intelligence Gathering,2025-06-13,7028.408333333333,Completed,2025-06-15,INV-008,2025-06-07,2025-06-15
+MIL-009,CON-003,Vulnerability Analysis and Exploitation,2025-06-16,7028.408333333333,Completed,2025-06-15,INV-009,2025-06-07,2025-06-15
+MIL-010,CON-003,Post Exploitation and Impact Assessment,2025-06-19,7028.408333333333,On Hold,,,2025-06-07,2025-06-19
+MIL-011,CON-003,Reporting and Remediation Recommendation,2025-06-22,7028.408333333333,Not Started,,,2025-06-07,2025-06-23
+MIL-012,CON-003,Remediation Validation and Retest,2025-06-25,7028.408333333333,Not Started,,,2025-06-07,2025-06-27
+MIL-013,CON-004,Scope Walkthrough,2025-02-22,1870.3566666666666,Completed,2025-02-21,INV-013,2025-02-19,2025-02-21
+MIL-014,CON-004,Reconnaissance and Intelligence Gathering,2025-02-25,1870.3566666666666,Completed,2025-02-25,INV-014,2025-02-19,2025-02-25
+MIL-015,CON-004,Vulnerability Analysis and Exploitation,2025-02-28,1870.3566666666666,Completed,2025-03-02,INV-015,2025-02-19,2025-03-02
+MIL-016,CON-004,Post Exploitation and Impact Assessment,2025-03-03,1870.3566666666666,Completed,2025-03-05,INV-016,2025-02-19,2025-03-05
+MIL-017,CON-004,Reporting and Remediation Recommendation,2025-03-06,1870.3566666666666,Delayed,,,2025-02-19,2025-03-08
+MIL-018,CON-004,Remediation Validation and Retest,2025-03-09,1870.3566666666666,Not Started,,,2025-02-19,2025-03-07
+MIL-019,CON-005,Scope Walkthrough,2025-08-20,6643.711666666666,Completed,2025-08-21,INV-019,2025-08-18,2025-08-21
+MIL-020,CON-005,Reconnaissance and Intelligence Gathering,2025-08-22,6643.711666666666,Completed,2025-08-21,INV-020,2025-08-18,2025-08-21
+MIL-021,CON-005,Vulnerability Analysis and Exploitation,2025-08-24,6643.711666666666,Completed,2025-08-24,INV-021,2025-08-18,2025-08-24
+MIL-022,CON-005,Post Exploitation and Impact Assessment,2025-08-26,6643.711666666666,Completed,2025-08-27,INV-022,2025-08-18,2025-08-27
+MIL-023,CON-005,Reporting and Remediation Recommendation,2025-08-28,6643.711666666666,Completed,2025-08-27,INV-023,2025-08-18,2025-08-27
+MIL-024,CON-005,Remediation Validation and Retest,2025-08-30,6643.711666666666,Completed,2025-08-29,INV-024,2025-08-18,2025-08-29
+MIL-025,CON-007,Scope Walkthrough,2025-02-18,4671.3116666666665,Completed,2025-02-19,INV-025,2025-02-15,2025-02-19
+MIL-026,CON-007,Reconnaissance and Intelligence Gathering,2025-02-21,4671.3116666666665,Completed,2025-02-23,INV-026,2025-02-15,2025-02-23
+MIL-027,CON-007,Vulnerability Analysis and Exploitation,2025-02-24,4671.3116666666665,Completed,2025-02-25,INV-027,2025-02-15,2025-02-25
+MIL-028,CON-007,Post Exploitation and Impact Assessment,2025-02-27,4671.3116666666665,In Progress,,,2025-02-15,2025-02-27
+MIL-029,CON-007,Reporting and Remediation Recommendation,2025-03-02,4671.3116666666665,Not Started,,,2025-02-15,2025-03-02
+MIL-030,CON-007,Remediation Validation and Retest,2025-03-05,4671.3116666666665,Not Started,,,2025-02-15,2025-03-03
+MIL-031,CON-008,Scope Walkthrough,2025-03-20,6085.423333333333,Cancelled,2025-03-20,INV-031,2025-03-17,2025-03-20
+MIL-032,CON-008,Reconnaissance and Intelligence Gathering,2025-03-23,6085.423333333333,Cancelled,2025-03-25,INV-032,2025-03-17,2025-03-25
+MIL-033,CON-008,Vulnerability Analysis and Exploitation,2025-03-26,6085.423333333333,Cancelled,,,2025-03-17,2025-03-24
+MIL-034,CON-008,Post Exploitation and Impact Assessment,2025-03-29,6085.423333333333,Cancelled,,,2025-03-17,2025-03-31
+MIL-035,CON-008,Reporting and Remediation Recommendation,2025-04-01,6085.423333333333,Cancelled,,,2025-03-17,2025-03-30
+MIL-036,CON-008,Remediation Validation and Retest,2025-04-04,6085.423333333333,Cancelled,,,2025-03-17,2025-04-04
+MIL-037,CON-011,Scope Walkthrough,2025-02-25,8181.503333333333,Cancelled,,,2025-02-23,2025-02-26
+MIL-038,CON-011,Reconnaissance and Intelligence Gathering,2025-02-27,8181.503333333333,Cancelled,,,2025-02-23,2025-02-26
+MIL-039,CON-011,Vulnerability Analysis and Exploitation,2025-03-01,8181.503333333333,Cancelled,,,2025-02-23,2025-02-27
+MIL-040,CON-011,Post Exploitation and Impact Assessment,2025-03-03,8181.503333333333,Cancelled,,,2025-02-23,2025-03-04
+MIL-041,CON-011,Reporting and Remediation Recommendation,2025-03-05,8181.503333333333,Cancelled,,,2025-02-23,2025-03-04
+MIL-042,CON-011,Remediation Validation and Retest,2025-03-07,8181.503333333333,Cancelled,,,2025-02-23,2025-03-09
+MIL-043,CON-012,Scope Walkthrough,2025-07-18,5771.32,Delayed,,,2025-07-16,2025-07-20
+MIL-044,CON-012,Reconnaissance and Intelligence Gathering,2025-07-20,5771.32,Not Started,,,2025-07-16,2025-07-20
+MIL-045,CON-012,Vulnerability Analysis and Exploitation,2025-07-22,5771.32,Not Started,,,2025-07-16,2025-07-24
+MIL-046,CON-012,Post Exploitation and Impact Assessment,2025-07-24,5771.32,Not Started,,,2025-07-16,2025-07-26
+MIL-047,CON-012,Reporting and Remediation Recommendation,2025-07-26,5771.32,Not Started,,,2025-07-16,2025-07-25
+MIL-048,CON-012,Remediation Validation and Retest,2025-07-28,5771.32,Not Started,,,2025-07-16,2025-07-30
+MIL-049,CON-013,Scope Walkthrough,2025-03-30,6490.591666666667,Completed,2025-04-01,INV-049,2025-03-28,2025-04-01
+MIL-050,CON-013,Reconnaissance and Intelligence Gathering,2025-04-01,6490.591666666667,Completed,2025-03-30,INV-050,2025-03-28,2025-03-30
+MIL-051,CON-013,Vulnerability Analysis and Exploitation,2025-04-03,6490.591666666667,Completed,2025-04-05,INV-051,2025-03-28,2025-04-05
+MIL-052,CON-013,Post Exploitation and Impact Assessment,2025-04-05,6490.591666666667,Delayed,,,2025-03-28,2025-04-06
+MIL-053,CON-013,Reporting and Remediation Recommendation,2025-04-07,6490.591666666667,Not Started,,,2025-03-28,2025-04-07
+MIL-054,CON-013,Remediation Validation and Retest,2025-04-09,6490.591666666667,Not Started,,,2025-03-28,2025-04-09
+MIL-055,CON-015,Scope Walkthrough,2025-04-04,2326.1133333333332,Cancelled,2025-04-02,INV-055,2025-04-02,2025-04-02
+MIL-056,CON-015,Reconnaissance and Intelligence Gathering,2025-04-06,2326.1133333333332,Cancelled,2025-04-07,INV-056,2025-04-02,2025-04-07
+MIL-057,CON-015,Vulnerability Analysis and Exploitation,2025-04-08,2326.1133333333332,Cancelled,2025-04-08,INV-057,2025-04-02,2025-04-08
+MIL-058,CON-015,Post Exploitation and Impact Assessment,2025-04-10,2326.1133333333332,Cancelled,2025-04-08,INV-058,2025-04-02,2025-04-08
+MIL-059,CON-015,Reporting and Remediation Recommendation,2025-04-12,2326.1133333333332,Cancelled,2025-04-11,INV-059,2025-04-02,2025-04-11
+MIL-060,CON-015,Remediation Validation and Retest,2025-04-14,2326.1133333333332,Cancelled,,,2025-04-02,2025-04-16
+MIL-061,CON-016,Scope Walkthrough,2025-04-06,4658.618333333333,Completed,2025-04-05,INV-061,2025-04-03,2025-04-05
+MIL-062,CON-016,Reconnaissance and Intelligence Gathering,2025-04-09,4658.618333333333,Completed,2025-04-08,INV-062,2025-04-03,2025-04-08
+MIL-063,CON-016,Vulnerability Analysis and Exploitation,2025-04-12,4658.618333333333,Delayed,,,2025-04-03,2025-04-13
+MIL-064,CON-016,Post Exploitation and Impact Assessment,2025-04-15,4658.618333333333,Not Started,,,2025-04-03,2025-04-16
+MIL-065,CON-016,Reporting and Remediation Recommendation,2025-04-18,4658.618333333333,Not Started,,,2025-04-03,2025-04-17
+MIL-066,CON-016,Remediation Validation and Retest,2025-04-21,4658.618333333333,Not Started,,,2025-04-03,2025-04-19
+MIL-067,CON-020,Scope Walkthrough,2025-05-25,1973.5116666666665,Completed,2025-05-24,INV-067,2025-05-23,2025-05-24
+MIL-068,CON-020,Reconnaissance and Intelligence Gathering,2025-05-27,1973.5116666666665,Completed,2025-05-27,INV-068,2025-05-23,2025-05-27
+MIL-069,CON-020,Vulnerability Analysis and Exploitation,2025-05-29,1973.5116666666665,Completed,2025-05-30,INV-069,2025-05-23,2025-05-30
+MIL-070,CON-020,Post Exploitation and Impact Assessment,2025-05-31,1973.5116666666665,Completed,2025-06-01,INV-070,2025-05-23,2025-06-01
+MIL-071,CON-020,Reporting and Remediation Recommendation,2025-06-02,1973.5116666666665,Completed,2025-06-01,INV-071,2025-05-23,2025-06-01
+MIL-072,CON-020,Remediation Validation and Retest,2025-06-04,1973.5116666666665,Completed,2025-06-03,INV-072,2025-05-23,2025-06-03
+MIL-073,CON-021,Scope Walkthrough,2025-02-08,7393.173333333333,Completed,2025-02-08,INV-073,2025-02-06,2025-02-08
+MIL-074,CON-021,Reconnaissance and Intelligence Gathering,2025-02-10,7393.173333333333,Completed,2025-02-10,INV-074,2025-02-06,2025-02-10
+MIL-075,CON-021,Vulnerability Analysis and Exploitation,2025-02-12,7393.173333333333,Delayed,,,2025-02-06,2025-02-13
+MIL-076,CON-021,Post Exploitation and Impact Assessment,2025-02-14,7393.173333333333,Not Started,,,2025-02-06,2025-02-12
+MIL-077,CON-021,Reporting and Remediation Recommendation,2025-02-16,7393.173333333333,Not Started,,,2025-02-06,2025-02-17
+MIL-078,CON-021,Remediation Validation and Retest,2025-02-18,7393.173333333333,Not Started,,,2025-02-06,2025-02-17
+MIL-079,CON-022,Scope Walkthrough,2025-05-29,2999.043333333333,Completed,2025-05-28,INV-079,2025-05-26,2025-05-28
+MIL-080,CON-022,Reconnaissance and Intelligence Gathering,2025-06-01,2999.043333333333,Completed,2025-06-01,INV-080,2025-05-26,2025-06-01
+MIL-081,CON-022,Vulnerability Analysis and Exploitation,2025-06-04,2999.043333333333,Completed,2025-06-02,INV-081,2025-05-26,2025-06-02
+MIL-082,CON-022,Post Exploitation and Impact Assessment,2025-06-07,2999.043333333333,Completed,2025-06-05,INV-082,2025-05-26,2025-06-05
+MIL-083,CON-022,Reporting and Remediation Recommendation,2025-06-10,2999.043333333333,Completed,2025-06-10,INV-083,2025-05-26,2025-06-10
+MIL-084,CON-022,Remediation Validation and Retest,2025-06-13,2999.043333333333,Completed,2025-06-15,INV-084,2025-05-26,2025-06-15
+MIL-085,CON-023,Scope Walkthrough,2025-05-02,3565.8133333333335,Delayed,,,2025-04-29,2025-05-04
+MIL-086,CON-023,Reconnaissance and Intelligence Gathering,2025-05-05,3565.8133333333335,Not Started,,,2025-04-29,2025-05-03
+MIL-087,CON-023,Vulnerability Analysis and Exploitation,2025-05-08,3565.8133333333335,Not Started,,,2025-04-29,2025-05-09
+MIL-088,CON-023,Post Exploitation and Impact Assessment,2025-05-11,3565.8133333333335,Not Started,,,2025-04-29,2025-05-09
+MIL-089,CON-023,Reporting and Remediation Recommendation,2025-05-14,3565.8133333333335,Not Started,,,2025-04-29,2025-05-16
+MIL-090,CON-023,Remediation Validation and Retest,2025-05-17,3565.8133333333335,Not Started,,,2025-04-29,2025-05-16
+MIL-091,CON-026,Scope Walkthrough,2025-01-15,8872.061666666666,Cancelled,2025-01-14,INV-091,2025-01-13,2025-01-14
+MIL-092,CON-026,Reconnaissance and Intelligence Gathering,2025-01-17,8872.061666666666,Cancelled,,,2025-01-13,2025-01-15
+MIL-093,CON-026,Vulnerability Analysis and Exploitation,2025-01-19,8872.061666666666,Cancelled,,,2025-01-13,2025-01-20
+MIL-094,CON-026,Post Exploitation and Impact Assessment,2025-01-21,8872.061666666666,Cancelled,,,2025-01-13,2025-01-21
+MIL-095,CON-026,Reporting and Remediation Recommendation,2025-01-23,8872.061666666666,Cancelled,,,2025-01-13,2025-01-25
+MIL-096,CON-026,Remediation Validation and Retest,2025-01-25,8872.061666666666,Cancelled,,,2025-01-13,2025-01-25
+MIL-097,CON-027,Scope Walkthrough,2025-02-26,6584.155,Cancelled,2025-02-26,INV-097,2025-02-23,2025-02-26
+MIL-098,CON-027,Reconnaissance and Intelligence Gathering,2025-03-01,6584.155,Cancelled,2025-02-28,INV-098,2025-02-23,2025-02-28
+MIL-099,CON-027,Vulnerability Analysis and Exploitation,2025-03-04,6584.155,Cancelled,,,2025-02-23,2025-03-05
+MIL-100,CON-027,Post Exploitation and Impact Assessment,2025-03-07,6584.155,Cancelled,,,2025-02-23,2025-03-07
+MIL-101,CON-027,Reporting and Remediation Recommendation,2025-03-10,6584.155,Cancelled,,,2025-02-23,2025-03-10
+MIL-102,CON-027,Remediation Validation and Retest,2025-03-13,6584.155,Cancelled,,,2025-02-23,2025-03-14
+MIL-103,CON-028,Scope Walkthrough,2025-04-11,7614.453333333334,Completed,2025-04-09,INV-103,2025-04-09,2025-04-09
+MIL-104,CON-028,Reconnaissance and Intelligence Gathering,2025-04-13,7614.453333333334,Delayed,,,2025-04-09,2025-04-15
+MIL-105,CON-028,Vulnerability Analysis and Exploitation,2025-04-15,7614.453333333334,Not Started,,,2025-04-09,2025-04-15
+MIL-106,CON-028,Post Exploitation and Impact Assessment,2025-04-17,7614.453333333334,Not Started,,,2025-04-09,2025-04-19
+MIL-107,CON-028,Reporting and Remediation Recommendation,2025-04-19,7614.453333333334,Not Started,,,2025-04-09,2025-04-17
+MIL-108,CON-028,Remediation Validation and Retest,2025-04-21,7614.453333333334,Not Started,,,2025-04-09,2025-04-21
+MIL-109,CON-030,Scope Walkthrough,2025-04-29,4400.718333333333,Completed,2025-04-27,INV-109,2025-04-26,2025-04-27
+MIL-110,CON-030,Reconnaissance and Intelligence Gathering,2025-05-02,4400.718333333333,Completed,2025-05-03,INV-110,2025-04-26,2025-05-03
+MIL-111,CON-030,Vulnerability Analysis and Exploitation,2025-05-05,4400.718333333333,Completed,2025-05-06,INV-111,2025-04-26,2025-05-06
+MIL-112,CON-030,Post Exploitation and Impact Assessment,2025-05-08,4400.718333333333,Completed,2025-05-07,INV-112,2025-04-26,2025-05-07
+MIL-113,CON-030,Reporting and Remediation Recommendation,2025-05-11,4400.718333333333,Completed,2025-05-11,INV-113,2025-04-26,2025-05-11
+MIL-114,CON-030,Remediation Validation and Retest,2025-05-14,4400.718333333333,Delayed,,,2025-04-26,2025-05-15
+MIL-115,CON-032,Scope Walkthrough,2025-08-09,5587.565,Completed,2025-08-09,INV-115,2025-08-07,2025-08-09
+MIL-116,CON-032,Reconnaissance and Intelligence Gathering,2025-08-11,5587.565,Completed,2025-08-09,INV-116,2025-08-07,2025-08-09
+MIL-117,CON-032,Vulnerability Analysis and Exploitation,2025-08-13,5587.565,Completed,2025-08-12,INV-117,2025-08-07,2025-08-12
+MIL-118,CON-032,Post Exploitation and Impact Assessment,2025-08-15,5587.565,Completed,2025-08-13,INV-118,2025-08-07,2025-08-13
+MIL-119,CON-032,Reporting and Remediation Recommendation,2025-08-17,5587.565,Completed,2025-08-15,INV-119,2025-08-07,2025-08-15
+MIL-120,CON-032,Remediation Validation and Retest,2025-08-19,5587.565,Completed,2025-08-19,INV-120,2025-08-07,2025-08-19
+MIL-121,CON-033,Scope Walkthrough,2025-07-20,1562.5566666666666,Completed,2025-07-22,INV-121,2025-07-17,2025-07-22
+MIL-122,CON-033,Reconnaissance and Intelligence Gathering,2025-07-23,1562.5566666666666,Completed,2025-07-24,INV-122,2025-07-17,2025-07-24
+MIL-123,CON-033,Vulnerability Analysis and Exploitation,2025-07-26,1562.5566666666666,Completed,2025-07-26,INV-123,2025-07-17,2025-07-26
+MIL-124,CON-033,Post Exploitation and Impact Assessment,2025-07-29,1562.5566666666666,Completed,2025-07-27,INV-124,2025-07-17,2025-07-27
+MIL-125,CON-033,Reporting and Remediation Recommendation,2025-08-01,1562.5566666666666,Completed,2025-08-01,INV-125,2025-07-17,2025-08-01
+MIL-126,CON-033,Remediation Validation and Retest,2025-08-04,1562.5566666666666,Delayed,,,2025-07-17,2025-08-06
+MIL-127,CON-034,Scope Walkthrough,2025-08-28,4641.571666666667,Completed,2025-08-28,INV-127,2025-08-25,2025-08-28
+MIL-128,CON-034,Reconnaissance and Intelligence Gathering,2025-08-31,4641.571666666667,Completed,2025-08-31,INV-128,2025-08-25,2025-08-31
+MIL-129,CON-034,Vulnerability Analysis and Exploitation,2025-09-03,4641.571666666667,Completed,2025-09-02,INV-129,2025-08-25,2025-09-02
+MIL-130,CON-034,Post Exploitation and Impact Assessment,2025-09-06,4641.571666666667,Completed,2025-09-05,INV-130,2025-08-25,2025-09-05
+MIL-131,CON-034,Reporting and Remediation Recommendation,2025-09-09,4641.571666666667,Completed,2025-09-10,INV-131,2025-08-25,2025-09-10
+MIL-132,CON-034,Remediation Validation and Retest,2025-09-12,4641.571666666667,Completed,2025-09-14,INV-132,2025-08-25,2025-09-14
+MIL-133,CON-035,Scope Walkthrough,2025-05-23,4846.3550000000005,Completed,2025-05-25,INV-133,2025-05-21,2025-05-25
+MIL-134,CON-035,Reconnaissance and Intelligence Gathering,2025-05-25,4846.3550000000005,Completed,2025-05-27,INV-134,2025-05-21,2025-05-27
+MIL-135,CON-035,Vulnerability Analysis and Exploitation,2025-05-27,4846.3550000000005,Completed,2025-05-25,INV-135,2025-05-21,2025-05-25
+MIL-136,CON-035,Post Exploitation and Impact Assessment,2025-05-29,4846.3550000000005,Completed,2025-05-30,INV-136,2025-05-21,2025-05-30
+MIL-137,CON-035,Reporting and Remediation Recommendation,2025-05-31,4846.3550000000005,Completed,2025-05-30,INV-137,2025-05-21,2025-05-30
+MIL-138,CON-035,Remediation Validation and Retest,2025-06-02,4846.3550000000005,Completed,2025-06-04,INV-138,2025-05-21,2025-06-04
+MIL-139,CON-036,Scope Walkthrough,2025-05-06,1499.8933333333334,Completed,2025-05-05,INV-139,2025-05-04,2025-05-05
+MIL-140,CON-036,Reconnaissance and Intelligence Gathering,2025-05-08,1499.8933333333334,Completed,2025-05-06,INV-140,2025-05-04,2025-05-06
+MIL-141,CON-036,Vulnerability Analysis and Exploitation,2025-05-10,1499.8933333333334,Completed,2025-05-12,INV-141,2025-05-04,2025-05-12
+MIL-142,CON-036,Post Exploitation and Impact Assessment,2025-05-12,1499.8933333333334,Completed,2025-05-14,INV-142,2025-05-04,2025-05-14
+MIL-143,CON-036,Reporting and Remediation Recommendation,2025-05-14,1499.8933333333334,Delayed,,,2025-05-04,2025-05-15
+MIL-144,CON-036,Remediation Validation and Retest,2025-05-16,1499.8933333333334,Not Started,,,2025-05-04,2025-05-18
+MIL-145,CON-040,Scope Walkthrough,2025-04-17,7911.141666666666,Completed,2025-04-19,INV-145,2025-04-14,2025-04-19
+MIL-146,CON-040,Reconnaissance and Intelligence Gathering,2025-04-20,7911.141666666666,Completed,2025-04-18,INV-146,2025-04-14,2025-04-18
+MIL-147,CON-040,Vulnerability Analysis and Exploitation,2025-04-23,7911.141666666666,Completed,2025-04-24,INV-147,2025-04-14,2025-04-24
+MIL-148,CON-040,Post Exploitation and Impact Assessment,2025-04-26,7911.141666666666,Completed,2025-04-26,INV-148,2025-04-14,2025-04-26
+MIL-149,CON-040,Reporting and Remediation Recommendation,2025-04-29,7911.141666666666,Completed,2025-04-28,INV-149,2025-04-14,2025-04-28
+MIL-150,CON-040,Remediation Validation and Retest,2025-05-02,7911.141666666666,Completed,2025-05-02,INV-150,2025-04-14,2025-05-02
+MIL-151,CON-042,Scope Walkthrough,2025-05-31,6632.573333333334,Completed,2025-05-31,INV-151,2025-05-29,2025-05-31
+MIL-152,CON-042,Reconnaissance and Intelligence Gathering,2025-06-02,6632.573333333334,Completed,2025-05-31,INV-152,2025-05-29,2025-05-31
+MIL-153,CON-042,Vulnerability Analysis and Exploitation,2025-06-04,6632.573333333334,In Progress,,,2025-05-29,2025-06-04
+MIL-154,CON-042,Post Exploitation and Impact Assessment,2025-06-06,6632.573333333334,Not Started,,,2025-05-29,2025-06-05
+MIL-155,CON-042,Reporting and Remediation Recommendation,2025-06-08,6632.573333333334,Not Started,,,2025-05-29,2025-06-09
+MIL-156,CON-042,Remediation Validation and Retest,2025-06-10,6632.573333333334,Not Started,,,2025-05-29,2025-06-09
+MIL-157,CON-043,Scope Walkthrough,2025-07-15,2871.3583333333336,Completed,2025-07-14,INV-157,2025-07-12,2025-07-14
+MIL-158,CON-043,Reconnaissance and Intelligence Gathering,2025-07-18,2871.3583333333336,Completed,2025-07-17,INV-158,2025-07-12,2025-07-17
+MIL-159,CON-043,Vulnerability Analysis and Exploitation,2025-07-21,2871.3583333333336,In Progress,,,2025-07-12,2025-07-19
+MIL-160,CON-043,Post Exploitation and Impact Assessment,2025-07-24,2871.3583333333336,Not Started,,,2025-07-12,2025-07-25
+MIL-161,CON-043,Reporting and Remediation Recommendation,2025-07-27,2871.3583333333336,Not Started,,,2025-07-12,2025-07-25
+MIL-162,CON-043,Remediation Validation and Retest,2025-07-30,2871.3583333333336,Not Started,,,2025-07-12,2025-07-30
+MIL-163,CON-044,Scope Walkthrough,2025-06-25,2938.153333333333,Completed,2025-06-24,INV-163,2025-06-22,2025-06-24
+MIL-164,CON-044,Reconnaissance and Intelligence Gathering,2025-06-28,2938.153333333333,Completed,2025-06-26,INV-164,2025-06-22,2025-06-26
+MIL-165,CON-044,Vulnerability Analysis and Exploitation,2025-07-01,2938.153333333333,Completed,2025-07-02,INV-165,2025-06-22,2025-07-02
+MIL-166,CON-044,Post Exploitation and Impact Assessment,2025-07-04,2938.153333333333,Completed,2025-07-05,INV-166,2025-06-22,2025-07-05
+MIL-167,CON-044,Reporting and Remediation Recommendation,2025-07-07,2938.153333333333,On Hold,,,2025-06-22,2025-07-05
+MIL-168,CON-044,Remediation Validation and Retest,2025-07-10,2938.153333333333,Not Started,,,2025-06-22,2025-07-10
+MIL-169,CON-046,Scope Walkthrough,2025-04-27,1210.695,Completed,2025-04-28,INV-169,2025-04-24,2025-04-28
+MIL-170,CON-046,Reconnaissance and Intelligence Gathering,2025-04-30,1210.695,Completed,2025-05-02,INV-170,2025-04-24,2025-05-02
+MIL-171,CON-046,Vulnerability Analysis and Exploitation,2025-05-03,1210.695,Completed,2025-05-05,INV-171,2025-04-24,2025-05-05
+MIL-172,CON-046,Post Exploitation and Impact Assessment,2025-05-06,1210.695,Completed,2025-05-08,INV-172,2025-04-24,2025-05-08
+MIL-173,CON-046,Reporting and Remediation Recommendation,2025-05-09,1210.695,Completed,2025-05-08,INV-173,2025-04-24,2025-05-08
+MIL-174,CON-046,Remediation Validation and Retest,2025-05-12,1210.695,Delayed,,,2025-04-24,2025-05-13
+MIL-175,CON-047,Scope Walkthrough,2025-04-22,4028.1749999999997,In Progress,,,2025-04-20,2025-04-22
+MIL-176,CON-047,Reconnaissance and Intelligence Gathering,2025-04-24,4028.1749999999997,Not Started,,,2025-04-20,2025-04-25
+MIL-177,CON-047,Vulnerability Analysis and Exploitation,2025-04-26,4028.1749999999997,Not Started,,,2025-04-20,2025-04-27
+MIL-178,CON-047,Post Exploitation and Impact Assessment,2025-04-28,4028.1749999999997,Not Started,,,2025-04-20,2025-04-30
+MIL-179,CON-047,Reporting and Remediation Recommendation,2025-04-30,4028.1749999999997,Not Started,,,2025-04-20,2025-04-28
+MIL-180,CON-047,Remediation Validation and Retest,2025-05-02,4028.1749999999997,Not Started,,,2025-04-20,2025-05-02
+MIL-181,CON-050,Scope Walkthrough,2025-08-09,7976.578333333334,Completed,2025-08-11,INV-181,2025-08-07,2025-08-11
+MIL-182,CON-050,Reconnaissance and Intelligence Gathering,2025-08-11,7976.578333333334,Completed,2025-08-13,INV-182,2025-08-07,2025-08-13
+MIL-183,CON-050,Vulnerability Analysis and Exploitation,2025-08-13,7976.578333333334,Completed,2025-08-11,INV-183,2025-08-07,2025-08-11
+MIL-184,CON-050,Post Exploitation and Impact Assessment,2025-08-15,7976.578333333334,Completed,2025-08-13,INV-184,2025-08-07,2025-08-13
+MIL-185,CON-050,Reporting and Remediation Recommendation,2025-08-17,7976.578333333334,Completed,2025-08-16,INV-185,2025-08-07,2025-08-16
+MIL-186,CON-050,Remediation Validation and Retest,2025-08-19,7976.578333333334,Delayed,,,2025-08-07,2025-08-20
+MIL-187,CON-051,Scope Walkthrough,2025-02-26,5319.8949999999995,Cancelled,2025-02-27,INV-187,2025-02-23,2025-02-27
+MIL-188,CON-051,Reconnaissance and Intelligence Gathering,2025-03-01,5319.8949999999995,Cancelled,2025-02-27,INV-188,2025-02-23,2025-02-27
+MIL-189,CON-051,Vulnerability Analysis and Exploitation,2025-03-04,5319.8949999999995,Cancelled,2025-03-05,INV-189,2025-02-23,2025-03-05
+MIL-190,CON-051,Post Exploitation and Impact Assessment,2025-03-07,5319.8949999999995,Cancelled,,,2025-02-23,2025-03-05
+MIL-191,CON-051,Reporting and Remediation Recommendation,2025-03-10,5319.8949999999995,Cancelled,,,2025-02-23,2025-03-12
+MIL-192,CON-051,Remediation Validation and Retest,2025-03-13,5319.8949999999995,Cancelled,,,2025-02-23,2025-03-12
+MIL-193,CON-053,Scope Walkthrough,2025-03-22,8182.724999999999,Cancelled,2025-03-22,INV-193,2025-03-19,2025-03-22
+MIL-194,CON-053,Reconnaissance and Intelligence Gathering,2025-03-25,8182.724999999999,Cancelled,2025-03-25,INV-194,2025-03-19,2025-03-25
+MIL-195,CON-053,Vulnerability Analysis and Exploitation,2025-03-28,8182.724999999999,Cancelled,2025-03-27,INV-195,2025-03-19,2025-03-27
+MIL-196,CON-053,Post Exploitation and Impact Assessment,2025-03-31,8182.724999999999,Cancelled,2025-04-01,INV-196,2025-03-19,2025-04-01
+MIL-197,CON-053,Reporting and Remediation Recommendation,2025-04-03,8182.724999999999,Cancelled,,,2025-03-19,2025-04-03
+MIL-198,CON-053,Remediation Validation and Retest,2025-04-06,8182.724999999999,Cancelled,,,2025-03-19,2025-04-04
+MIL-199,CON-054,Scope Walkthrough,2025-03-18,3939.853333333333,Cancelled,2025-03-19,INV-199,2025-03-16,2025-03-19
+MIL-200,CON-054,Reconnaissance and Intelligence Gathering,2025-03-20,3939.853333333333,Cancelled,2025-03-20,INV-200,2025-03-16,2025-03-20
+MIL-201,CON-054,Vulnerability Analysis and Exploitation,2025-03-22,3939.853333333333,Cancelled,2025-03-23,INV-201,2025-03-16,2025-03-23
+MIL-202,CON-054,Post Exploitation and Impact Assessment,2025-03-24,3939.853333333333,Cancelled,,,2025-03-16,2025-03-24
+MIL-203,CON-054,Reporting and Remediation Recommendation,2025-03-26,3939.853333333333,Cancelled,,,2025-03-16,2025-03-24
+MIL-204,CON-054,Remediation Validation and Retest,2025-03-28,3939.853333333333,Cancelled,,,2025-03-16,2025-03-29
+MIL-205,CON-057,Scope Walkthrough,2025-05-01,7383.72,Cancelled,2025-05-01,INV-205,2025-04-29,2025-05-01
+MIL-206,CON-057,Reconnaissance and Intelligence Gathering,2025-05-03,7383.72,Cancelled,,,2025-04-29,2025-05-03
+MIL-207,CON-057,Vulnerability Analysis and Exploitation,2025-05-05,7383.72,Cancelled,,,2025-04-29,2025-05-06
+MIL-208,CON-057,Post Exploitation and Impact Assessment,2025-05-07,7383.72,Cancelled,,,2025-04-29,2025-05-07
+MIL-209,CON-057,Reporting and Remediation Recommendation,2025-05-09,7383.72,Cancelled,,,2025-04-29,2025-05-09
+MIL-210,CON-057,Remediation Validation and Retest,2025-05-11,7383.72,Cancelled,,,2025-04-29,2025-05-10
+MIL-211,CON-058,Scope Walkthrough,2025-08-09,3032.99,Completed,2025-08-08,INV-211,2025-08-07,2025-08-08
+MIL-212,CON-058,Reconnaissance and Intelligence Gathering,2025-08-11,3032.99,Completed,2025-08-13,INV-212,2025-08-07,2025-08-13
+MIL-213,CON-058,Vulnerability Analysis and Exploitation,2025-08-13,3032.99,Completed,2025-08-14,INV-213,2025-08-07,2025-08-14
+MIL-214,CON-058,Post Exploitation and Impact Assessment,2025-08-15,3032.99,Completed,2025-08-17,INV-214,2025-08-07,2025-08-17
+MIL-215,CON-058,Reporting and Remediation Recommendation,2025-08-17,3032.99,Completed,2025-08-16,INV-215,2025-08-07,2025-08-16
+MIL-216,CON-058,Remediation Validation and Retest,2025-08-19,3032.99,In Progress,,,2025-08-07,2025-08-17
+MIL-217,CON-059,Scope Walkthrough,2025-06-26,3241.7833333333333,Completed,2025-06-26,INV-217,2025-06-24,2025-06-26
+MIL-218,CON-059,Reconnaissance and Intelligence Gathering,2025-06-28,3241.7833333333333,Completed,2025-06-30,INV-218,2025-06-24,2025-06-30
+MIL-219,CON-059,Vulnerability Analysis and Exploitation,2025-06-30,3241.7833333333333,Completed,2025-07-01,INV-219,2025-06-24,2025-07-01
+MIL-220,CON-059,Post Exploitation and Impact Assessment,2025-07-02,3241.7833333333333,Completed,2025-07-01,INV-220,2025-06-24,2025-07-01
+MIL-221,CON-059,Reporting and Remediation Recommendation,2025-07-04,3241.7833333333333,Completed,2025-07-05,INV-221,2025-06-24,2025-07-05
+MIL-222,CON-059,Remediation Validation and Retest,2025-07-06,3241.7833333333333,Completed,2025-07-04,INV-222,2025-06-24,2025-07-04
+MIL-223,CON-062,Scope Walkthrough,2025-01-23,8553.053333333333,Completed,2025-01-25,INV-223,2025-01-21,2025-01-25
+MIL-224,CON-062,Reconnaissance and Intelligence Gathering,2025-01-25,8553.053333333333,Completed,2025-01-25,INV-224,2025-01-21,2025-01-25
+MIL-225,CON-062,Vulnerability Analysis and Exploitation,2025-01-27,8553.053333333333,Completed,2025-01-26,INV-225,2025-01-21,2025-01-26
+MIL-226,CON-062,Post Exploitation and Impact Assessment,2025-01-29,8553.053333333333,Completed,2025-01-28,INV-226,2025-01-21,2025-01-28
+MIL-227,CON-062,Reporting and Remediation Recommendation,2025-01-31,8553.053333333333,Delayed,,,2025-01-21,2025-02-01
+MIL-228,CON-062,Remediation Validation and Retest,2025-02-02,8553.053333333333,Not Started,,,2025-01-21,2025-02-02
+MIL-229,CON-063,Scope Walkthrough,2025-02-06,5787.251666666667,Cancelled,2025-02-04,INV-229,2025-02-03,2025-02-04
+MIL-230,CON-063,Reconnaissance and Intelligence Gathering,2025-02-09,5787.251666666667,Cancelled,2025-02-10,INV-230,2025-02-03,2025-02-10
+MIL-231,CON-063,Vulnerability Analysis and Exploitation,2025-02-12,5787.251666666667,Cancelled,2025-02-14,INV-231,2025-02-03,2025-02-14
+MIL-232,CON-063,Post Exploitation and Impact Assessment,2025-02-15,5787.251666666667,Cancelled,2025-02-13,INV-232,2025-02-03,2025-02-13
+MIL-233,CON-063,Reporting and Remediation Recommendation,2025-02-18,5787.251666666667,Cancelled,,,2025-02-03,2025-02-17
+MIL-234,CON-063,Remediation Validation and Retest,2025-02-21,5787.251666666667,Cancelled,,,2025-02-03,2025-02-23
+MIL-235,CON-064,Scope Walkthrough,2025-09-04,8120.128333333333,Cancelled,,,2025-09-01,2025-09-05
+MIL-236,CON-064,Reconnaissance and Intelligence Gathering,2025-09-07,8120.128333333333,Cancelled,,,2025-09-01,2025-09-05
+MIL-237,CON-064,Vulnerability Analysis and Exploitation,2025-09-10,8120.128333333333,Cancelled,,,2025-09-01,2025-09-09
+MIL-238,CON-064,Post Exploitation and Impact Assessment,2025-09-13,8120.128333333333,Cancelled,,,2025-09-01,2025-09-14
+MIL-239,CON-064,Reporting and Remediation Recommendation,2025-09-16,8120.128333333333,Cancelled,,,2025-09-01,2025-09-18
+MIL-240,CON-064,Remediation Validation and Retest,2025-09-19,8120.128333333333,Cancelled,,,2025-09-01,2025-09-19
+MIL-241,CON-065,Scope Walkthrough,2025-05-11,3710.8866666666668,Cancelled,2025-05-11,INV-241,2025-05-08,2025-05-11
+MIL-242,CON-065,Reconnaissance and Intelligence Gathering,2025-05-14,3710.8866666666668,Cancelled,,,2025-05-08,2025-05-15
+MIL-243,CON-065,Vulnerability Analysis and Exploitation,2025-05-17,3710.8866666666668,Cancelled,,,2025-05-08,2025-05-15
+MIL-244,CON-065,Post Exploitation and Impact Assessment,2025-05-20,3710.8866666666668,Cancelled,,,2025-05-08,2025-05-19
+MIL-245,CON-065,Reporting and Remediation Recommendation,2025-05-23,3710.8866666666668,Cancelled,,,2025-05-08,2025-05-23
+MIL-246,CON-065,Remediation Validation and Retest,2025-05-26,3710.8866666666668,Cancelled,,,2025-05-08,2025-05-28
+MIL-247,CON-066,Scope Walkthrough,2025-05-09,7168.016666666666,Completed,2025-05-10,INV-247,2025-05-06,2025-05-10
+MIL-248,CON-066,Reconnaissance and Intelligence Gathering,2025-05-12,7168.016666666666,Completed,2025-05-13,INV-248,2025-05-06,2025-05-13
+MIL-249,CON-066,Vulnerability Analysis and Exploitation,2025-05-15,7168.016666666666,Delayed,,,2025-05-06,2025-05-17
+MIL-250,CON-066,Post Exploitation and Impact Assessment,2025-05-18,7168.016666666666,Not Started,,,2025-05-06,2025-05-19
+MIL-251,CON-066,Reporting and Remediation Recommendation,2025-05-21,7168.016666666666,Not Started,,,2025-05-06,2025-05-22
+MIL-252,CON-066,Remediation Validation and Retest,2025-05-24,7168.016666666666,Not Started,,,2025-05-06,2025-05-25
+MIL-253,CON-067,Scope Walkthrough,2025-02-21,6503.71,In Progress,,,2025-02-19,2025-02-21
+MIL-254,CON-067,Reconnaissance and Intelligence Gathering,2025-02-23,6503.71,Not Started,,,2025-02-19,2025-02-24
+MIL-255,CON-067,Vulnerability Analysis and Exploitation,2025-02-25,6503.71,Not Started,,,2025-02-19,2025-02-26
+MIL-256,CON-067,Post Exploitation and Impact Assessment,2025-02-27,6503.71,Not Started,,,2025-02-19,2025-03-01
+MIL-257,CON-067,Reporting and Remediation Recommendation,2025-03-01,6503.71,Not Started,,,2025-02-19,2025-03-01
+MIL-258,CON-067,Remediation Validation and Retest,2025-03-03,6503.71,Not Started,,,2025-02-19,2025-03-05
+MIL-259,CON-068,Scope Walkthrough,2025-06-14,2972.615,Cancelled,2025-06-12,INV-259,2025-06-12,2025-06-12
+MIL-260,CON-068,Reconnaissance and Intelligence Gathering,2025-06-16,2972.615,Cancelled,2025-06-17,INV-260,2025-06-12,2025-06-17
+MIL-261,CON-068,Vulnerability Analysis and Exploitation,2025-06-18,2972.615,Cancelled,2025-06-18,INV-261,2025-06-12,2025-06-18
+MIL-262,CON-068,Post Exploitation and Impact Assessment,2025-06-20,2972.615,Cancelled,,,2025-06-12,2025-06-18
+MIL-263,CON-068,Reporting and Remediation Recommendation,2025-06-22,2972.615,Cancelled,,,2025-06-12,2025-06-22
+MIL-264,CON-068,Remediation Validation and Retest,2025-06-24,2972.615,Cancelled,,,2025-06-12,2025-06-23
+MIL-265,CON-069,Scope Walkthrough,2025-07-28,6553.673333333333,Cancelled,,,2025-07-25,2025-07-28
+MIL-266,CON-069,Reconnaissance and Intelligence Gathering,2025-07-31,6553.673333333333,Cancelled,,,2025-07-25,2025-07-31
+MIL-267,CON-069,Vulnerability Analysis and Exploitation,2025-08-03,6553.673333333333,Cancelled,,,2025-07-25,2025-08-05
+MIL-268,CON-069,Post Exploitation and Impact Assessment,2025-08-06,6553.673333333333,Cancelled,,,2025-07-25,2025-08-05
+MIL-269,CON-069,Reporting and Remediation Recommendation,2025-08-09,6553.673333333333,Cancelled,,,2025-07-25,2025-08-11
+MIL-270,CON-069,Remediation Validation and Retest,2025-08-12,6553.673333333333,Cancelled,,,2025-07-25,2025-08-13
+MIL-271,CON-070,Scope Walkthrough,2025-03-22,4394.181666666666,Completed,2025-03-23,INV-271,2025-03-19,2025-03-23
+MIL-272,CON-070,Reconnaissance and Intelligence Gathering,2025-03-25,4394.181666666666,In Progress,,,2025-03-19,2025-03-24
+MIL-273,CON-070,Vulnerability Analysis and Exploitation,2025-03-28,4394.181666666666,Not Started,,,2025-03-19,2025-03-30
+MIL-274,CON-070,Post Exploitation and Impact Assessment,2025-03-31,4394.181666666666,Not Started,,,2025-03-19,2025-03-29
+MIL-275,CON-070,Reporting and Remediation Recommendation,2025-04-03,4394.181666666666,Not Started,,,2025-03-19,2025-04-01
+MIL-276,CON-070,Remediation Validation and Retest,2025-04-06,4394.181666666666,Not Started,,,2025-03-19,2025-04-04
+MIL-277,CON-072,Scope Walkthrough,2025-09-25,4101.461666666667,Cancelled,,,2025-09-23,2025-09-23
+MIL-278,CON-072,Reconnaissance and Intelligence Gathering,2025-09-27,4101.461666666667,Cancelled,,,2025-09-23,2025-09-26
+MIL-279,CON-072,Vulnerability Analysis and Exploitation,2025-09-29,4101.461666666667,Cancelled,,,2025-09-23,2025-09-28
+MIL-280,CON-072,Post Exploitation and Impact Assessment,2025-10-01,4101.461666666667,Cancelled,,,2025-09-23,2025-10-03
+MIL-281,CON-072,Reporting and Remediation Recommendation,2025-10-03,4101.461666666667,Cancelled,,,2025-09-23,2025-10-04
+MIL-282,CON-072,Remediation Validation and Retest,2025-10-05,4101.461666666667,Cancelled,,,2025-09-23,2025-10-03
+MIL-283,CON-073,Scope Walkthrough,2025-05-03,2897.48,Completed,2025-05-03,INV-283,2025-04-30,2025-05-03
+MIL-284,CON-073,Reconnaissance and Intelligence Gathering,2025-05-06,2897.48,Completed,2025-05-07,INV-284,2025-04-30,2025-05-07
+MIL-285,CON-073,Vulnerability Analysis and Exploitation,2025-05-09,2897.48,Completed,2025-05-09,INV-285,2025-04-30,2025-05-09
+MIL-286,CON-073,Post Exploitation and Impact Assessment,2025-05-12,2897.48,Completed,2025-05-10,INV-286,2025-04-30,2025-05-10
+MIL-287,CON-073,Reporting and Remediation Recommendation,2025-05-15,2897.48,Completed,2025-05-15,INV-287,2025-04-30,2025-05-15
+MIL-288,CON-073,Remediation Validation and Retest,2025-05-18,2897.48,Completed,2025-05-20,INV-288,2025-04-30,2025-05-20
+MIL-289,CON-074,Scope Walkthrough,2025-07-24,4117.4800000000005,Completed,2025-07-23,INV-289,2025-07-22,2025-07-23
+MIL-290,CON-074,Reconnaissance and Intelligence Gathering,2025-07-26,4117.4800000000005,Completed,2025-07-26,INV-290,2025-07-22,2025-07-26
+MIL-291,CON-074,Vulnerability Analysis and Exploitation,2025-07-28,4117.4800000000005,Completed,2025-07-28,INV-291,2025-07-22,2025-07-28
+MIL-292,CON-074,Post Exploitation and Impact Assessment,2025-07-30,4117.4800000000005,Completed,2025-07-31,INV-292,2025-07-22,2025-07-31
+MIL-293,CON-074,Reporting and Remediation Recommendation,2025-08-01,4117.4800000000005,Completed,2025-08-03,INV-293,2025-07-22,2025-08-03
+MIL-294,CON-074,Remediation Validation and Retest,2025-08-03,4117.4800000000005,Completed,2025-08-01,INV-294,2025-07-22,2025-08-01
+MIL-295,CON-075,Scope Walkthrough,2025-04-18,7789.408333333333,Cancelled,2025-04-19,INV-295,2025-04-16,2025-04-19
+MIL-296,CON-075,Reconnaissance and Intelligence Gathering,2025-04-20,7789.408333333333,Cancelled,2025-04-22,INV-296,2025-04-16,2025-04-22
+MIL-297,CON-075,Vulnerability Analysis and Exploitation,2025-04-22,7789.408333333333,Cancelled,2025-04-20,INV-297,2025-04-16,2025-04-20
+MIL-298,CON-075,Post Exploitation and Impact Assessment,2025-04-24,7789.408333333333,Cancelled,2025-04-23,INV-298,2025-04-16,2025-04-23
+MIL-299,CON-075,Reporting and Remediation Recommendation,2025-04-26,7789.408333333333,Cancelled,2025-04-26,INV-299,2025-04-16,2025-04-26
+MIL-300,CON-075,Remediation Validation and Retest,2025-04-28,7789.408333333333,Cancelled,,,2025-04-16,2025-04-26
+MIL-301,CON-077,Scope Walkthrough,2025-02-17,1892.9383333333333,Cancelled,2025-02-18,INV-301,2025-02-14,2025-02-18
+MIL-302,CON-077,Reconnaissance and Intelligence Gathering,2025-02-20,1892.9383333333333,Cancelled,2025-02-21,INV-302,2025-02-14,2025-02-21
+MIL-303,CON-077,Vulnerability Analysis and Exploitation,2025-02-23,1892.9383333333333,Cancelled,2025-02-22,INV-303,2025-02-14,2025-02-22
+MIL-304,CON-077,Post Exploitation and Impact Assessment,2025-02-26,1892.9383333333333,Cancelled,2025-02-27,INV-304,2025-02-14,2025-02-27
+MIL-305,CON-077,Reporting and Remediation Recommendation,2025-03-01,1892.9383333333333,Cancelled,2025-03-03,INV-305,2025-02-14,2025-03-03
+MIL-306,CON-077,Remediation Validation and Retest,2025-03-04,1892.9383333333333,Cancelled,,,2025-02-14,2025-03-04
+MIL-307,CON-078,Scope Walkthrough,2025-02-26,1169.7083333333333,Completed,2025-02-24,INV-307,2025-02-24,2025-02-24
+MIL-308,CON-078,Reconnaissance and Intelligence Gathering,2025-02-28,1169.7083333333333,Completed,2025-03-02,INV-308,2025-02-24,2025-03-02
+MIL-309,CON-078,Vulnerability Analysis and Exploitation,2025-03-02,1169.7083333333333,Completed,2025-03-01,INV-309,2025-02-24,2025-03-01
+MIL-310,CON-078,Post Exploitation and Impact Assessment,2025-03-04,1169.7083333333333,Completed,2025-03-02,INV-310,2025-02-24,2025-03-02
+MIL-311,CON-078,Reporting and Remediation Recommendation,2025-03-06,1169.7083333333333,Completed,2025-03-08,INV-311,2025-02-24,2025-03-08
+MIL-312,CON-078,Remediation Validation and Retest,2025-03-08,1169.7083333333333,Completed,2025-03-09,INV-312,2025-02-24,2025-03-09
+MIL-313,CON-079,Scope Walkthrough,2025-02-02,3627.025,Completed,2025-02-01,INV-313,2025-01-30,2025-02-01
+MIL-314,CON-079,Reconnaissance and Intelligence Gathering,2025-02-05,3627.025,Completed,2025-02-03,INV-314,2025-01-30,2025-02-03
+MIL-315,CON-079,Vulnerability Analysis and Exploitation,2025-02-08,3627.025,Completed,2025-02-07,INV-315,2025-01-30,2025-02-07
+MIL-316,CON-079,Post Exploitation and Impact Assessment,2025-02-11,3627.025,Completed,2025-02-10,INV-316,2025-01-30,2025-02-10
+MIL-317,CON-079,Reporting and Remediation Recommendation,2025-02-14,3627.025,Completed,2025-02-15,INV-317,2025-01-30,2025-02-15
+MIL-318,CON-079,Remediation Validation and Retest,2025-02-17,3627.025,Completed,2025-02-15,INV-318,2025-01-30,2025-02-15
+MIL-319,CON-080,Scope Walkthrough,2025-05-21,3878.5633333333335,In Progress,,,2025-05-18,2025-05-20
+MIL-320,CON-080,Reconnaissance and Intelligence Gathering,2025-05-24,3878.5633333333335,Not Started,,,2025-05-18,2025-05-23
+MIL-321,CON-080,Vulnerability Analysis and Exploitation,2025-05-27,3878.5633333333335,Not Started,,,2025-05-18,2025-05-25
+MIL-322,CON-080,Post Exploitation and Impact Assessment,2025-05-30,3878.5633333333335,Not Started,,,2025-05-18,2025-06-01
+MIL-323,CON-080,Reporting and Remediation Recommendation,2025-06-02,3878.5633333333335,Not Started,,,2025-05-18,2025-06-03
+MIL-324,CON-080,Remediation Validation and Retest,2025-06-05,3878.5633333333335,Not Started,,,2025-05-18,2025-06-05
+MIL-325,CON-081,Scope Walkthrough,2025-06-27,7247.051666666666,Completed,2025-06-26,INV-325,2025-06-25,2025-06-26
+MIL-326,CON-081,Reconnaissance and Intelligence Gathering,2025-06-29,7247.051666666666,Completed,2025-06-29,INV-326,2025-06-25,2025-06-29
+MIL-327,CON-081,Vulnerability Analysis and Exploitation,2025-07-01,7247.051666666666,Completed,2025-06-30,INV-327,2025-06-25,2025-06-30
+MIL-328,CON-081,Post Exploitation and Impact Assessment,2025-07-03,7247.051666666666,Completed,2025-07-04,INV-328,2025-06-25,2025-07-04
+MIL-329,CON-081,Reporting and Remediation Recommendation,2025-07-05,7247.051666666666,Completed,2025-07-05,INV-329,2025-06-25,2025-07-05
+MIL-330,CON-081,Remediation Validation and Retest,2025-07-07,7247.051666666666,In Progress,,,2025-06-25,2025-07-06
+MIL-331,CON-082,Scope Walkthrough,2025-02-11,7113.425,Completed,2025-02-10,INV-331,2025-02-08,2025-02-10
+MIL-332,CON-082,Reconnaissance and Intelligence Gathering,2025-02-14,7113.425,Completed,2025-02-13,INV-332,2025-02-08,2025-02-13
+MIL-333,CON-082,Vulnerability Analysis and Exploitation,2025-02-17,7113.425,Delayed,,,2025-02-08,2025-02-18
+MIL-334,CON-082,Post Exploitation and Impact Assessment,2025-02-20,7113.425,Not Started,,,2025-02-08,2025-02-20
+MIL-335,CON-082,Reporting and Remediation Recommendation,2025-02-23,7113.425,Not Started,,,2025-02-08,2025-02-22
+MIL-336,CON-082,Remediation Validation and Retest,2025-02-26,7113.425,Not Started,,,2025-02-08,2025-02-27
+MIL-337,CON-083,Scope Walkthrough,2025-09-04,2432.1266666666666,Completed,2025-09-02,INV-337,2025-09-02,2025-09-02
+MIL-338,CON-083,Reconnaissance and Intelligence Gathering,2025-09-06,2432.1266666666666,Completed,2025-09-07,INV-338,2025-09-02,2025-09-07
+MIL-339,CON-083,Vulnerability Analysis and Exploitation,2025-09-08,2432.1266666666666,Completed,2025-09-10,INV-339,2025-09-02,2025-09-10
+MIL-340,CON-083,Post Exploitation and Impact Assessment,2025-09-10,2432.1266666666666,Completed,2025-09-09,INV-340,2025-09-02,2025-09-09
+MIL-341,CON-083,Reporting and Remediation Recommendation,2025-09-12,2432.1266666666666,Completed,2025-09-13,INV-341,2025-09-02,2025-09-13
+MIL-342,CON-083,Remediation Validation and Retest,2025-09-14,2432.1266666666666,Completed,2025-09-12,INV-342,2025-09-02,2025-09-12
+MIL-343,CON-084,Scope Walkthrough,2025-05-14,4016.2533333333336,Cancelled,2025-05-16,INV-343,2025-05-12,2025-05-16
+MIL-344,CON-084,Reconnaissance and Intelligence Gathering,2025-05-16,4016.2533333333336,Cancelled,2025-05-17,INV-344,2025-05-12,2025-05-17
+MIL-345,CON-084,Vulnerability Analysis and Exploitation,2025-05-18,4016.2533333333336,Cancelled,,,2025-05-12,2025-05-20
+MIL-346,CON-084,Post Exploitation and Impact Assessment,2025-05-20,4016.2533333333336,Cancelled,,,2025-05-12,2025-05-19
+MIL-347,CON-084,Reporting and Remediation Recommendation,2025-05-22,4016.2533333333336,Cancelled,,,2025-05-12,2025-05-20
+MIL-348,CON-084,Remediation Validation and Retest,2025-05-24,4016.2533333333336,Cancelled,,,2025-05-12,2025-05-25
+MIL-349,CON-085,Scope Walkthrough,2025-04-03,5760.44,Completed,2025-04-05,INV-349,2025-04-01,2025-04-05
+MIL-350,CON-085,Reconnaissance and Intelligence Gathering,2025-04-05,5760.44,Completed,2025-04-04,INV-350,2025-04-01,2025-04-04
+MIL-351,CON-085,Vulnerability Analysis and Exploitation,2025-04-07,5760.44,Completed,2025-04-07,INV-351,2025-04-01,2025-04-07
+MIL-352,CON-085,Post Exploitation and Impact Assessment,2025-04-09,5760.44,Completed,2025-04-08,INV-352,2025-04-01,2025-04-08
+MIL-353,CON-085,Reporting and Remediation Recommendation,2025-04-11,5760.44,Completed,2025-04-12,INV-353,2025-04-01,2025-04-12
+MIL-354,CON-085,Remediation Validation and Retest,2025-04-13,5760.44,Completed,2025-04-13,INV-354,2025-04-01,2025-04-13
+MIL-355,CON-086,Scope Walkthrough,2025-08-03,4656.323333333333,Completed,2025-08-05,INV-355,2025-07-31,2025-08-05
+MIL-356,CON-086,Reconnaissance and Intelligence Gathering,2025-08-06,4656.323333333333,Completed,2025-08-05,INV-356,2025-07-31,2025-08-05
+MIL-357,CON-086,Vulnerability Analysis and Exploitation,2025-08-09,4656.323333333333,Completed,2025-08-08,INV-357,2025-07-31,2025-08-08
+MIL-358,CON-086,Post Exploitation and Impact Assessment,2025-08-12,4656.323333333333,Completed,2025-08-14,INV-358,2025-07-31,2025-08-14
+MIL-359,CON-086,Reporting and Remediation Recommendation,2025-08-15,4656.323333333333,Completed,2025-08-14,INV-359,2025-07-31,2025-08-14
+MIL-360,CON-086,Remediation Validation and Retest,2025-08-18,4656.323333333333,Completed,2025-08-17,INV-360,2025-07-31,2025-08-17
+MIL-361,CON-087,Scope Walkthrough,2025-07-11,5136.76,Completed,2025-07-12,INV-361,2025-07-08,2025-07-12
+MIL-362,CON-087,Reconnaissance and Intelligence Gathering,2025-07-14,5136.76,Delayed,,,2025-07-08,2025-07-15
+MIL-363,CON-087,Vulnerability Analysis and Exploitation,2025-07-17,5136.76,Not Started,,,2025-07-08,2025-07-18
+MIL-364,CON-087,Post Exploitation and Impact Assessment,2025-07-20,5136.76,Not Started,,,2025-07-08,2025-07-20
+MIL-365,CON-087,Reporting and Remediation Recommendation,2025-07-23,5136.76,Not Started,,,2025-07-08,2025-07-23
+MIL-366,CON-087,Remediation Validation and Retest,2025-07-26,5136.76,Not Started,,,2025-07-08,2025-07-26
+MIL-367,CON-088,Scope Walkthrough,2025-06-11,4059.883333333333,Completed,2025-06-13,INV-367,2025-06-09,2025-06-13
+MIL-368,CON-088,Reconnaissance and Intelligence Gathering,2025-06-13,4059.883333333333,Completed,2025-06-15,INV-368,2025-06-09,2025-06-15
+MIL-369,CON-088,Vulnerability Analysis and Exploitation,2025-06-15,4059.883333333333,Completed,2025-06-15,INV-369,2025-06-09,2025-06-15
+MIL-370,CON-088,Post Exploitation and Impact Assessment,2025-06-17,4059.883333333333,Completed,2025-06-15,INV-370,2025-06-09,2025-06-15
+MIL-371,CON-088,Reporting and Remediation Recommendation,2025-06-19,4059.883333333333,On Hold,,,2025-06-09,2025-06-18
+MIL-372,CON-088,Remediation Validation and Retest,2025-06-21,4059.883333333333,Not Started,,,2025-06-09,2025-06-23
+MIL-373,CON-089,Scope Walkthrough,2025-05-29,3013.0049999999997,Completed,2025-05-28,INV-373,2025-05-26,2025-05-28
+MIL-374,CON-089,Reconnaissance and Intelligence Gathering,2025-06-01,3013.0049999999997,Completed,2025-05-30,INV-374,2025-05-26,2025-05-30
+MIL-375,CON-089,Vulnerability Analysis and Exploitation,2025-06-04,3013.0049999999997,Completed,2025-06-06,INV-375,2025-05-26,2025-06-06
+MIL-376,CON-089,Post Exploitation and Impact Assessment,2025-06-07,3013.0049999999997,Completed,2025-06-09,INV-376,2025-05-26,2025-06-09
+MIL-377,CON-089,Reporting and Remediation Recommendation,2025-06-10,3013.0049999999997,Completed,2025-06-09,INV-377,2025-05-26,2025-06-09
+MIL-378,CON-089,Remediation Validation and Retest,2025-06-13,3013.0049999999997,Delayed,,,2025-05-26,2025-06-14
+MIL-379,CON-090,Scope Walkthrough,2025-06-16,2522.055,Completed,2025-06-14,INV-379,2025-06-14,2025-06-14
+MIL-380,CON-090,Reconnaissance and Intelligence Gathering,2025-06-18,2522.055,Completed,2025-06-16,INV-380,2025-06-14,2025-06-16
+MIL-381,CON-090,Vulnerability Analysis and Exploitation,2025-06-20,2522.055,Completed,2025-06-21,INV-381,2025-06-14,2025-06-21
+MIL-382,CON-090,Post Exploitation and Impact Assessment,2025-06-22,2522.055,In Progress,,,2025-06-14,2025-06-21
+MIL-383,CON-090,Reporting and Remediation Recommendation,2025-06-24,2522.055,Not Started,,,2025-06-14,2025-06-24
+MIL-384,CON-090,Remediation Validation and Retest,2025-06-26,2522.055,Not Started,,,2025-06-14,2025-06-27
+MIL-385,CON-091,Scope Walkthrough,2025-05-15,2709.4966666666664,Completed,2025-05-14,INV-385,2025-05-12,2025-05-14
+MIL-386,CON-091,Reconnaissance and Intelligence Gathering,2025-05-18,2709.4966666666664,Completed,2025-05-16,INV-386,2025-05-12,2025-05-16
+MIL-387,CON-091,Vulnerability Analysis and Exploitation,2025-05-21,2709.4966666666664,In Progress,,,2025-05-12,2025-05-21
+MIL-388,CON-091,Post Exploitation and Impact Assessment,2025-05-24,2709.4966666666664,Not Started,,,2025-05-12,2025-05-25
+MIL-389,CON-091,Reporting and Remediation Recommendation,2025-05-27,2709.4966666666664,Not Started,,,2025-05-12,2025-05-28
+MIL-390,CON-091,Remediation Validation and Retest,2025-05-30,2709.4966666666664,Not Started,,,2025-05-12,2025-05-31
+MIL-391,CON-093,Scope Walkthrough,2025-01-19,6959.041666666667,Cancelled,2025-01-18,INV-391,2025-01-16,2025-01-18
+MIL-392,CON-093,Reconnaissance and Intelligence Gathering,2025-01-22,6959.041666666667,Cancelled,,,2025-01-16,2025-01-24
+MIL-393,CON-093,Vulnerability Analysis and Exploitation,2025-01-25,6959.041666666667,Cancelled,,,2025-01-16,2025-01-24
+MIL-394,CON-093,Post Exploitation and Impact Assessment,2025-01-28,6959.041666666667,Cancelled,,,2025-01-16,2025-01-30
+MIL-395,CON-093,Reporting and Remediation Recommendation,2025-01-31,6959.041666666667,Cancelled,,,2025-01-16,2025-02-01
+MIL-396,CON-093,Remediation Validation and Retest,2025-02-03,6959.041666666667,Cancelled,,,2025-01-16,2025-02-05
+MIL-397,CON-094,Scope Walkthrough,2025-07-07,2604.108333333333,Completed,2025-07-05,INV-397,2025-07-05,2025-07-05
+MIL-398,CON-094,Reconnaissance and Intelligence Gathering,2025-07-09,2604.108333333333,Completed,2025-07-11,INV-398,2025-07-05,2025-07-11
+MIL-399,CON-094,Vulnerability Analysis and Exploitation,2025-07-11,2604.108333333333,Completed,2025-07-11,INV-399,2025-07-05,2025-07-11
+MIL-400,CON-094,Post Exploitation and Impact Assessment,2025-07-13,2604.108333333333,In Progress,,,2025-07-05,2025-07-13
+MIL-401,CON-094,Reporting and Remediation Recommendation,2025-07-15,2604.108333333333,Not Started,,,2025-07-05,2025-07-16
+MIL-402,CON-094,Remediation Validation and Retest,2025-07-17,2604.108333333333,Not Started,,,2025-07-05,2025-07-17
+MIL-403,CON-098,Scope Walkthrough,2025-06-11,4968.58,Completed,2025-06-10,INV-403,2025-06-08,2025-06-10
+MIL-404,CON-098,Reconnaissance and Intelligence Gathering,2025-06-14,4968.58,In Progress,,,2025-06-08,2025-06-14
+MIL-405,CON-098,Vulnerability Analysis and Exploitation,2025-06-17,4968.58,Not Started,,,2025-06-08,2025-06-16
+MIL-406,CON-098,Post Exploitation and Impact Assessment,2025-06-20,4968.58,Not Started,,,2025-06-08,2025-06-18
+MIL-407,CON-098,Reporting and Remediation Recommendation,2025-06-23,4968.58,Not Started,,,2025-06-08,2025-06-24
+MIL-408,CON-098,Remediation Validation and Retest,2025-06-26,4968.58,Not Started,,,2025-06-08,2025-06-27
+MIL-409,CON-100,Scope Walkthrough,2025-08-03,2255.5216666666665,Completed,2025-08-04,INV-409,2025-08-01,2025-08-04
+MIL-410,CON-100,Reconnaissance and Intelligence Gathering,2025-08-05,2255.5216666666665,Completed,2025-08-03,INV-410,2025-08-01,2025-08-03
+MIL-411,CON-100,Vulnerability Analysis and Exploitation,2025-08-07,2255.5216666666665,Delayed,,,2025-08-01,2025-08-08
+MIL-412,CON-100,Post Exploitation and Impact Assessment,2025-08-09,2255.5216666666665,Not Started,,,2025-08-01,2025-08-09
+MIL-413,CON-100,Reporting and Remediation Recommendation,2025-08-11,2255.5216666666665,Not Started,,,2025-08-01,2025-08-11
+MIL-414,CON-100,Remediation Validation and Retest,2025-08-13,2255.5216666666665,Not Started,,,2025-08-01,2025-08-13
+MIL-415,CON-102,Scope Walkthrough,2025-08-12,4141.385,Completed,2025-08-12,INV-415,2025-08-09,2025-08-12
+MIL-416,CON-102,Reconnaissance and Intelligence Gathering,2025-08-15,4141.385,Completed,2025-08-17,INV-416,2025-08-09,2025-08-17
+MIL-417,CON-102,Vulnerability Analysis and Exploitation,2025-08-18,4141.385,Delayed,,,2025-08-09,2025-08-20
+MIL-418,CON-102,Post Exploitation and Impact Assessment,2025-08-21,4141.385,Not Started,,,2025-08-09,2025-08-19
+MIL-419,CON-102,Reporting and Remediation Recommendation,2025-08-24,4141.385,Not Started,,,2025-08-09,2025-08-22
+MIL-420,CON-102,Remediation Validation and Retest,2025-08-27,4141.385,Not Started,,,2025-08-09,2025-08-25
+MIL-421,CON-103,Scope Walkthrough,2025-03-14,3827.293333333333,Completed,2025-03-14,INV-421,2025-03-12,2025-03-14
+MIL-422,CON-103,Reconnaissance and Intelligence Gathering,2025-03-16,3827.293333333333,Completed,2025-03-15,INV-422,2025-03-12,2025-03-15
+MIL-423,CON-103,Vulnerability Analysis and Exploitation,2025-03-18,3827.293333333333,Completed,2025-03-19,INV-423,2025-03-12,2025-03-19
+MIL-424,CON-103,Post Exploitation and Impact Assessment,2025-03-20,3827.293333333333,Completed,2025-03-19,INV-424,2025-03-12,2025-03-19
+MIL-425,CON-103,Reporting and Remediation Recommendation,2025-03-22,3827.293333333333,Completed,2025-03-24,INV-425,2025-03-12,2025-03-24
+MIL-426,CON-103,Remediation Validation and Retest,2025-03-24,3827.293333333333,Completed,2025-03-23,INV-426,2025-03-12,2025-03-23
+MIL-427,CON-104,Scope Walkthrough,2025-03-23,1304.9283333333333,Completed,2025-03-25,INV-427,2025-03-20,2025-03-25
+MIL-428,CON-104,Reconnaissance and Intelligence Gathering,2025-03-26,1304.9283333333333,Completed,2025-03-24,INV-428,2025-03-20,2025-03-24
+MIL-429,CON-104,Vulnerability Analysis and Exploitation,2025-03-29,1304.9283333333333,Completed,2025-03-30,INV-429,2025-03-20,2025-03-30
+MIL-430,CON-104,Post Exploitation and Impact Assessment,2025-04-01,1304.9283333333333,Completed,2025-04-01,INV-430,2025-03-20,2025-04-01
+MIL-431,CON-104,Reporting and Remediation Recommendation,2025-04-04,1304.9283333333333,Completed,2025-04-06,INV-431,2025-03-20,2025-04-06
+MIL-432,CON-104,Remediation Validation and Retest,2025-04-07,1304.9283333333333,On Hold,,,2025-03-20,2025-04-07
+MIL-433,CON-105,Scope Walkthrough,2025-06-05,9533.253333333332,Completed,2025-06-05,INV-433,2025-06-03,2025-06-05
+MIL-434,CON-105,Reconnaissance and Intelligence Gathering,2025-06-07,9533.253333333332,Delayed,,,2025-06-03,2025-06-08
+MIL-435,CON-105,Vulnerability Analysis and Exploitation,2025-06-09,9533.253333333332,Not Started,,,2025-06-03,2025-06-07
+MIL-436,CON-105,Post Exploitation and Impact Assessment,2025-06-11,9533.253333333332,Not Started,,,2025-06-03,2025-06-11
+MIL-437,CON-105,Reporting and Remediation Recommendation,2025-06-13,9533.253333333332,Not Started,,,2025-06-03,2025-06-11
+MIL-438,CON-105,Remediation Validation and Retest,2025-06-15,9533.253333333332,Not Started,,,2025-06-03,2025-06-13
+MIL-439,CON-106,Scope Walkthrough,2025-04-21,4029.221666666667,Completed,2025-04-20,INV-439,2025-04-19,2025-04-20
+MIL-440,CON-106,Reconnaissance and Intelligence Gathering,2025-04-23,4029.221666666667,Completed,2025-04-21,INV-440,2025-04-19,2025-04-21
+MIL-441,CON-106,Vulnerability Analysis and Exploitation,2025-04-25,4029.221666666667,Completed,2025-04-26,INV-441,2025-04-19,2025-04-26
+MIL-442,CON-106,Post Exploitation and Impact Assessment,2025-04-27,4029.221666666667,Completed,2025-04-27,INV-442,2025-04-19,2025-04-27
+MIL-443,CON-106,Reporting and Remediation Recommendation,2025-04-29,4029.221666666667,Completed,2025-04-30,INV-443,2025-04-19,2025-04-30
+MIL-444,CON-106,Remediation Validation and Retest,2025-05-01,4029.221666666667,Completed,2025-04-30,INV-444,2025-04-19,2025-04-30
+MIL-445,CON-107,Scope Walkthrough,2025-05-11,3632.2016666666664,Delayed,,,2025-05-08,2025-05-13
+MIL-446,CON-107,Reconnaissance and Intelligence Gathering,2025-05-14,3632.2016666666664,Not Started,,,2025-05-08,2025-05-15
+MIL-447,CON-107,Vulnerability Analysis and Exploitation,2025-05-17,3632.2016666666664,Not Started,,,2025-05-08,2025-05-16
+MIL-448,CON-107,Post Exploitation and Impact Assessment,2025-05-20,3632.2016666666664,Not Started,,,2025-05-08,2025-05-22
+MIL-449,CON-107,Reporting and Remediation Recommendation,2025-05-23,3632.2016666666664,Not Started,,,2025-05-08,2025-05-25
+MIL-450,CON-107,Remediation Validation and Retest,2025-05-26,3632.2016666666664,Not Started,,,2025-05-08,2025-05-24
+MIL-451,CON-110,Scope Walkthrough,2025-06-30,3051.161666666667,Completed,2025-06-29,INV-451,2025-06-28,2025-06-29
+MIL-452,CON-110,Reconnaissance and Intelligence Gathering,2025-07-02,3051.161666666667,Completed,2025-07-02,INV-452,2025-06-28,2025-07-02
+MIL-453,CON-110,Vulnerability Analysis and Exploitation,2025-07-04,3051.161666666667,Completed,2025-07-03,INV-453,2025-06-28,2025-07-03
+MIL-454,CON-110,Post Exploitation and Impact Assessment,2025-07-06,3051.161666666667,Completed,2025-07-08,INV-454,2025-06-28,2025-07-08
+MIL-455,CON-110,Reporting and Remediation Recommendation,2025-07-08,3051.161666666667,Completed,2025-07-06,INV-455,2025-06-28,2025-07-06
+MIL-456,CON-110,Remediation Validation and Retest,2025-07-10,3051.161666666667,In Progress,,,2025-06-28,2025-07-08
+MIL-457,CON-112,Scope Walkthrough,2025-04-10,4370.588333333333,Completed,2025-04-09,INV-457,2025-04-08,2025-04-09
+MIL-458,CON-112,Reconnaissance and Intelligence Gathering,2025-04-12,4370.588333333333,Completed,2025-04-14,INV-458,2025-04-08,2025-04-14
+MIL-459,CON-112,Vulnerability Analysis and Exploitation,2025-04-14,4370.588333333333,Completed,2025-04-15,INV-459,2025-04-08,2025-04-15
+MIL-460,CON-112,Post Exploitation and Impact Assessment,2025-04-16,4370.588333333333,Completed,2025-04-18,INV-460,2025-04-08,2025-04-18
+MIL-461,CON-112,Reporting and Remediation Recommendation,2025-04-18,4370.588333333333,On Hold,,,2025-04-08,2025-04-16
+MIL-462,CON-112,Remediation Validation and Retest,2025-04-20,4370.588333333333,Not Started,,,2025-04-08,2025-04-22
+MIL-463,CON-113,Scope Walkthrough,2025-08-28,2098.34,Completed,2025-08-26,INV-463,2025-08-25,2025-08-26
+MIL-464,CON-113,Reconnaissance and Intelligence Gathering,2025-08-31,2098.34,Completed,2025-08-31,INV-464,2025-08-25,2025-08-31
+MIL-465,CON-113,Vulnerability Analysis and Exploitation,2025-09-03,2098.34,Completed,2025-09-04,INV-465,2025-08-25,2025-09-04
+MIL-466,CON-113,Post Exploitation and Impact Assessment,2025-09-06,2098.34,In Progress,,,2025-08-25,2025-09-05
+MIL-467,CON-113,Reporting and Remediation Recommendation,2025-09-09,2098.34,Not Started,,,2025-08-25,2025-09-10
+MIL-468,CON-113,Remediation Validation and Retest,2025-09-12,2098.34,Not Started,,,2025-08-25,2025-09-10
+MIL-469,CON-114,Scope Walkthrough,2025-06-04,8145.231666666667,Completed,2025-06-02,INV-469,2025-06-01,2025-06-02
+MIL-470,CON-114,Reconnaissance and Intelligence Gathering,2025-06-07,8145.231666666667,Completed,2025-06-09,INV-470,2025-06-01,2025-06-09
+MIL-471,CON-114,Vulnerability Analysis and Exploitation,2025-06-10,8145.231666666667,Completed,2025-06-10,INV-471,2025-06-01,2025-06-10
+MIL-472,CON-114,Post Exploitation and Impact Assessment,2025-06-13,8145.231666666667,Completed,2025-06-15,INV-472,2025-06-01,2025-06-15
+MIL-473,CON-114,Reporting and Remediation Recommendation,2025-06-16,8145.231666666667,On Hold,,,2025-06-01,2025-06-15
+MIL-474,CON-114,Remediation Validation and Retest,2025-06-19,8145.231666666667,Not Started,,,2025-06-01,2025-06-18
+MIL-475,CON-115,Scope Walkthrough,2025-05-10,7124.766666666666,Delayed,,,2025-05-08,2025-05-11
+MIL-476,CON-115,Reconnaissance and Intelligence Gathering,2025-05-12,7124.766666666666,Not Started,,,2025-05-08,2025-05-12
+MIL-477,CON-115,Vulnerability Analysis and Exploitation,2025-05-14,7124.766666666666,Not Started,,,2025-05-08,2025-05-13
+MIL-478,CON-115,Post Exploitation and Impact Assessment,2025-05-16,7124.766666666666,Not Started,,,2025-05-08,2025-05-15
+MIL-479,CON-115,Reporting and Remediation Recommendation,2025-05-18,7124.766666666666,Not Started,,,2025-05-08,2025-05-18
+MIL-480,CON-115,Remediation Validation and Retest,2025-05-20,7124.766666666666,Not Started,,,2025-05-08,2025-05-21
+MIL-481,CON-116,Scope Walkthrough,2025-03-21,7086.316666666667,Completed,2025-03-19,INV-481,2025-03-19,2025-03-19
+MIL-482,CON-116,Reconnaissance and Intelligence Gathering,2025-03-23,7086.316666666667,Completed,2025-03-21,INV-482,2025-03-19,2025-03-21
+MIL-483,CON-116,Vulnerability Analysis and Exploitation,2025-03-25,7086.316666666667,Completed,2025-03-24,INV-483,2025-03-19,2025-03-24
+MIL-484,CON-116,Post Exploitation and Impact Assessment,2025-03-27,7086.316666666667,Completed,2025-03-27,INV-484,2025-03-19,2025-03-27
+MIL-485,CON-116,Reporting and Remediation Recommendation,2025-03-29,7086.316666666667,Completed,2025-03-30,INV-485,2025-03-19,2025-03-30
+MIL-486,CON-116,Remediation Validation and Retest,2025-03-31,7086.316666666667,Completed,2025-04-02,INV-486,2025-03-19,2025-04-02
+MIL-487,CON-117,Scope Walkthrough,2025-01-13,4264.7266666666665,Cancelled,2025-01-15,INV-487,2025-01-11,2025-01-15
+MIL-488,CON-117,Reconnaissance and Intelligence Gathering,2025-01-15,4264.7266666666665,Cancelled,2025-01-14,INV-488,2025-01-11,2025-01-14
+MIL-489,CON-117,Vulnerability Analysis and Exploitation,2025-01-17,4264.7266666666665,Cancelled,2025-01-18,INV-489,2025-01-11,2025-01-18
+MIL-490,CON-117,Post Exploitation and Impact Assessment,2025-01-19,4264.7266666666665,Cancelled,2025-01-19,INV-490,2025-01-11,2025-01-19
+MIL-491,CON-117,Reporting and Remediation Recommendation,2025-01-21,4264.7266666666665,Cancelled,2025-01-21,INV-491,2025-01-11,2025-01-21
+MIL-492,CON-117,Remediation Validation and Retest,2025-01-23,4264.7266666666665,Cancelled,,,2025-01-11,2025-01-21
+MIL-493,CON-118,Scope Walkthrough,2025-05-20,2904.26,Completed,2025-05-21,INV-493,2025-05-18,2025-05-21
+MIL-494,CON-118,Reconnaissance and Intelligence Gathering,2025-05-22,2904.26,Completed,2025-05-21,INV-494,2025-05-18,2025-05-21
+MIL-495,CON-118,Vulnerability Analysis and Exploitation,2025-05-24,2904.26,Completed,2025-05-25,INV-495,2025-05-18,2025-05-25
+MIL-496,CON-118,Post Exploitation and Impact Assessment,2025-05-26,2904.26,Completed,2025-05-28,INV-496,2025-05-18,2025-05-28
+MIL-497,CON-118,Reporting and Remediation Recommendation,2025-05-28,2904.26,Completed,2025-05-30,INV-497,2025-05-18,2025-05-30
+MIL-498,CON-118,Remediation Validation and Retest,2025-05-30,2904.26,Completed,2025-05-28,INV-498,2025-05-18,2025-05-28
+MIL-499,CON-119,Scope Walkthrough,2025-06-27,7303.033333333333,Completed,2025-06-28,INV-499,2025-06-24,2025-06-28
+MIL-500,CON-119,Reconnaissance and Intelligence Gathering,2025-06-30,7303.033333333333,Completed,2025-07-01,INV-500,2025-06-24,2025-07-01
+MIL-501,CON-119,Vulnerability Analysis and Exploitation,2025-07-03,7303.033333333333,Delayed,,,2025-06-24,2025-07-05
+MIL-502,CON-119,Post Exploitation and Impact Assessment,2025-07-06,7303.033333333333,Not Started,,,2025-06-24,2025-07-05
+MIL-503,CON-119,Reporting and Remediation Recommendation,2025-07-09,7303.033333333333,Not Started,,,2025-06-24,2025-07-08
+MIL-504,CON-119,Remediation Validation and Retest,2025-07-12,7303.033333333333,Not Started,,,2025-06-24,2025-07-14
+MIL-505,CON-120,Scope Walkthrough,2025-03-15,7930.645,Completed,2025-03-15,INV-505,2025-03-13,2025-03-15
+MIL-506,CON-120,Reconnaissance and Intelligence Gathering,2025-03-17,7930.645,Completed,2025-03-15,INV-506,2025-03-13,2025-03-15
+MIL-507,CON-120,Vulnerability Analysis and Exploitation,2025-03-19,7930.645,Completed,2025-03-20,INV-507,2025-03-13,2025-03-20
+MIL-508,CON-120,Post Exploitation and Impact Assessment,2025-03-21,7930.645,Completed,2025-03-22,INV-508,2025-03-13,2025-03-22
+MIL-509,CON-120,Reporting and Remediation Recommendation,2025-03-23,7930.645,Completed,2025-03-22,INV-509,2025-03-13,2025-03-22
+MIL-510,CON-120,Remediation Validation and Retest,2025-03-25,7930.645,Completed,2025-03-23,INV-510,2025-03-13,2025-03-23
+MIL-511,CON-123,Scope Walkthrough,2025-07-28,8427.398333333333,Cancelled,2025-07-28,INV-511,2025-07-26,2025-07-28
+MIL-512,CON-123,Reconnaissance and Intelligence Gathering,2025-07-30,8427.398333333333,Cancelled,2025-07-28,INV-512,2025-07-26,2025-07-28
+MIL-513,CON-123,Vulnerability Analysis and Exploitation,2025-08-01,8427.398333333333,Cancelled,2025-08-02,INV-513,2025-07-26,2025-08-02
+MIL-514,CON-123,Post Exploitation and Impact Assessment,2025-08-03,8427.398333333333,Cancelled,,,2025-07-26,2025-08-02
+MIL-515,CON-123,Reporting and Remediation Recommendation,2025-08-05,8427.398333333333,Cancelled,,,2025-07-26,2025-08-06
+MIL-516,CON-123,Remediation Validation and Retest,2025-08-07,8427.398333333333,Cancelled,,,2025-07-26,2025-08-05
+MIL-517,CON-124,Scope Walkthrough,2025-05-02,8144.153333333333,Completed,2025-05-02,INV-517,2025-04-29,2025-05-02
+MIL-518,CON-124,Reconnaissance and Intelligence Gathering,2025-05-05,8144.153333333333,Completed,2025-05-03,INV-518,2025-04-29,2025-05-03
+MIL-519,CON-124,Vulnerability Analysis and Exploitation,2025-05-08,8144.153333333333,Completed,2025-05-08,INV-519,2025-04-29,2025-05-08
+MIL-520,CON-124,Post Exploitation and Impact Assessment,2025-05-11,8144.153333333333,On Hold,,,2025-04-29,2025-05-10
+MIL-521,CON-124,Reporting and Remediation Recommendation,2025-05-14,8144.153333333333,Not Started,,,2025-04-29,2025-05-14
+MIL-522,CON-124,Remediation Validation and Retest,2025-05-17,8144.153333333333,Not Started,,,2025-04-29,2025-05-15
+MIL-523,CON-125,Scope Walkthrough,2025-01-05,7782.575,Delayed,,,2025-01-03,2025-01-07
+MIL-524,CON-125,Reconnaissance and Intelligence Gathering,2025-01-07,7782.575,Not Started,,,2025-01-03,2025-01-06
+MIL-525,CON-125,Vulnerability Analysis and Exploitation,2025-01-09,7782.575,Not Started,,,2025-01-03,2025-01-10
+MIL-526,CON-125,Post Exploitation and Impact Assessment,2025-01-11,7782.575,Not Started,,,2025-01-03,2025-01-10
+MIL-527,CON-125,Reporting and Remediation Recommendation,2025-01-13,7782.575,Not Started,,,2025-01-03,2025-01-14
+MIL-528,CON-125,Remediation Validation and Retest,2025-01-15,7782.575,Not Started,,,2025-01-03,2025-01-17
+MIL-529,CON-126,Scope Walkthrough,2025-04-03,6547.311666666667,Completed,2025-04-01,INV-529,2025-04-01,2025-04-01
+MIL-530,CON-126,Reconnaissance and Intelligence Gathering,2025-04-05,6547.311666666667,Completed,2025-04-04,INV-530,2025-04-01,2025-04-04
+MIL-531,CON-126,Vulnerability Analysis and Exploitation,2025-04-07,6547.311666666667,Completed,2025-04-05,INV-531,2025-04-01,2025-04-05
+MIL-532,CON-126,Post Exploitation and Impact Assessment,2025-04-09,6547.311666666667,Completed,2025-04-07,INV-532,2025-04-01,2025-04-07
+MIL-533,CON-126,Reporting and Remediation Recommendation,2025-04-11,6547.311666666667,Completed,2025-04-09,INV-533,2025-04-01,2025-04-09
+MIL-534,CON-126,Remediation Validation and Retest,2025-04-13,6547.311666666667,Delayed,,,2025-04-01,2025-04-15
+MIL-535,CON-127,Scope Walkthrough,2025-02-25,5183.501666666666,Completed,2025-02-26,INV-535,2025-02-23,2025-02-26
+MIL-536,CON-127,Reconnaissance and Intelligence Gathering,2025-02-27,5183.501666666666,In Progress,,,2025-02-23,2025-02-27
+MIL-537,CON-127,Vulnerability Analysis and Exploitation,2025-03-01,5183.501666666666,Not Started,,,2025-02-23,2025-03-01
+MIL-538,CON-127,Post Exploitation and Impact Assessment,2025-03-03,5183.501666666666,Not Started,,,2025-02-23,2025-03-01
+MIL-539,CON-127,Reporting and Remediation Recommendation,2025-03-05,5183.501666666666,Not Started,,,2025-02-23,2025-03-07
+MIL-540,CON-127,Remediation Validation and Retest,2025-03-07,5183.501666666666,Not Started,,,2025-02-23,2025-03-07
+MIL-541,CON-129,Scope Walkthrough,2025-04-15,3466.9966666666664,Cancelled,2025-04-16,INV-541,2025-04-12,2025-04-16
+MIL-542,CON-129,Reconnaissance and Intelligence Gathering,2025-04-18,3466.9966666666664,Cancelled,,,2025-04-12,2025-04-16
+MIL-543,CON-129,Vulnerability Analysis and Exploitation,2025-04-21,3466.9966666666664,Cancelled,,,2025-04-12,2025-04-22
+MIL-544,CON-129,Post Exploitation and Impact Assessment,2025-04-24,3466.9966666666664,Cancelled,,,2025-04-12,2025-04-26
+MIL-545,CON-129,Reporting and Remediation Recommendation,2025-04-27,3466.9966666666664,Cancelled,,,2025-04-12,2025-04-28
+MIL-546,CON-129,Remediation Validation and Retest,2025-04-30,3466.9966666666664,Cancelled,,,2025-04-12,2025-05-01
+MIL-547,CON-130,Scope Walkthrough,2025-03-26,3280.3700000000003,In Progress,,,2025-03-24,2025-03-24
+MIL-548,CON-130,Reconnaissance and Intelligence Gathering,2025-03-28,3280.3700000000003,Not Started,,,2025-03-24,2025-03-27
+MIL-549,CON-130,Vulnerability Analysis and Exploitation,2025-03-30,3280.3700000000003,Not Started,,,2025-03-24,2025-03-30
+MIL-550,CON-130,Post Exploitation and Impact Assessment,2025-04-01,3280.3700000000003,Not Started,,,2025-03-24,2025-04-01
+MIL-551,CON-130,Reporting and Remediation Recommendation,2025-04-03,3280.3700000000003,Not Started,,,2025-03-24,2025-04-02
+MIL-552,CON-130,Remediation Validation and Retest,2025-04-05,3280.3700000000003,Not Started,,,2025-03-24,2025-04-06
+MIL-553,CON-131,Scope Walkthrough,2025-04-14,4107.038333333333,Completed,2025-04-12,INV-553,2025-04-11,2025-04-12
+MIL-554,CON-131,Reconnaissance and Intelligence Gathering,2025-04-17,4107.038333333333,Completed,2025-04-16,INV-554,2025-04-11,2025-04-16
+MIL-555,CON-131,Vulnerability Analysis and Exploitation,2025-04-20,4107.038333333333,Completed,2025-04-21,INV-555,2025-04-11,2025-04-21
+MIL-556,CON-131,Post Exploitation and Impact Assessment,2025-04-23,4107.038333333333,Completed,2025-04-23,INV-556,2025-04-11,2025-04-23
+MIL-557,CON-131,Reporting and Remediation Recommendation,2025-04-26,4107.038333333333,Completed,2025-04-27,INV-557,2025-04-11,2025-04-27
+MIL-558,CON-131,Remediation Validation and Retest,2025-04-29,4107.038333333333,In Progress,,,2025-04-11,2025-04-27
+MIL-559,CON-132,Scope Walkthrough,2025-04-02,3637.793333333333,Cancelled,2025-04-02,INV-559,2025-03-31,2025-04-02
+MIL-560,CON-132,Reconnaissance and Intelligence Gathering,2025-04-04,3637.793333333333,Cancelled,,,2025-03-31,2025-04-06
+MIL-561,CON-132,Vulnerability Analysis and Exploitation,2025-04-06,3637.793333333333,Cancelled,,,2025-03-31,2025-04-04
+MIL-562,CON-132,Post Exploitation and Impact Assessment,2025-04-08,3637.793333333333,Cancelled,,,2025-03-31,2025-04-07
+MIL-563,CON-132,Reporting and Remediation Recommendation,2025-04-10,3637.793333333333,Cancelled,,,2025-03-31,2025-04-12
+MIL-564,CON-132,Remediation Validation and Retest,2025-04-12,3637.793333333333,Cancelled,,,2025-03-31,2025-04-10
+MIL-565,CON-133,Scope Walkthrough,2025-01-11,2284.5833333333335,Completed,2025-01-09,INV-565,2025-01-09,2025-01-09
+MIL-566,CON-133,Reconnaissance and Intelligence Gathering,2025-01-13,2284.5833333333335,Completed,2025-01-14,INV-566,2025-01-09,2025-01-14
+MIL-567,CON-133,Vulnerability Analysis and Exploitation,2025-01-15,2284.5833333333335,Completed,2025-01-15,INV-567,2025-01-09,2025-01-15
+MIL-568,CON-133,Post Exploitation and Impact Assessment,2025-01-17,2284.5833333333335,Completed,2025-01-19,INV-568,2025-01-09,2025-01-19
+MIL-569,CON-133,Reporting and Remediation Recommendation,2025-01-19,2284.5833333333335,Delayed,,,2025-01-09,2025-01-20
+MIL-570,CON-133,Remediation Validation and Retest,2025-01-21,2284.5833333333335,Not Started,,,2025-01-09,2025-01-21
+MIL-571,CON-134,Scope Walkthrough,2025-04-08,2476.625,Cancelled,2025-04-06,INV-571,2025-04-05,2025-04-06
+MIL-572,CON-134,Reconnaissance and Intelligence Gathering,2025-04-11,2476.625,Cancelled,2025-04-10,INV-572,2025-04-05,2025-04-10
+MIL-573,CON-134,Vulnerability Analysis and Exploitation,2025-04-14,2476.625,Cancelled,2025-04-16,INV-573,2025-04-05,2025-04-16
+MIL-574,CON-134,Post Exploitation and Impact Assessment,2025-04-17,2476.625,Cancelled,2025-04-19,INV-574,2025-04-05,2025-04-19
+MIL-575,CON-134,Reporting and Remediation Recommendation,2025-04-20,2476.625,Cancelled,2025-04-18,INV-575,2025-04-05,2025-04-18
+MIL-576,CON-134,Remediation Validation and Retest,2025-04-23,2476.625,Cancelled,,,2025-04-05,2025-04-25
+MIL-577,CON-135,Scope Walkthrough,2025-02-21,6959.073333333334,Completed,2025-02-20,INV-577,2025-02-19,2025-02-20
+MIL-578,CON-135,Reconnaissance and Intelligence Gathering,2025-02-23,6959.073333333334,Completed,2025-02-25,INV-578,2025-02-19,2025-02-25
+MIL-579,CON-135,Vulnerability Analysis and Exploitation,2025-02-25,6959.073333333334,Completed,2025-02-25,INV-579,2025-02-19,2025-02-25
+MIL-580,CON-135,Post Exploitation and Impact Assessment,2025-02-27,6959.073333333334,Completed,2025-03-01,INV-580,2025-02-19,2025-03-01
+MIL-581,CON-135,Reporting and Remediation Recommendation,2025-03-01,6959.073333333334,Completed,2025-03-02,INV-581,2025-02-19,2025-03-02
+MIL-582,CON-135,Remediation Validation and Retest,2025-03-03,6959.073333333334,Completed,2025-03-04,INV-582,2025-02-19,2025-03-04
+MIL-583,CON-138,Scope Walkthrough,2025-08-26,4160.486666666667,Completed,2025-08-28,INV-583,2025-08-23,2025-08-28
+MIL-584,CON-138,Reconnaissance and Intelligence Gathering,2025-08-29,4160.486666666667,Completed,2025-08-29,INV-584,2025-08-23,2025-08-29
+MIL-585,CON-138,Vulnerability Analysis and Exploitation,2025-09-01,4160.486666666667,Completed,2025-09-03,INV-585,2025-08-23,2025-09-03
+MIL-586,CON-138,Post Exploitation and Impact Assessment,2025-09-04,4160.486666666667,Completed,2025-09-06,INV-586,2025-08-23,2025-09-06
+MIL-587,CON-138,Reporting and Remediation Recommendation,2025-09-07,4160.486666666667,Delayed,,,2025-08-23,2025-09-09
+MIL-588,CON-138,Remediation Validation and Retest,2025-09-10,4160.486666666667,Not Started,,,2025-08-23,2025-09-12
