@@ -31,6 +31,24 @@ This github repository is for storing datasets and code related to Project TROT 
 *   **AccountID:** E.g. "ACC-001". The ID of the account associated with the opportunity.
 *   **LeadID:** E.g. "LEAD-001". The ID of the lead that this opportunity originated from.
 *   **Stage:** E.g. "Discovery". The current stage of the opportunity in the sales pipeline. Scope: "Discovery", "Connected", "Follow up".
+    * **Discovery**: 
+        * Initial identification of a potential client's security testing needs
+        * Preliminary discussions to understand the client's infrastructure, compliance requirements, and security concerns
+        * Gathering basic information about their web applications, systems, or networks that need testing
+        * Identifying key stakeholders and decision-makers within the client organization
+    * **Connected**:
+        * Meaningful engagement established with decision-makers
+        * Detailed scoping discussions using OWASP-based methodologies
+        * Deeper technical discovery of the client's environment
+        * Alignment on testing objectives, compliance requirements (PCI DSS, HIPAA, etc.)
+        * Presentation of initial testing approach and methodology
+    * **Follow up**: 
+        * Development and presentation of formal testing proposals
+        * Refinement of scope based on client feedback
+        * Discussion of specific testing timelines and logistics
+        * Addressing any technical or business concerns
+        * Finalizing contract terms and testing parameters
+        * Coordinating pre-testing requirements and access credentials
 *   **Probability:** E.g. 30. The probability (as a percentage) of winning the opportunity. Scope: "30", "60", "90"
 *   **EstimatedValue:** E.g. 8,000.  The estimated monetary value of the opportunity. Scope: Between 8,000 to 60,000
 *   **ExpectedCloseDate:** E.g. "2025-06-30". The expected date when the opportunity is expected to close.
@@ -110,6 +128,26 @@ This github repository is for storing datasets and code related to Project TROT 
 * **MilestoneID:** E.g. "MIL-001". The ID of the milestone the invoice is related to (if applicable, otherwise blank).
 * **InvoiceNumber:** E.g. "INV2025-001". A unique number for the invoice.
 * **Status:** E.g. "Billed". The current status of the invoice. Scope: "Billed", "Cancelled", "Complete", "New".
+    * **Cancelled**: can be due to a variety of reasons, such as the following 
+        * **Material scope changes** 
+            * After invoice issuance, significant changes to the penetration testing scope may require cancellation and reissuance (e.g., additional test cases or attack vectors were added or removed)
+        * **Technical errors in the invoice** 
+            * Incorrect billing details such as:
+                * Wrong testing hours or rates
+                * Incorrect OWASP methodology references
+                * Errors in compliance framework citations (PCI DSS, HIPAA, etc.)
+                * Inaccurate description of delivered testing services
+        * **Client organizational changes**
+            * Changes on the client side such as:
+                * Corporate restructuring affecting billing entity
+                * Project ownership transfer between departments
+                * Updated purchase order requirements
+        * **Timing/scheduling changes**
+            * When testing engagements are rescheduled or delayed significantly after invoice issuance
+        * **Compliance and regulatory requirements** 
+            * The need to reflect specific regulatory language or compliance attestations not included in the original invoice
+        * **Contract renegotiation** 
+            * Terms of the penetration testing engagement were renegotiated after invoice issuance
 * **IssueDate:** E.g. "2025-02-28". The date the invoice was issued.
 * **DueDate:** E.g. "2025-03-30". The date the invoice is due.
 * **Amount:** E.g. 40000. The total amount of the invoice. Scope: ?
@@ -127,6 +165,12 @@ This github repository is for storing datasets and code related to Project TROT 
 * **WeekStartDate:** E.g. "2025-02-03". The start date of the week the timesheet covers.
 * **WeekEndDate:** E.g. "2025-02-09". The end date of the week the timesheet covers.
 * **Status:** E.g. "Approved". The current status of the timesheet. Scope: "Draft", "Submitted", "Approved", "Rejected", "Under Review", "Processed", "Finalised".
+    * **Draft**:  Initial creation of the timesheet with testing hours recorded
+    * **Submitted**: Timesheet sent for management review
+    * **Under Review**: Management actively reviewing timesheet entries
+    * **Approved / Rejected**: Decision on timesheet validity. If rejected, typically returns to Draft status for correction
+    * **Processed**:  Administrative handling of approved timesheets
+    * **Finalized**: Timesheet locked for billing/invoicing
 * **TotalHours:** E.g. 40. The total number of hours worked during the week. Scope: ?
 * **BillableHours:** E.g. 35. The number of billable hours worked during the week. Scope: ?
 * **NonBillableHours:** E.g. 5. The number of non-billable hours worked during the week. Scope: ?
