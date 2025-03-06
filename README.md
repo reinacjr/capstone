@@ -2,6 +2,20 @@
 
 This github repository is for storing datasets and code related to Project TROT for group 11.
 
+## ERD Diagram
+![image](https://github.com/user-attachments/assets/bc47384a-8f77-4ae5-9666-438a6a0951c1)
+
+## Status Relationships
+- Converted Leads becomes Opportunities
+- All Opportunities becomes Quotes
+- Cancelled Opportunities must have Rejected Quotes
+- Accepted Quotes become Contracts
+- Approved Contacts becomes Milestones & Project
+- Suspended / Completed / Expired Contract must have Cancelled Milestones & Inactive Project
+- Completed Contract must have Completed Milestones & Closed Project
+- Completed Milestones must have Completed Invoice for those with Payment Term 'As Per Contract milestone'
+- Closed Projects must have Finalized Timesheets 
+
 ## Data Dictionary for CRM Database
 
 **1. Leads Table**
@@ -17,12 +31,17 @@ This github repository is for storing datasets and code related to Project TROT 
 *   **Industry:** E.g. "Technology". The industry the lead's company operates in.
 *   **LeadSource:** E.g. "Website". How the lead was acquired (e.g., Website, Trade Show, Referral, LinkedIn, Email Campaign).
 *   **Status:** E.g. "Open". The current stage of the lead in the sales process. Scope: "Open", "Converted"
+    * **Open**: The lead has not created an opportunity with us.
+    * **Converted**: The lead has created an opportunity with us.
 *   **Rating:** E.g. "Hot".  A measure of the lead's potential value. Scope: "Hot", "Warm", "Cold".
 *   **EstimatedValue:** E.g. 30,000. The estimated monetary value of the potential deal. Scope: between 8,000 to 60,000
 *   **EstimatedCloseDate:** E.g. "2025-06-30". The estimated date when the deal is expected to close.
 *   **CreatedOn:** E.g. "2025-01-15". The date when the lead record was created.
 *   **ModifiedOn:** E.g. "2025-01-15". The date when the lead record was last modified.
 *   **OwnerID:** E.g. "USER-001". The ID of the user who owns the lead.
+
+suggestion: modified on and created on -> store the time as well, not just the date, so that we can 
+have a new status, and 'responded' after the lead's initial query has been responded to. 
 
 **2. Opportunities Table**
 
@@ -180,19 +199,28 @@ This github repository is for storing datasets and code related to Project TROT 
 * **CreatedOn:** E.g. "2025-02-09". The date when the timesheet record was created.
 * **ModifiedOn:** E.g. "2025-02-10". The date when the timesheet record was last modified.
 
-## ERD Diagram
-![image](https://github.com/user-attachments/assets/bc47384a-8f77-4ae5-9666-438a6a0951c1)
+**9. Accounts Table** -- leads who have already become customers?
 
-## Status Relationships
-- Converted Leads becomes Opportunities
-- All Opportunities becomes Quotes
-- Cancelled Opportunities must have Rejected Quotes
-- Accepted Quotes become Contracts
-- Approved Contacts becomes Milestones & Project
-- Suspended / Completed / Expired Contract must have Cancelled Milestones & Inactive Project
-- Completed Contract must have Completed Milestones & Closed Project
-- Completed Milestones must have Completed Invoice for those with Payment Term 'As Per Contract milestone'
-- Closed Projects must have Finalized Timesheets 
+* **Full Name:** E.g. "John Snow". The name of the account manager. 
+* **Email:** E.g. "JohnSnow@TechInc.com". The email of the account manager.
+* **Company Name:** E.g. "Tech Inc". The name of the company that the Account Manager is managing.
+* **Business Phone:** E.g. "+65 8123 4567". Business Phone Number of the company. Should include non-Singaporean numbeers
+* **Role:** 
+* **Website:**
+* **Created By:**
+* **Created On:**
+* **Decision Influence Labels:**
+* **Follow Email Activity:**
+* **Manager:**
+* **Originating Lead:**
+* **Owner:**
+* **Primary Time Zone:**
+* **Salutation:**
+* **Status:**
+* **Status Reason:**
+accounts id?
+
+
 
 
 
