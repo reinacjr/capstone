@@ -199,7 +199,7 @@ have a new status, and 'responded' after the lead's initial query has been respo
 * **CreatedOn:** E.g. "2025-02-09". The date when the timesheet record was created.
 * **ModifiedOn:** E.g. "2025-02-10". The date when the timesheet record was last modified.
 
-**9. Accounts Table** -- leads who have already become customers?
+**9. Accounts Table** -- leads who have already become customers (the clients)
 
 * **Full Name:** E.g. "John Snow". The name of the account manager. 
 * **Email:** E.g. "JohnSnow@TechInc.com". The email of the account manager.
@@ -209,16 +209,16 @@ have a new status, and 'responded' after the lead's initial query has been respo
 * **Website:**
 * **Created By:**
 * **Created On:**
-* **Decision Influence Labels:**
-* **Follow Email Activity:**
+* **Decision Influence Labels:** [no need]
+* **Follow Email Activity:** [no need]
 * **Manager:**
 * **Originating Lead:**
 * **Owner:**
-* **Primary Time Zone:**
-* **Salutation:**
-* **Status:**
+* **Primary Time Zone:** singapore
+* **Salutation:** need
+* **Status:** [given]
 * **Status Reason:**
-accounts id?
+* accounts id (create this, link to the rest)
 
 ## Data Dictionary for Planned Testcases Database
 
