@@ -344,3 +344,34 @@ accounts id?
 
 
 
+## Data Dictionary for Testing Dataset 
+
+**Planned Test Cases Table**
+**TestCaseID: E.g. "TC-001". A unique identifier for each test case.**
+**TestName: E.g. "SQL Injection Test". Name or short description of the test case.**
+**TestCategory: E.g. "Security". Category of the test (e.g., "Security", "Functional", "Performance").**
+**PlannedExecutionDate: E.g. "2025-02-20". The scheduled execution date of the test case..**
+**ActualExecutionDate: E.g. "2025-02-21". The actual date the test was executed..**
+**ExecutionTime (mins): E.g. "45". Duration in minutes for test execution.**
+**ExecutedBy: E.g. "User-001". Name or ID of the tester who executed the test.**
+**TestStatus: E.g. "Passed". Status of the test case (e.g., "Passed", "Failed", "Blocked", "In Progress")..**
+**DefectsFound: E.g. "2". Number of defects identified during test execution..**
+**CriticalDefects: E.g. "1". Number of critical vulnerabilities discovered..**
+**RetestRequired: E.g. "Yes". Indicator of whether a retest is necessary (Yes/No).**
+**FindingsDocumented: E.g. "2025-02-21 14:30". Timestamp when findings were documented.**
+**FirstSubmissionTime: E.g. "2 hours". Time taken to submit initial findings post-test completion..**
+**TestCoverageScope: E.g. "100%". Scope of test coverage (e.g., "95%" of total items tested).**
+**TestEnvironment: E.g. "Staging". The environment in which the test was executed (e.g., "Staging", "Production").**
+**FindingSeverity: E.g. "Critical". Severity classification of findings (e.g., "Low", "Medium", "High", "Critical").**
+
+**Test Execution Logs Table**
+**LogID: E.g. "LOG-001". A unique identifier for each test execution log.**
+**TestCaseID: E.g. "TC-001". Associated test case ID.**
+**ExecutionStartTime: E.g. "2025-02-21 10:00". Timestamp of when the test started.**
+**ExecutionEndTime: E.g. "2025-02-21 10:45". Timestamp of when the test ended.**
+**ExecutionOutcome: E.g. "Fail". Pass/Fail status of the test case.**
+**DefectIDs: E.g. "DEF-101, DEF-102". List of defect IDs identified during the test.**
+**CriticalDefectFlag: E.g. "Yes". Indicates if a critical defect was found (Yes/No).**
+**InitialFindingsSubmitted: E.g. "2025-02-21 12:30". Timestamp when initial findings were first submitted.**
+**EscalationRequired: E.g. "No". If the issue required escalation (Yes/No).**
+**NotificationTime (mins): E.g. "45". Time taken to notify stakeholders of critical findings.**
