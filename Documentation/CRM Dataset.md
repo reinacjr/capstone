@@ -1,4 +1,4 @@
-## ERD Diagram
+## CRM ERD Diagram
 ![image](https://github.com/user-attachments/assets/bc47384a-8f77-4ae5-9666-438a6a0951c1)
 
 ## Status Relationships
