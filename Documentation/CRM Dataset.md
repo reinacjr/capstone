@@ -1,8 +1,4 @@
-# Introduction
-
-This github repository is for storing datasets and code related to Project TROT for group 11.
-
-## ERD Diagram
+## CRM ERD Diagram
 ![image](https://github.com/user-attachments/assets/bc47384a-8f77-4ae5-9666-438a6a0951c1)
 
 ## Status Relationships
@@ -199,7 +195,7 @@ have a new status, and 'responded' after the lead's initial query has been respo
 * **CreatedOn:** E.g. "2025-02-09". The date when the timesheet record was created.
 * **ModifiedOn:** E.g. "2025-02-10". The date when the timesheet record was last modified.
 
-**9. Accounts Table** -- leads who have already become customers?
+**9. Accounts Table** -- leads who have already become customers (the clients)
 
 * **Full Name:** E.g. "John Snow". The name of the account manager. 
 * **Email:** E.g. "JohnSnow@TechInc.com". The email of the account manager.
@@ -209,15 +205,16 @@ have a new status, and 'responded' after the lead's initial query has been respo
 * **Website:**
 * **Created By:**
 * **Created On:**
-* **Decision Influence Labels:**
-* **Follow Email Activity:**
+* **Decision Influence Labels:** [no need]
+* **Follow Email Activity:** [no need]
 * **Manager:**
 * **Originating Lead:**
 * **Owner:**
-* **Primary Time Zone:**
-* **Salutation:**
-* **Status:**
+* **Primary Time Zone:** singapore
+* **Salutation:** need
+* **Status:** [given]
 * **Status Reason:**
+<<<<<<< HEAD:README.md
 accounts id?
 
 ## Data Dictionary for Planned Testcases Database
@@ -375,3 +372,6 @@ accounts id?
 **InitialFindingsSubmitted: E.g. "2025-02-21 12:30". Timestamp when initial findings were first submitted.**
 **EscalationRequired: E.g. "No". If the issue required escalation (Yes/No).**
 **NotificationTime (mins): E.g. "45". Time taken to notify stakeholders of critical findings.**
+=======
+* accounts id (create this, link to the rest)
+>>>>>>> main:Documentation/CRM Dataset.md
