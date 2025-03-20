@@ -214,4 +214,164 @@ have a new status, and 'responded' after the lead's initial query has been respo
 * **Salutation:** need
 * **Status:** [given]
 * **Status Reason:**
+<<<<<<< HEAD:README.md
+accounts id?
+
+## Data Dictionary for Planned Testcases Database
+
+* **OWASP_WSTG_CATEGORIES:** E.g. "InformationGathering": "WSTG-IGV-01". OWASP categories
+* **MITRE_TECHNIQUES:** E.g. "T1190": "Exploit Public-Facing Application". Mitre techniques used
+* **COMPLIANCE_FRAMEWORKS:** E.g. "CREST Penetration Testing". Compliance frameworks
+* **CVSS_SCORES:** E.g. "Critical": "9.8 - CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H". CVSS Scores. 
+* **TestID:** E.g. "APPSEC-001". Listed in 3 digits, in running order of tests.
+* **ProjectID:** E.g. "PRJ-001". ProjectID that this planned testing is linked to.
+* **TesterID:** E.g. "XXX-001". TesterID of the person that is running the tests. 
+* **DaysAllocated:** E.g. "30" The number of days allocated to run the tests. Scope: 1 to 30 days. 
+* **:**
+* **:**
+* **:**
+* **:**
+* **:**
+* **:**
+* **:**
+* **:**
+* **:**
+* **:**
+* **:**
+* **:**
+* **:**
+* **:**
+* **:**
+* **:**
+
+## Key Performance Indicators (KPIs)
+
+1. **Sales & Initial Engagement Phase**
+    * Lead Response Time: 
+    Target < 4 hours for initial client contact
+
+    * Technical Assessment Completion Rate: 95% within 48 hours of initial contact
+
+    * Scoping Accuracy Rate: < 10% scope change after initial technical assessment
+
+    * Technical Query Response Time: < 2 hours during business hours
+
+    * Win Rate: > 40% of qualified opportunities
+
+    * SOW Turnaround Time: < 3 business days from requirements confirmation
+
+2. **Pre-Sales Technical Phase**
+
+    * Technical Documentation Completeness Score: > 90% of required details captured in first assessment
+
+    * Risk Assessment Accuracy: < 5% deviation between assessed and actual project risks
+
+    * Resource Estimation Accuracy: < 15% deviation from estimated to actual resource requirements
+
+    * Technical Query Resolution Rate: > 95% resolved without escalation
+
+    * Environment Compatibility Assessment: > 98% accuracy in technical feasibility assessment
+
+3. **Project Setup Phase**
+
+    * Technical Handover Completion Rate: 100% documentation transfer within 24 hours of contract signing
+
+    * Access Credential Processing Time: < 1 business day from receipt
+
+    * Technical Questionnaire Completion Rate: > 90% first-time completion without follow-up
+
+    * Testing Team Assignment Speed: < 2 business days from project initiation
+
+4. **Testing Execution Phase**
+    * Testing Timeline Adherence: > 90% of projects completed within scheduled timeframe
+
+    * Finding Documentation Rate: 100% of findings documented within 24 hours of discovery
+
+    * Initial Findings Submission: < 24 hours after test completion
+
+    * Test Coverage Rate: 100% of agreed scope items tested
+    
+    * Critical Finding Notification Time: < 1 hour for critical vulnerabilities
+
+5. **Quality Assurance Phase**
+    * First-Time Quality Pass Rate: > 85% of reports pass QA on first review
+
+    * QA Turnaround Time: < 2 business days for initial review
+
+    * Report Revision Cycles: Average < 1.5 rounds of revision
+
+    * Technical Accuracy Rate: > 99% accuracy in technical findings
+
+    * Client Feedback Implementation: 100% of valid client feedback addressed
+
+6. **Project Closure Phase**
+    * Final Report Delivery: 100% on-time delivery as per SOW
+    
+    * Client Satisfaction Score: > 4.5/5 average rating
+    
+    * Technical Debrief Completion Rate: 100% of projects include technical debrief
+
+    * Remediation Clarity Score: > 90% of findings include clear, actionable remediation steps
+
+    * Post-Project Documentation Completeness: 100% of project artifacts properly archived
+
+7. Overall Process KPIs
+    * Project Profitability: > 30% margin per project
+    
+    * Client Retention Rate: > 85% annual retention
+    
+    * Average Time to Close: < 45 days from initial contact to contract signing
+
+    * Repeat Business Rate: > 50% of clients return within 12 months
+
+    * Reference Ability Rate: > 90% of completed projects willing to serve as reference
+
+
+* These KPIs should be reviewed monthly and adjusted based on:
+
+    * Industry standards evolution
+
+    * Client feedback trends
+
+    * Internal process improvements
+
+    * Team capacity and capabilities
+
+    * Market demands and competition
+
+
+
+## Data Dictionary for Testing Dataset 
+
+**Planned Test Cases Table**
+**TestCaseID: E.g. "TC-001". A unique identifier for each test case.**
+**TestName: E.g. "SQL Injection Test". Name or short description of the test case.**
+**TestCategory: E.g. "Security". Category of the test (e.g., "Security", "Functional", "Performance").**
+**PlannedExecutionDate: E.g. "2025-02-20". The scheduled execution date of the test case..**
+**ActualExecutionDate: E.g. "2025-02-21". The actual date the test was executed..**
+**ExecutionTime (mins): E.g. "45". Duration in minutes for test execution.**
+**ExecutedBy: E.g. "User-001". Name or ID of the tester who executed the test.**
+**TestStatus: E.g. "Passed". Status of the test case (e.g., "Passed", "Failed", "Blocked", "In Progress")..**
+**DefectsFound: E.g. "2". Number of defects identified during test execution..**
+**CriticalDefects: E.g. "1". Number of critical vulnerabilities discovered..**
+**RetestRequired: E.g. "Yes". Indicator of whether a retest is necessary (Yes/No).**
+**FindingsDocumented: E.g. "2025-02-21 14:30". Timestamp when findings were documented.**
+**FirstSubmissionTime: E.g. "2 hours". Time taken to submit initial findings post-test completion..**
+**TestCoverageScope: E.g. "100%". Scope of test coverage (e.g., "95%" of total items tested).**
+**TestEnvironment: E.g. "Staging". The environment in which the test was executed (e.g., "Staging", "Production").**
+**FindingSeverity: E.g. "Critical". Severity classification of findings (e.g., "Low", "Medium", "High", "Critical").**
+
+**Test Execution Logs Table**
+**LogID: E.g. "LOG-001". A unique identifier for each test execution log.**
+**TestCaseID: E.g. "TC-001". Associated test case ID.**
+**ExecutionStartTime: E.g. "2025-02-21 10:00". Timestamp of when the test started.**
+**ExecutionEndTime: E.g. "2025-02-21 10:45". Timestamp of when the test ended.**
+**ExecutionOutcome: E.g. "Fail". Pass/Fail status of the test case.**
+**DefectIDs: E.g. "DEF-101, DEF-102". List of defect IDs identified during the test.**
+**CriticalDefectFlag: E.g. "Yes". Indicates if a critical defect was found (Yes/No).**
+**InitialFindingsSubmitted: E.g. "2025-02-21 12:30". Timestamp when initial findings were first submitted.**
+**EscalationRequired: E.g. "No". If the issue required escalation (Yes/No).**
+**NotificationTime (mins): E.g. "45". Time taken to notify stakeholders of critical findings.**
+=======
 * accounts id (create this, link to the rest)
+>>>>>>> main:Documentation/CRM Dataset.md
