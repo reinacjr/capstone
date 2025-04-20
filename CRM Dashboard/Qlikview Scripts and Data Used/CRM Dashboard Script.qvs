@@ -1,0 +1,158 @@
+﻿///$tab Main
+SET ThousandSep=',';
+SET DecimalSep='.';
+SET MoneyThousandSep=',';
+SET MoneyDecimalSep='.';
+SET MoneyFormat='$#,##0.00;-$#,##0.00';
+SET TimeFormat='h:mm:ss TT';
+SET DateFormat='D/M/YYYY';
+SET TimestampFormat='D/M/YYYY h:mm:ss[.fff] TT';
+SET FirstWeekDay=6;
+SET BrokenWeeks=1;
+SET ReferenceDay=0;
+SET FirstMonthOfYear=1;
+SET CollationLocale='en-SG';
+SET MonthNames='Jan;Feb;Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov;Dec';
+SET LongMonthNames='January;February;March;April;May;June;July;August;September;October;November;December';
+SET DayNames='Mon;Tue;Wed;Thu;Fri;Sat;Sun';
+SET LongDayNames='Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday';
+
+LOAD LeadID, 
+     LeadTopic, 
+     FirstName, 
+     LastName, 
+     JobTitle, 
+     CompanyName, 
+     Email, 
+     Phone, 
+     Industry, 
+     LeadSource, 
+     LeadStatus, 
+     LeadRating, 
+     LeadEstimatedValue, 
+     LeadEstimatedCloseDate, 
+     LeadCreatedOn, 
+     LeadModifiedOn, 
+     OwnerID
+FROM
+[C:\Users\reina\Documents\NUS BZA\BZA Year 2 Sem 2\BT4103 Business Analytics Capstone Project\Datasets\Generated Dataset\leads_data.xlsx]
+(ooxml, embedded labels, table is leads_data);
+
+LOAD OpportunityID, 
+     OppName, 
+     AccountID, 
+     LeadID, 
+     OppStage, 
+     Probability, 
+     OppEstimatedValue, 
+     OppExpectedCloseDate, 
+     ActualCloseDate, 
+     OppStatus, 
+     OppDescription, 
+     OwnerID, 
+     OppCreatedOn, 
+     OppModifiedOn
+FROM
+[C:\Users\reina\Documents\NUS BZA\BZA Year 2 Sem 2\BT4103 Business Analytics Capstone Project\Datasets\Generated Dataset\opportunities_data.xlsx]
+(ooxml, embedded labels, table is opportunities_data);
+
+LOAD QuoteID, 
+     OpportunityID, 
+     QuoteName, 
+     AccountID, 
+     QuoteNumber, 
+     QuoteStatus, 
+     ValidFrom, 
+     ValidTo, 
+     QuoteTotalAmount, 
+     DiscountPercentage, 
+     DiscountAmount, 
+     FinalAmount, 
+     QuoteDescription, 
+     QuoteCreatedOn, 
+     QuoteModifiedOn
+FROM
+[C:\Users\reina\Documents\NUS BZA\BZA Year 2 Sem 2\BT4103 Business Analytics Capstone Project\Datasets\Generated Dataset\quotes_data.xlsx]
+(ooxml, embedded labels, table is quotes_data);
+
+LOAD ContractID, 
+     QuoteID, 
+     AccountID, 
+     ContractNumber, 
+     ContractName, 
+     ContractStatus, 
+     ContractStartDate, 
+     ContractEndDate, 
+     ContractTotalValue, 
+     BillingFrequency, 
+     PaymentTerms, 
+     ContractCreatedOn, 
+     ContractModifiedOn
+FROM
+[C:\Users\reina\Documents\NUS BZA\BZA Year 2 Sem 2\BT4103 Business Analytics Capstone Project\Datasets\Generated Dataset\contracts_data.xlsx]
+(ooxml, embedded labels, table is contracts_data);
+
+LOAD MilestoneID, 
+     ContractID, 
+     MilestoneName, 
+     MilestoneDueDate, 
+     MilestoneAmount, 
+     MilestoneStatus, 
+     CompletionDate, 
+     InvoiceID, 
+     MilestoneCreatedOn, 
+     MilestoneModifiedOn
+FROM
+[C:\Users\reina\Documents\NUS BZA\BZA Year 2 Sem 2\BT4103 Business Analytics Capstone Project\Datasets\Generated Dataset\milestones_data.xlsx]
+(ooxml, embedded labels, table is milestones_data);
+
+LOAD ProjectID, 
+     ContractID, 
+     ProjectName, 
+     ProjectStartDate, 
+     ProjectEndDate, 
+     ProjectStatus, 
+     ProjectManager, 
+     Budget, 
+     ActualCost, 
+     Progress, 
+     Risk, 
+     ProjectCreatedOn, 
+     ProjectModifiedOn
+FROM
+[C:\Users\reina\Documents\NUS BZA\BZA Year 2 Sem 2\BT4103 Business Analytics Capstone Project\Datasets\Generated Dataset\projects_data.xlsx]
+(ooxml, embedded labels, table is projects_data);
+
+LOAD InvoiceID, 
+     ContractID, 
+     MilestoneID, 
+     InvoiceNumber, 
+     InvoiceName, 
+     InvoiceStatus, 
+     IssueDate, 
+     InvoiceDueDate, 
+     InvoiceAmount, 
+     PaidAmount, 
+     PaidDate, 
+     InvoiceCreatedOn, 
+     InvoiceModifiedOn
+FROM
+[C:\Users\reina\Documents\NUS BZA\BZA Year 2 Sem 2\BT4103 Business Analytics Capstone Project\Datasets\Generated Dataset\invoices_data.xlsx]
+(ooxml, embedded labels, table is invoices_data);
+
+LOAD TimesheetID, 
+     ProjectID, 
+     EmployeeID, 
+     WeekStartDate, 
+     WeekEndDate, 
+     TimesheetStatus, 
+     TotalHours, 
+     BillableHours, 
+     NonBillableHours, 
+     ApprovedBy, 
+     ApprovalDate, 
+     TimesheetCreatedOn, 
+     TimesheetModifiedOn
+FROM
+[C:\Users\reina\Documents\NUS BZA\BZA Year 2 Sem 2\BT4103 Business Analytics Capstone Project\Datasets\Generated Dataset\timesheets_data.xlsx]
+(ooxml, embedded labels, table is timesheets_data);
