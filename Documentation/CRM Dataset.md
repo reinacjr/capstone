@@ -103,8 +103,7 @@ have a new status, and 'responded' after the lead's initial query has been respo
 *   **EndDate:** E.g. "2026-01-31". The end date of the contract.
 *   **TotalValue:** E.g. 200000. The total value of the contract.
 *   **BillingFrequency:** E.g. "Monthly". How often the contract is billed. Scope: "Monthly", "Quarterly", "Annually", "As Per Contract Milestones".
-*   **PaymentTerms:** E.g. "Net 30". The payment terms of the contract. Scope: "Net 30", "Net 60", "Net 90".
-*   **Description:** E.g. "remediation validation and retest". A description of the contract.
+*   **PaymentTerms:** E.g. "Net 30". The payment terms of the contract. Scope: "Net 30", "Net 60", "Net 90". 
 *   **CreatedOn:** E.g. "2025-02-01". The date when the contract record was created.
 *   **ModifiedOn:** E.g. "2025-02-01". The date when the contract record was last modified.
 
@@ -113,7 +112,6 @@ have a new status, and 'responded' after the lead's initial query has been respo
 *   **MilestoneID:** E.g. "MIL-001". Listed in 3 digits, in running order of milestones.
 *   **ContractID:** E.g. "CON-001". The ID of the contract the milestone belongs to.
 *   **Name:** E.g. "Initial Assessment". The name of the milestone.
-*   **Description:** E.g. "Security infrastructure assessment completion". A description of the milestone.
 *   **DueDate:** E.g. "2025-03-01". The date the milestone is due.
 *   **Amount:** E.g. 40000. The amount associated with the milestone.
 *   **Status:** E.g. "Completed". The current status of the milestone. Scope: "Planned", "In Progress", "Completed", "Delayed".
@@ -124,7 +122,6 @@ have a new status, and 'responded' after the lead's initial query has been respo
 * **ProjectID:** E.g. "PRJ-001". Listed in 3 digits, in running order of projects.
 * **ContractID:** E.g. "CON-001". The ID of the contract this project is associated with.
 * **Name:** E.g. "Security Audit 2025". The name of the project.
-* **Description:** E.g. "Comprehensive security audit project". A description of the project.
 * **StartDate:** E.g. "2025-02-01". The start date of the project.
 * **EndDate:** E.g. "2025-05-01". The end date of the project.
 * **Status:** E.g. "Active". The current status of the project. Scope: "Active", "Closed", "Inactive".
@@ -168,7 +165,6 @@ have a new status, and 'responded' after the lead's initial query has been respo
 * **Amount:** E.g. 40000. The total amount of the invoice. Scope: ?
 * **PaidAmount:** E.g. 40000. The amount paid on the invoice. Scope: ? 
 * **PaidDate:** E.g. "2025-03-25". The date the invoice was paid (blank if not paid).
-* **Description:** E.g. "Initial security assessment milestone". A description of the invoice.
 * **CreatedOn:** E.g. "2025-02-28". The date when the invoice record was created.
 * **ModifiedOn:** E.g. "2025-03-25". The date when the invoice record was last modified.
 
@@ -217,32 +213,6 @@ have a new status, and 'responded' after the lead's initial query has been respo
 <<<<<<< HEAD:README.md
 accounts id?
 
-## Data Dictionary for Planned Testcases Database
-
-* **OWASP_WSTG_CATEGORIES:** E.g. "InformationGathering": "WSTG-IGV-01". OWASP categories
-* **MITRE_TECHNIQUES:** E.g. "T1190": "Exploit Public-Facing Application". Mitre techniques used
-* **COMPLIANCE_FRAMEWORKS:** E.g. "CREST Penetration Testing". Compliance frameworks
-* **CVSS_SCORES:** E.g. "Critical": "9.8 - CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H". CVSS Scores. 
-* **TestID:** E.g. "APPSEC-001". Listed in 3 digits, in running order of tests.
-* **ProjectID:** E.g. "PRJ-001". ProjectID that this planned testing is linked to.
-* **TesterID:** E.g. "XXX-001". TesterID of the person that is running the tests. 
-* **DaysAllocated:** E.g. "30" The number of days allocated to run the tests. Scope: 1 to 30 days. 
-* **:**
-* **:**
-* **:**
-* **:**
-* **:**
-* **:**
-* **:**
-* **:**
-* **:**
-* **:**
-* **:**
-* **:**
-* **:**
-* **:**
-* **:**
-* **:**
 
 ## Key Performance Indicators (KPIs)
 
@@ -339,39 +309,69 @@ accounts id?
 
     * Market demands and competition
 
+## Suggested Changes to Data Fields
 
+1. **Leads** 
+* Topic -> LeadTopic
+* Status -> LeadStatus
+* Rating -> LeadRating
+* EstimatedValue -> LeadEstimatedValue
+* EstimatedCloseDate -> LeadEstimatedCloseDate
+* CreatedOn -> LeadCreatedOn
+* ModifiedOn -> LeadModifiedOn
 
-## Data Dictionary for Testing Dataset 
+2. **Opportunities**
+* Name -> OppName
+* Stage -> OppStage
+* EstimatedValue -> OppEstimatedValue
+* ExpectedCloseDate -> OppExpectedCloseDate
+* Status -> OppStatus
+* Description -> OppDescription
+* CreatedOn -> OppCreatedOn
+* ModifiedOn -> OppModifiedOn
 
-**Planned Test Cases Table**
-**TestCaseID: E.g. "TC-001". A unique identifier for each test case.**
-**TestName: E.g. "SQL Injection Test". Name or short description of the test case.**
-**TestCategory: E.g. "Security". Category of the test (e.g., "Security", "Functional", "Performance").**
-**PlannedExecutionDate: E.g. "2025-02-20". The scheduled execution date of the test case..**
-**ActualExecutionDate: E.g. "2025-02-21". The actual date the test was executed..**
-**ExecutionTime (mins): E.g. "45". Duration in minutes for test execution.**
-**ExecutedBy: E.g. "User-001". Name or ID of the tester who executed the test.**
-**TestStatus: E.g. "Passed". Status of the test case (e.g., "Passed", "Failed", "Blocked", "In Progress")..**
-**DefectsFound: E.g. "2". Number of defects identified during test execution..**
-**CriticalDefects: E.g. "1". Number of critical vulnerabilities discovered..**
-**RetestRequired: E.g. "Yes". Indicator of whether a retest is necessary (Yes/No).**
-**FindingsDocumented: E.g. "2025-02-21 14:30". Timestamp when findings were documented.**
-**FirstSubmissionTime: E.g. "2 hours". Time taken to submit initial findings post-test completion..**
-**TestCoverageScope: E.g. "100%". Scope of test coverage (e.g., "95%" of total items tested).**
-**TestEnvironment: E.g. "Staging". The environment in which the test was executed (e.g., "Staging", "Production").**
-**FindingSeverity: E.g. "Critical". Severity classification of findings (e.g., "Low", "Medium", "High", "Critical").**
+3. **Quotes**
+* Name -> QuoteName
+* Status -> QuoteStatus
+* TotalAmount -> QuoteTotalAmount
+* Description -> QuoteDescription
+* CreatedOn -> QuoteCreatedOn
+* ModifiedOn -> QuoteModifiedOn
 
-**Test Execution Logs Table**
-**LogID: E.g. "LOG-001". A unique identifier for each test execution log.**
-**TestCaseID: E.g. "TC-001". Associated test case ID.**
-**ExecutionStartTime: E.g. "2025-02-21 10:00". Timestamp of when the test started.**
-**ExecutionEndTime: E.g. "2025-02-21 10:45". Timestamp of when the test ended.**
-**ExecutionOutcome: E.g. "Fail". Pass/Fail status of the test case.**
-**DefectIDs: E.g. "DEF-101, DEF-102". List of defect IDs identified during the test.**
-**CriticalDefectFlag: E.g. "Yes". Indicates if a critical defect was found (Yes/No).**
-**InitialFindingsSubmitted: E.g. "2025-02-21 12:30". Timestamp when initial findings were first submitted.**
-**EscalationRequired: E.g. "No". If the issue required escalation (Yes/No).**
-**NotificationTime (mins): E.g. "45". Time taken to notify stakeholders of critical findings.**
-=======
-* accounts id (create this, link to the rest)
->>>>>>> main:Documentation/CRM Dataset.md
+4. **Contracts**
+* Name -> ContractName
+* Status -> ContractStatus
+* StartDate -> ContractStartDate
+* EndDate -> ContractEndDate
+* TotalValue -> ContractTotalValue
+* CreatedOn -> ContractCreatedOn
+* ModifiedOn -> ContractModifiedOn
+
+5. **Milestones**
+* Name -> MilestoneName
+* DueDate -> MilestoneDueDate
+* Amount -> MilestoneAmount
+* Status -> MilestoneStatus
+* CreatedOn -> MilestoneCreatedOn
+* ModifiedOn -> MilestoneModifiedOn
+
+6. **Projects**
+* Name -> ProjectName
+* StartDate -> ProjectStartDate
+* EndDate -> ProjectEndDate
+* Status -> ProjectStatus
+* CreatedOn -> ProjectCreatedOn
+* ModifiedOn -> ProjectModifiedOn
+
+7. **Invoices**
+* Name -> InvoiceName
+* Status -> InvoiceStatus
+* DueDate -> InvoiceDueDate
+* Amount -> InvoiceAmount
+* CreatedOn -> InvoiceCreatedOn
+* ModifiedOn -> InvoiceModifiedOn
+
+8. **Timesheets**
+* Status -> TimesheetStatus
+* CreatedOn -> TimesheetCreatedOn
+* ModifiedOn -> TimesheetModifiedOn
