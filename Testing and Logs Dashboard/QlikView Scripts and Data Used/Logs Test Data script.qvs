@@ -1,0 +1,42 @@
+﻿///$tab Main
+SET ThousandSep=',';
+SET DecimalSep='.';
+SET MoneyThousandSep=',';
+SET MoneyDecimalSep='.';
+SET MoneyFormat='RM#,##0.00;-RM#,##0.00';
+SET TimeFormat='h:mm:ss TT';
+SET DateFormat='DD/MM/YYYY';
+SET TimestampFormat='DD/MM/YYYY h:mm:ss[.fff] TT';
+SET FirstWeekDay=0;
+SET BrokenWeeks=1;
+SET ReferenceDay=0;
+SET FirstMonthOfYear=1;
+SET CollationLocale='en-MY';
+SET MonthNames='Jan;Feb;Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov;Dec';
+SET LongMonthNames='January;February;March;April;May;June;July;August;September;October;November;December';
+SET DayNames='Mon;Tue;Wed;Thu;Fri;Sat;Sun';
+SET LongDayNames='Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday';
+
+LOAD Deadline, 
+     [Date of Test Executed], 
+     [Project ID], 
+     [Project Name], 
+     [User ID], 
+     [User Agent], 
+     [Testing Scope], 
+     [Test Case ID], 
+     [Test Case], 
+     [Test Case Status], 
+     [Request Method], 
+     [Requested Source], 
+     [Test Case Outcome Message], 
+     [Error Message], 
+     [Actual Test Case Outcome], 
+     [Reason for failure/success], 
+     [Response Size], 
+     [Findings (Affected Components)], 
+     [Severity ratings],
+     IF([Date of Test Executed] <= [Deadline], 'On Time', 'Delayed') AS Ontime
+FROM
+[C:\NUS Y3S2\BT4103\Dashboard\logs_system_output_modified.xlsx]
+(ooxml, embedded labels);
