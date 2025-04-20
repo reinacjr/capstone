@@ -1,7 +1,5 @@
 ## Data Dictionary for Planned Testcases Database
 
-## Data Dictionary for Planned Testcases Database
-
 ### **ProjectID**
 - **Example**: `"PRJ-082"`
 - **Description**: A unique identifier for each project being tested.
