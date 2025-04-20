@@ -191,29 +191,6 @@ have a new status, and 'responded' after the lead's initial query has been respo
 * **CreatedOn:** E.g. "2025-02-09". The date when the timesheet record was created.
 * **ModifiedOn:** E.g. "2025-02-10". The date when the timesheet record was last modified.
 
-**9. Accounts Table** -- leads who have already become customers (the clients)
-
-* **Full Name:** E.g. "John Snow". The name of the account manager. 
-* **Email:** E.g. "JohnSnow@TechInc.com". The email of the account manager.
-* **Company Name:** E.g. "Tech Inc". The name of the company that the Account Manager is managing.
-* **Business Phone:** E.g. "+65 8123 4567". Business Phone Number of the company. Should include non-Singaporean numbeers
-* **Role:** 
-* **Website:**
-* **Created By:**
-* **Created On:**
-* **Decision Influence Labels:** [no need]
-* **Follow Email Activity:** [no need]
-* **Manager:**
-* **Originating Lead:**
-* **Owner:**
-* **Primary Time Zone:** singapore
-* **Salutation:** need
-* **Status:** [given]
-* **Status Reason:**
-<<<<<<< HEAD:README.md
-accounts id?
-
-
 ## Key Performance Indicators (KPIs)
 
 1. **Sales & Initial Engagement Phase**
